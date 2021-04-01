@@ -1,0 +1,123 @@
+.banner {
+    background-color: #a5cef0;
+    width: 100%;
+    height: 650px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.banner .kid{
+}
+
+.banner .kid img {
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.banner .kid {
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+}
+
+.banner .kid .circle {
+    width: 630px;
+    height: 630px;
+    border-radius: 100%;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+.banner .kid .circle-small {
+
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: #eecdd0;
+    position: absolute;
+    top: 280px;
+    right: 50px;
+}
+
+.banner .kid .circle-middle {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: #84a4d6;
+    position: absolute;
+    top: 50px;
+    right: 40px;
+}
+
+.banner .kid .circle-corner {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: #9ac49a;
+    position: absolute;
+    top: -80px;
+    left: -80px;
+    overflow: hidden;
+
+}
+
+.banner .banner-article {
+    text-align: left;
+    position: absolute;
+    top: 140px;
+    color: white;
+    left: 90px;
+}
+
+.banner .banner-article .banner-title {
+    font-size: 50px;
+}
+
+.banner .banner-article p {
+    font-size: 20px;
+}
+
+.banner .banner-article .btn-ShopNow {
+    color: white;
+}
+
+.tracker i {
+font-size: 50px;
+
+}
+.tracker p{
+    margin-top: 20px;
+}
+
+.back-to-top{
+    background-color: #5f9605;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 63px;
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+
+}
+
+.back-to-top i{
+    font-size: 24px;
+    color: #fff;
+}
+.tracker .icon {
+    background-color: #a5cef0;
+    border-radius:100%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    line-height: 120px;
+}
+.tracker .icon i{
+    color:#ffff;
+}
