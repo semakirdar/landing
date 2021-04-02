@@ -245,7 +245,7 @@ a {
     background-color: white;
     margin-top: 50px;
     border-radius: 25px;
-    padding:20px;
+    padding: 20px;
 
 }
 
@@ -278,28 +278,112 @@ a {
 .pricing-plans .plans-box .price .currency {
     font-size: 20px;
     position: absolute;
-    bottom:50px;
-    left:-12px;
+    bottom: 50px;
+    left: -12px;
     font-weight: bold;
 }
-.pricing-plans .plans-box .price{
+
+.pricing-plans .plans-box .price {
     position: relative;
     font-weight: bold;
 
 }
-.pricing-plans .plans-box .price .price-text{
+
+.pricing-plans .plans-box .price .price-text {
     font-size: 70px;
 }
-.pricing-plans .plans-box .plans-list ul li{
+
+.pricing-plans .plans-box .plans-list ul li {
     font-size: 30px;
-font-weight: revert;
+    font-weight: revert;
 }
-.more-features .more-features-box{
+
+.more-features .more-features-box {
     background-color: #fcf1ff;
     border-radius: 20px;
     padding: 30px;
 }
 
+.start .btn-startfree {
+    background-color: #5d21d1 !important;
+    border-color: #5d21d1 !important;
 
+}
 
+.start h1 {
+    font-weight: bold;
+}
 
+.more-features h5 span {
+    background-color: #eee8ff;
+    border-radius: 5px;
+    color: #5d21d1;
+    padding: 10px;
+
+}
+
+footer {
+    background-color: #5d21d1;
+    padding: 50px;
+}
+
+.footer .contact .footer-icon {
+
+    color: white;
+    font-size: 30px;
+
+}
+
+.footer .contact .icon-text {
+
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer .contact p {
+    color: white;
+    font-size: 18px;
+}
+
+.footer .service h4 {
+    color: white;
+}
+
+.footer .service p {
+    color: white;
+}
+
+.footer .company h4 {
+    color: white;
+}
+
+.footer .company p {
+    color: white;
+}
+
+.footer .resources h4 {
+    color: white;
+}
+
+.footer .resources p {
+    color: white;
+}
+
+.footer .subscribe h4 {
+    color: white;
+}
+
+.footer .subscribe .btn-footer-getstarted {
+    color: black;
+    background-color: #8be9e1;
+    border-color: #8be9e1;
+    width: 100%;
+    height: 40px;
+    line-height: 20px;
+}
+.footer .contact .footer-social i{
+    color:#ffffff;
+    font-size: 30px;
+
+}

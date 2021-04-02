@@ -280,12 +280,14 @@
         </div>
         <div class="container">
             <div class="more-features">
+                <h5 class="text-center mt-5 mb-3"><span>BASIC FEATURES</span></h5>
+                <h1 class="text-center mt-5 mb-4">Find out more from out software</h1>
                 <div class="row">
                     <div class="col-md-3">
                         <div class="more-features-box">
                             <img src="images/library.webp">
                             <h3>Free Library</h3>
-                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#">Devamını oku</a>
                         </div>
 
@@ -294,7 +296,7 @@
                         <div class="more-features-box">
                             <img src="images/support.webp">
                             <h3>Free Library</h3>
-                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#">Devamını oku</a>
                         </div>
 
@@ -303,7 +305,7 @@
                         <div class="more-features-box">
                             <img src="images/partner.webp">
                             <h3>Free Library</h3>
-                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#">Devamını oku</a>
                         </div>
 
@@ -312,7 +314,7 @@
                         <div class="more-features-box">
                             <img src="images/contact.webp">
                             <h3>Free Library</h3>
-                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#">Devamını oku</a>
                         </div>
 
@@ -321,7 +323,15 @@
 
             </div>
         </div>
-        l
+        <div class="container">
+            <div class="start mb-5">
+                <h1 class="text-center my-5">Improve your business and<br/> make your work easy</h1>
+                <div class="text-center">
+                <button type="button" class="btn btn-primary btn-startfree">Start Free Trial</button>
+                </div>
+            </div>
+        </div>
+
     </section>
 
 <?php include "footer.php"; ?>
