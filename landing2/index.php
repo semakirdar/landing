@@ -35,8 +35,9 @@
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="capabilities">
+
+        <div class="capabilities">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 capabilities-img">
                         <div class="images">
@@ -105,8 +106,11 @@
                     </div>
                 </div>
             </div>
-            <div class="features">
-                <h5 class="text-center"><span>BASIC FEATURES</span></h5>
+        </div>
+        <div class="container">
+            <div class="basicfeatures ">
+
+                <h5 class="text-center "><span>BASIC FEATURES</span></h5>
                 <p class="text-center mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br/> Accusamus
                     animi architecto commodi delectusdolore ducimus eveniet ex fuga illum ipsam</p>
                 <div class="row my-5">
@@ -150,6 +154,174 @@
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="additionalfeatures">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <div class="additional-text">
+                            <h5>ADDITIONAL FEATURES</h5>
+                            <h1>Track your result with<br/> Premium Access Feature</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br/> Ad animi aperiam
+                                architecto
+                                aspernatur assumenda excepturi <br/>impedit magni maiores, nostrum placeat quisquam
+                                ratione
+                                rem <br/> reprehenderit rerum voluptate. Assumenda cupiditate </p>
+                            <a href="#">Devamını oku</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="additional-img">
+                            <div class="images">
+                                <div class="additional-bottom">
+                                    <img src="images/additional-bottom.png">
+                                </div>
+                                <div class="additional-top">
+                                    <img src="images/additional-top.png">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="customer-review">
+                <div class="row">
+                    <div class="review-box mt-5">
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6">
+                                <img src="images/customer.png">
+                            </div>
+                            <div class="col-md-8 col-sm-6">
+                                <h1 class="mt-5 ms-5">"It is really refreshing to work with<br/>this software which is
+                                    truly helpful<br/> in the clients prefences</h1>
+                                <h5 class="mt-5 ms-5">Rebecca Calderon</h5>
+                                <p class="mt-2 ms-5">Head of marketing, Apple Inc.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="pricing-plans mt-5 mb-5">
+            <div class="container">
+                <h5 class="text-center"><span class="mt-5">PRICING PLANS</span></h5>
+                <h3 class="text-center mt-4">Pricing that suits your needs</h3>
+                <p class="text-center mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci enim,
+                    <br/>est excepturi labore minus non numquam obcaecati optio, quia quisquam</p>
+                <div class="row">
+                    <div class="col-md-4 ">
+                        <div class="plans-box">
+                            <h2 class="ms-4">Starter</h2>
+                            <h5 class="ms-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque
+                                distinctio </h5>
+                            <button type="button" class="btn btn-primary btn-getstarted">Get Started</button>
+                            <div class="price ms-4">
+                                <span class="currency">$</span>
+                                <span class="price-text">50</span>
+                                <span class="period">/month</span>
+                            </div>
+                            <div class="plans-list ms-4">
+                                <ul>
+                                    <li>Email ticketing</li>
+                                    <li>Customer Management</li>
+                                    <li>Mobile Apps</li>
+                                    <li>Email support</li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="plans-box">
+                            <h2 class="ms-3">Team</h2>
+                            <h5 class="ms-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque
+                                distinctio </h5>
+                            <button type="button" class="btn btn-primary btn-getstarted">Get Started</button>
+                            <div class="price ms-4">
+                                <span class="currency">$</span>
+                                <span class="price-text">50</span>
+                                <span class="period">/month</span>
+                            </div>
+                            <div class="plans-list ms-4">
+                                <ul>
+                                    <li>Email ticketing</li>
+                                    <li>Customer Management</li>
+                                    <li>Mobile Apps</li>
+                                    <li>Email support</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="plans-box">
+                            <h2 class="ms-3">Enterprise</h2>
+                            <h5 class="ms-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque
+                                distinctio </h5>
+                            <button type="button" class="btn btn-primary btn-getstarted">Get Started</button>
+                            <div class="price ms-4">
+                                <span class="currency">$</span>
+                                <span class="price-text">50</span>
+                                <span class="period">/month</span>
+                            </div>
+                            <div class="plans-list ms-4">
+                                <ul>
+                                    <li>Email ticketing</li>
+                                    <li>Customer Management</li>
+                                    <li>Mobile Apps</li>
+                                    <li>Email support</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="more-features">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="more-features-box">
+                            <img src="images/library.webp">
+                            <h3>Free Library</h3>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <a href="#">Devamını oku</a>
+                        </div>
+
+                    </div>
+                    <div class="col-md-3">
+                        <div class="more-features-box">
+                            <img src="images/support.webp">
+                            <h3>Free Library</h3>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <a href="#">Devamını oku</a>
+                        </div>
+
+                    </div>
+                    <div class="col-md-3">
+                        <div class="more-features-box">
+                            <img src="images/partner.webp">
+                            <h3>Free Library</h3>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <a href="#">Devamını oku</a>
+                        </div>
+
+                    </div>
+                    <div class="col-md-3">
+                        <div class="more-features-box">
+                            <img src="images/contact.webp">
+                            <h3>Free Library</h3>
+                            <p>Lorem ipsum dolor <br/> sit amet, consectetur  </p>
+                            <a href="#">Devamını oku</a>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        l
     </section>
 
 <?php include "footer.php"; ?>
