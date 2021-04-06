@@ -146,22 +146,27 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12284.81991742122!2d27.9224222!3d39.6676034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf0fd4db2b1695544!2sDijitaladam%20-%20Mobil%20Uygulama%20ve%20Web%20Yaz%C4%B1l%C4%B1m!5e0!3m2!1str!2str!4v1616591395559!5m2!1str!2str"
                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
-            <div class="Quality">
+            <div class="info">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>Quality Guaranted</h2>
-                        <p>Here is an example with one single photo displayed </p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dolorem nam pariatur porro
-                            quod quos sequi. Ad amet dolore eligendi hic quas ut vero
-                           </p>
-                        <div class="Button">
-                            <button type="button" class="btn btn-danger btn-information">More information</button>
-                            <button type="button" class="btn btn-secondary btn-Bythis">By this theme</button>
+                        <div class="info-text">
+                            <h2>Quality Guaranted</h2>
+                            <h5>Here is an example with one single photo displayed </h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dolorem nam pariatur
+                                porro
+                                quod quos sequi. Ad amet dolore eligendi hic quas ut vero
+                            </p>
+                            <div class="Button mb-5">
+                                <button type="button" class="btn btn-danger btn-information shadow">More information
+                                </button>
+                                <button type="button" class="btn btn-secondary btn-Bythis shadow">By this theme</button>
+                            </div>
                         </div>
-
                     </div>
                     <div class="col-md-6">
-
+                        <div class="info-img">
+                            <img src="images/info-img.jpg">
+                        </div>
                     </div>
 
                 </div>

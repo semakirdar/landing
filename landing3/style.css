@@ -51,8 +51,9 @@
     width: 100%;
 
 }
-.service .service-box p{
-    font-size:15px;
+
+.service .service-box p {
+    font-size: 15px;
     margin-top: 10px;
 }
 
@@ -60,6 +61,7 @@
     background-color: #c61334;
     padding: 30px;
 }
+
 .social .social-icons .twitter {
     color: #1DA1F2;
 }
@@ -76,38 +78,61 @@
     font-size: 38px;
 
 }
+
 .social .social-text {
     color: white;
 
 }
-.social .social-text h2{
-    font-weight:bold;
+
+.social .social-text h2 {
+    font-weight: bold;
     font-size: 20px;
 }
-.social .social-text h5{
+
+.social .social-text h5 {
     font-size: 12px;
 }
-.social .social-input{
+
+.social .social-input {
     padding: 5px;
     background-color: white;
     width: 100%;
 }
-.social .social-input .btn-social{
+
+.social .social-input .btn-social {
     background-color: white;
     color: #474545;
 }
-.star .star-icon{
-    color: #404041;
+
+.star .star-icon {
+    color: #696b6b;
 }
-.star .star-icon .small{
+
+.star .star-icon .small {
     font-size: 18px;
 }
-.star .star-icon .big{
+
+.star .star-icon .big {
     font-size: 38px;
 }
-.Quality .btn-information{
+
+.info .btn-information {
+    width: 200px;
+    border-radius:0px;
+}
+
+.info .btn-Bythis {
+    width: 200px;
+    border-radius: 0px;
 
 }
-.Quality .btn-Bythis{
-
+.info .info-img img{
+    width: 100%;
+    height: 270px;
+}
+.info .info-text{
+    padding-top: 42px;
+}
+.info .info-text h2{
+    color: #696b6b;
 }
