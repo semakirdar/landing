@@ -170,6 +170,26 @@
                     </div>
 
                 </div>
+                <div class="row md-5 mt-5">
+                    <div class="col-md-6">
+                        <div class="info-img">
+                            <img src="images/info-img.jpg">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="info-text-whatch">
+                            <h2>Whatch our info tour</h2>
+                            <h5 class="mb-3">You can also show youtube videos in this sections</h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dolorem nam pariatur
+                                porro
+                                quod quos sequi. Ad amet dolore eligendi hic quas ut vero lorem
+                            </p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis fuga officiis
+                                possimus sint vel. Aliquid amet animi, at delectus, enim eveniet ex fugit impedit libero
+                                .</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
