@@ -1,0 +1,104 @@
+.hero {
+    background-color: #303131;
+    background: linear-gradient(to bottom, #303131 0%, #4d4f4f 50%, #303131 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@mainColor', endColorstr='@mainColor', GradientType=0);
+    width: 100%;
+    height: 500px;
+    padding-top: 70px;
+    padding-right: 40px;
+}
+
+.hero .car-text h3 {
+    color: white;
+}
+
+.hero .car-text h5 {
+    color: #aea9a9;
+}
+
+.hero .hero-form {
+    padding: 20px;
+
+}
+
+.hero .hero-form .btn-reservation {
+    width: 100%;
+    background-color: #c61334;
+    font-weight: bold;
+}
+
+.service h3 {
+    color: #696b6b;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.service span {
+    color: #696b6b;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.service i {
+    font-size: 33px;
+    color: #c61334;
+}
+
+.service .service-box {
+    display: inline-block;
+    background-color: #f2f2f3;
+    padding: 20px;
+    width: 100%;
+
+}
+.service .service-box p{
+    font-size:15px;
+    margin-top: 10px;
+}
+
+.social {
+    background-color: #c61334;
+    padding: 30px;
+}
+.social .social-icons .twitter {
+    color: #1DA1F2;
+}
+
+.social .social-icons .google {
+    color: #ef2116
+}
+
+.social .social-icons .facebook {
+    color: #0047ab;
+}
+
+.social .social-icons {
+    font-size: 38px;
+
+}
+.social .social-text {
+    color: white;
+
+}
+.social .social-text h2{
+    font-weight:bold;
+    font-size: 20px;
+}
+.social .social-text h5{
+    font-size: 12px;
+}
+.social .social-input{
+    padding: 5px;
+    background-color: white;
+    width: 100%;
+}
+.social .social-input .btn-social{
+    background-color: white;
+    color: #474545;
+}
+.star .small{
+    font-size: 18px;
+}
+.star .big{
+    font-size: 38px;
+}
