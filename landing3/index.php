@@ -46,7 +46,7 @@
                 <div class="row mt-5 ">
                     <div class="col-md-6">
                         <div class="service-box">
-                            <i class="fas fa-plus-square"></i>
+                            <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
                                 enim
@@ -58,7 +58,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="service-box">
-                            <i class="fas fa-plus-square"></i>
+                            <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
                                 enim
@@ -72,7 +72,7 @@
                 <div class="row mt-5">
                     <div class="col-md-6">
                         <div class="service-box">
-                            <i class="fas fa-plus-square"></i>
+                            <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
                                 enim
@@ -84,7 +84,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="service-box">
-                            <i class="fas fa-plus-square"></i>
+                            <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
                                 enim
@@ -122,16 +122,52 @@
                     </div>
                 </div>
             </div>
-            <div class="star mt-5 text-center">
-                <i class="fas fa-star small"></i>
-                <i class="fas fa-star small"></i>
-                <i class="fas fa-star big"></i>
-                <i class="fas fa-star small"></i>
-                <i class="fas fa-star small"></i>
+            <div class="star">
+                <div class="star-icon mt-5 mb-3 text-center">
+                    <i class="fas fa-star small"></i>
+                    <i class="fas fa-star small"></i>
+                    <i class="fas fa-star big"></i>
+                    <i class="fas fa-star small"></i>
+                    <i class="fas fa-star small"></i>
+                </div>
+                <div class="star-text text-center">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem deleniti ipsam laborum neque
+                        <br/>
+                        obcaecati recusandae tenetur ut veritatis voluptates? Ab animi aperiam asperiores cumque eos
+                        nemo
+                        quia repellendus ut voluptas! <br/>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id
+                        laborum
+                        magnam, molestiae natus nihil non numquam velit.<br/> Architecto at blanditiis dolor dolore
+                        doloremque
+                        eligendi placeat, suscipit voluptate voluptatibus? Facere, quis!</p>
+                </div>
             </div>
+            <div class="map mb-5 mt-5">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12284.81991742122!2d27.9224222!3d39.6676034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf0fd4db2b1695544!2sDijitaladam%20-%20Mobil%20Uygulama%20ve%20Web%20Yaz%C4%B1l%C4%B1m!5e0!3m2!1str!2str!4v1616591395559!5m2!1str!2str"
+                        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+            <div class="Quality">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Quality Guaranted</h2>
+                        <p>Here is an example with one single photo displayed </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dolorem nam pariatur porro
+                            quod quos sequi. Ad amet dolore eligendi hic quas ut vero
+                           </p>
+                        <div class="Button">
+                            <button type="button" class="btn btn-danger btn-information">More information</button>
+                            <button type="button" class="btn btn-secondary btn-Bythis">By this theme</button>
+                        </div>
 
+                    </div>
+                    <div class="col-md-6">
 
+                    </div>
+
+                </div>
+            </div>
         </div>
+
     </section>
 
 <?php include "footer.php"; ?>

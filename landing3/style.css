@@ -96,9 +96,18 @@
     background-color: white;
     color: #474545;
 }
-.star .small{
+.star .star-icon{
+    color: #404041;
+}
+.star .star-icon .small{
     font-size: 18px;
 }
-.star .big{
+.star .star-icon .big{
     font-size: 38px;
+}
+.Quality .btn-information{
+
+}
+.Quality .btn-Bythis{
+
 }
