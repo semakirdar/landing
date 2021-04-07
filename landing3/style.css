@@ -1,6 +1,11 @@
-.navbar{
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar {
     background-color: white !important;
 }
+
 .hero {
     background-color: #303131;
     background: linear-gradient(to bottom, #303131 0%, #4d4f4f 50%, #303131 100%);
@@ -21,6 +26,7 @@
 
 .hero .hero-form {
     padding: 20px;
+    padding-top: 0;
 
 }
 
@@ -62,24 +68,31 @@
 
 .social {
     background-color: #c61334;
-    padding: 30px;
+    padding: 50px;
+}
+.social .social-icon{
+    width: 50px;
+    height: 50px;
+    line-height: 52px;
+    display: inline-block;
+    margin-right: 6px;
 }
 
-.social .social-icons .twitter {
-    color: #1DA1F2;
+.social .social-icon i {
+    color: #fff;
+    font-size: 24px;
 }
 
-.social .social-icons .google {
-    color: #ef2116
+.social .social-icon.twitter {
+    background-color: #1DA1F2;
 }
 
-.social .social-icons .facebook {
-    color: #0047ab;
+.social .social-icon.google {
+    background-color: #ef2116
 }
 
-.social .social-icons {
-    font-size: 38px;
-
+.social .social-icon.facebook {
+    background-color: #0047ab;
 }
 
 .social .social-text {
@@ -102,127 +115,153 @@
     width: 100%;
 }
 
+.social .social-input input {
+    border-color: transparent !important;
+}
+
 .social .social-input .btn-social {
     background-color: white;
     color: #474545;
+    border-radius: 0;
+    font-weight: bold;
+    border:2px solid #bebebe;
 }
 
-.star .star-icon {
+.comment .comment-icon {
     color: #696b6b;
 }
 
-.star .star-icon .small {
+.comment .comment-icon .small {
     font-size: 18px;
 }
 
-.star .star-icon .big {
+.comment .comment-icon .big {
     font-size: 38px;
 }
-
-.info .btn-information {
-    width: 200px;
-    border-radius:0px;
+.comment-text h5{
+    color: #c61334;
+    font-weight: bold;
 }
 
-.info .btn-Bythis {
+.info .btn {
     width: 200px;
     border-radius: 0px;
 }
-.info .info-img img{
+
+.info .info-img img {
     width: 100%;
     height: 270px;
 }
-.info .info-text{
+
+.info .info-text {
     padding-top: 42px;
 }
-.info .info-text h2{
+
+.info .info-text h2 {
     color: #696b6b;
     font-weight: bold;
 }
-.info .info-text-whatch h2{
+
+.info .info-text-watch h2 {
     color: #696b6b;
     font-weight: bold;
 }
-.info .info-text .info-button{
+
+.info .info-text .info-button {
     padding-top: 20px;
 }
 
-.meet{
+.partners {
     margin-top: 108px !important;
     padding: 30px;
     background-color: #f2f2f3;
 
 
 }
-.meet h2{
+
+.partners h2 {
     color: #696b6b;
     text-align: center;
     font-weight: bold;
     font-size: 30px;
     margin-bottom: 30px;
 }
-.contact h2{
+
+.contact h2 {
     color: #696b6b;
     text-align: left;
     font-weight: bold;
 }
-.contact .title{
+
+.contact .title {
     color: #c61334;
     font-weight: bold;
 }
-.contact .adress{
+
+.contact .adress {
     color: #696b6b;
     font-weight: bold;
 
 }
+
 .contact .contact-form input {
     background-color: #e5e5e7;
 }
+
 .contact .contact-form textarea {
     background-color: #e5e5e7;
 }
-.contact .contact-form .btn-submit{
+
+.contact .contact-form .btn-submit {
     border-radius: 0px;
     background-color: #c61334;
-    font-weight:bold;
+    font-weight: bold;
 }
-.footer-grey .footer-text a{
+
+.footer-grey .footer-text a {
     color: #696b6b;
     font-weight: bold;
     margin-top: 25px;
 
 }
-.footer-grey .footer-text{
+
+.footer-grey .footer-text {
     padding-top: 25px;
 }
 
-.footer-grey{
+.footer-grey {
     background-color: #e5e5e7;
-    width:100%;
+    width: 100%;
     height: 130px;
 
 
 }
-@media only screen and (max-width: 600px){
-.hero {
-    padding-right:0;
-}
-    .car-text{
+
+@media only screen and (max-width: 600px) {
+    .hero {
+        padding-right: 0;
+    }
+
+    .car-text {
         margin-top: 24px;
     }
 
 
-    .info .info-text-whatch h2{
-        margin-top:20px;
+    .info .info-text-watch h2 {
+        margin-top: 20px;
     }
 
 }
-@media only screen and (max-width: 769px){
-    .service .service-box{
+
+@media only screen and (max-width: 769px) {
+    .service .service-box {
         margin-bottom: 20px;
     }
-    .info .info-button .btn{
-        margin-bottom:15px;
-    }
 
+    .info .info-button .btn {
+        margin-bottom: 15px;
+    }
+.social-icons {
+    margin-top:15px ;
+}
 }

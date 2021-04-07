@@ -7,11 +7,10 @@
             <a href="#" class="me-3">Reviews</a>
             <a href="#" class="me-3">Locations</a>
             <a href="#" class="me-3">Contact</a>
-            <div class="mt-3">
-                2014 Themeinjection, All Rights Reserved
-            </div>
+
         </div>
     </div>
 </footer>
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
