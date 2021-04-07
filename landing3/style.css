@@ -1,3 +1,6 @@
+.navbar{
+    background-color: white !important;
+}
 .hero {
     background-color: #303131;
     background: linear-gradient(to bottom, #303131 0%, #4d4f4f 50%, #303131 100%);
@@ -134,4 +137,66 @@
 }
 .info .info-text h2{
     color: #696b6b;
+    font-weight: bold;
+}
+.info .info-text-whatch h2{
+    color: #696b6b;
+    font-weight: bold;
+}
+.info .info-text .info-button{
+    padding-top: 20px;
+}
+
+.meet{
+    margin-top: 108px !important;
+    padding: 30px;
+    background-color: #f2f2f3;
+
+
+}
+.meet h2{
+    color: #696b6b;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.contact h2{
+    color: #696b6b;
+    text-align: left;
+    font-weight: bold;
+}
+.contact .title{
+    color: #c61334;
+    font-weight: bold;
+}
+.contact .adress{
+    color: #696b6b;
+    font-weight: bold;
+
+}
+.contact .contact-form input {
+    background-color: #e5e5e7;
+}
+.contact .contact-form textarea {
+    background-color: #e5e5e7;
+}
+.contact .contact-form .btn-submit{
+    border-radius: 0px;
+    background-color: #c61334;
+    font-weight:bold;
+}
+.footer-navbar a{
+    color: #696b6b;
+    font-weight: bold;
+}
+.footer-navbar{
+    background-color: #e5e5e7;
+    width:100%;
+    height: 150px;
+}
+.footer-black{
+    background-color: black;
+    width:100%;
+    height: 150px;
 }
