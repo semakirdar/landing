@@ -2,40 +2,42 @@
 
     <section>
         <div class="hero">
-            <div class="row">
-                <div class="col-md-5">
-                    <div class="hero-form ">
-                        <div class="form-control">
-                            <select class="form-select mb-4 mt-4" aria-label="Default select example">
-                                <option selected>Open this select menu</option>
-                                <option value="1">One</option>
-                                <option value="2">Two</option>
-                                <option value="3">Three</option>
-                            </select>
-                            <div class="mb-4">
-                                <label for="exampleFormControlInput1" class="form-label">Ad</label>
-                                <input type="email" class="form-control" id="exampleFormControlInput1"
-                                       placeholder="">
-                            </div>
-                            <div class="mb-4">
-                                <label for="exampleFormControlInput1" class="form-label">Soyad</label>
-                                <input type="email" class="form-control" id="exampleFormControlInput1"
-                                       placeholder="">
-                            </div>
-                            <button type="button" class="btn btn-danger btn-reservation mb-5">CONTINUE CAR
-                                RESERVATION
-                            </button>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-5">
+                        <div class="hero-form ">
+                            <div class="form-control">
+                                <select class="form-select mb-4 mt-4" aria-label="Default select example">
+                                    <option selected>Open this select menu</option>
+                                    <option value="1">One</option>
+                                    <option value="2">Two</option>
+                                    <option value="3">Three</option>
+                                </select>
+                                <div class="mb-4">
+                                    <label for="exampleFormControlInput1" class="form-label">Ad</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput1"
+                                           placeholder="">
+                                </div>
+                                <div class="mb-4">
+                                    <label for="exampleFormControlInput1" class="form-label">Soyad</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput1"
+                                           placeholder="">
+                                </div>
+                                <button type="button" class="btn btn-danger btn-reservation mb-5">CONTINUE CAR
+                                    RESERVATION
+                                </button>
 
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-7">
-                    <div class="car-text mb-5">
-                        <h3>LUXURY CAR FROM FROM $28 DAY</h3>
-                        <h5>Treat yourself in USA</h5>
-                    </div>
-                    <div class="car ">
-                        <img class="img-fluid" src="images/car.png">
+                    <div class="col-sm-12 col-md-7">
+                        <div class="car-text mb-5">
+                            <h3>LUXURY CAR FROM FROM $28 DAY</h3>
+                            <h5>Treat yourself in USA</h5>
+                        </div>
+                        <div class="car ">
+                            <img class="img-fluid" src="images/car.png">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -45,7 +47,7 @@
             <div class="service mt-5 mb-5">
                 <h3 class="text-center ">Customer Services</h3>
                 <div class="row mt-5 ">
-                    <div class="col-md-6">
+                    <div class="col-sm-12 col-md-6 ">
                         <div class="service-box">
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
@@ -57,7 +59,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-sm-12 col-md-6 ">
                         <div class="service-box">
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
@@ -70,8 +72,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="row mt-5">
-                    <div class="col-md-6">
+                <div class="row ">
+                    <div class="col-sm-12 col-md-6">
                         <div class="service-box">
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
@@ -83,7 +85,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-sm-12 col-md-6">
                         <div class="service-box">
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
@@ -98,32 +100,32 @@
                 </div>
             </div>
         </div>
-            <div class="social">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="social-text ">
-                            <h2>SIGN UP FOR AMAZING OFFERS</h2>
-                            <h5>EXCLUSIVE ACCESS FOR OFFERS AND PROMOTIONS</h5>
-                        </div>
+        <div class="social">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="social-text ">
+                        <h2>SIGN UP FOR AMAZING OFFERS</h2>
+                        <h5>EXCLUSIVE ACCESS FOR OFFERS AND PROMOTIONS</h5>
                     </div>
-                    <div class="col-md-5">
-                        <div class="input-group social-input text-center">
-                            <input type="text" class="form-control" placeholder="" aria-label="Recipient's username"
-                                   aria-describedby="button-addon2">
-                            <button class="btn btn-outline-secondary btn-social" type="button" id="button-addon2">
-                                SEND
-                            </button>
-                        </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="input-group social-input text-center">
+                        <input type="text" class="form-control" placeholder="" aria-label="Recipient's username"
+                               aria-describedby="button-addon2">
+                        <button class="btn btn-outline-secondary btn-social" type="button" id="button-addon2">
+                            SEND
+                        </button>
                     </div>
-                    <div class="col-md-3">
-                        <div class="social-icons text-center">
-                            <i class="fab fa-twitter-square twitter"></i>
-                            <i class="fab fa-google-plus-square google"></i>
-                            <i class="fab fa-facebook-square facebook"></i>
-                        </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="social-icons text-center">
+                        <i class="fab fa-twitter-square twitter"></i>
+                        <i class="fab fa-google-plus-square google"></i>
+                        <i class="fab fa-facebook-square facebook"></i>
                     </div>
                 </div>
             </div>
+        </div>
         <div class="container">
             <div class="star">
                 <div class="star-icon mt-5 mb-3 text-center">
@@ -150,8 +152,8 @@
                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
             <div class="info">
-                <div class="row ">
-                    <div class="col-md-6">
+                <div class="row mb-5">
+                    <div class="col-sm-12 col-md-6">
                         <div class="info-text">
                             <h2 class="mb-3">Quality Guaranted</h2>
                             <h5>Here is an example with one single photo displayed </h5>
@@ -166,20 +168,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-sm-12 col-md-6">
                         <div class="info-img">
                             <img src="images/info-img.jpg">
                         </div>
                     </div>
 
                 </div>
-                <div class="row md-5 mt-5">
-                    <div class="col-md-6">
+                <div class="row  mt-5">
+                    <div class="col-sm-12 col-md-6">
                         <div class="info-img">
                             <img src="images/info-img.jpg">
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-sm-12 col-md-6">
                         <div class="info-text-whatch">
                             <h2>Whatch our info tour</h2>
                             <h5 class="mb-3">You can also show youtube videos in this sections</h5>

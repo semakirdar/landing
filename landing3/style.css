@@ -6,7 +6,7 @@
     background: linear-gradient(to bottom, #303131 0%, #4d4f4f 50%, #303131 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@mainColor', endColorstr='@mainColor', GradientType=0);
     width: 100%;
-    height: 500px;
+
     padding-top: 70px;
     padding-right: 40px;
 }
@@ -52,7 +52,7 @@
     background-color: #f2f2f3;
     padding: 20px;
     width: 100%;
-
+    margin-bottom: 20px;
 }
 
 .service .service-box p {
@@ -201,5 +201,28 @@
     width:100%;
     height: 130px;
 
+
+}
+@media only screen and (max-width: 600px){
+.hero {
+    padding-right:0;
+}
+    .car-text{
+        margin-top: 24px;
+    }
+
+
+    .info .info-text-whatch h2{
+        margin-top:20px;
+    }
+
+}
+@media only screen and (max-width: 769px){
+    .service .service-box{
+        margin-bottom: 20px;
+    }
+    .info .info-button .btn{
+        margin-bottom:15px;
+    }
 
 }
