@@ -97,6 +97,7 @@
                     </div>
                 </div>
             </div>
+        </div>
             <div class="social">
                 <div class="row">
                     <div class="col-md-4">
@@ -123,6 +124,7 @@
                     </div>
                 </div>
             </div>
+        <div class="container">
             <div class="star">
                 <div class="star-icon mt-5 mb-3 text-center">
                     <i class="fas fa-star small"></i>
