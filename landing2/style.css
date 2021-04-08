@@ -78,7 +78,7 @@ a {
 
 .capabilities {
     padding-bottom: 40px;
-    padding-top: 40px;
+    padding-top: 30px;
     margin-bottom: 50px;
 }
 
@@ -155,8 +155,8 @@ a {
 
 .capabilities .images {
     position: relative;
-    left: -8px;
-    top: 114px;
+    left: 58px;
+    top: 46px;
 }
 
 .basicfeatures h5 span {
@@ -192,7 +192,6 @@ a {
     border-radius: 15px;
 
 }
-
 
 
 .additionalfeatures .additional-img .additional-bottom img {
@@ -411,14 +410,52 @@ a.with-underline {
     .pricing-plans .plans-box {
         margin-bottom: 15px;
     }
-.additionalfeatures{
-   padding-bottom: 100px;
-}
-.banner .banner-img{
 
-    padding-bottom: 35px;
-}
+    .additionalfeatures {
+        padding-bottom: 100px;
+    }
 
+    .banner .banner-img {
+
+        padding-bottom: 35px;
+    }
+
+    .capabilities .capabilities-text {
+        padding-top: 710px;
+        padding-left: 19px;
+    }
+
+    .capabilities .capabilities-img .capabilities-top img {
+        width: 294px;
+        height: 415px;
+        margin-left: -112px;
+    }
+
+    .capabilities .capabilities-img .capabilities-bottom img {
+
+        width: 320px;
+        height: 411px;
+    }
+
+    .basicfeatures .feature-box {
+        margin-bottom: 20px;
+    }
+
+    .more-features .more-features-box {
+        margin-bottom: 20px;
+    }
+
+    .additionalfeatures .additional-img .additional-bottom img {
+        width: 348px;
+        height: 407px;
+    }
+
+    .additionalfeatures .additional-img .additional-top img {
+        width: 357px;
+        height: 421px;
+        left: 44px;
+        top: 153px;
+    }
 }
 
 @media only screen and (max-width: 769px) {

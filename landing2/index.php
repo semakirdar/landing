@@ -284,7 +284,7 @@
         </div>
         <div class="container">
             <div class="more-features">
-                <h5 class="text-center mt-5 mb-3"><span>BASIC FEATURES</span></h5>
+                <h5 class="text-center mt-5 mb-3"><span>MORE FEATURES</span></h5>
                 <h1 class="text-center mt-5 mb-4">Find out more from out software</h1>
                 <div class="row">
                     <div class="col-sm-12 col-md-3">
