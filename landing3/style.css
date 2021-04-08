@@ -16,11 +16,11 @@ body {
     padding-right: 40px;
 }
 
-.hero .car-text h3 {
+.hero .car .car-text h3 {
     color: white;
 }
 
-.hero .car-text h5 {
+.hero .car .car-text h5 {
     color: #aea9a9;
 }
 
@@ -34,6 +34,10 @@ body {
     width: 100%;
     background-color: #c61334;
     font-weight: bold;
+}
+.hero .car img{
+    width: 100% !important;
+
 }
 
 .service h3 {
