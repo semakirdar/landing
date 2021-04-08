@@ -27,12 +27,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ms-auto">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    <a class="nav-link" href="#">Services</a>
-                    <a class="nav-link" href="#">Vehicle Models </a>
-                    <a class="nav-link" href="#">Blog</a>
-                    <a class="nav-link" href="#">Locations</a>
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link active" aria-current="page" href="#hero">Home</a>
+                    <a class="nav-link" href="#services">Services</a>
+                    <a class="nav-link" href="#map">Location</a>
+                    <a class="nav-link" href="#contact">Contact</a>
                 </div>
             </div>
         </div>

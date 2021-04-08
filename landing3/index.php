@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
 
     <section>
-        <div class="hero">
+        <div class="hero" id="hero">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-5">
@@ -62,7 +62,7 @@
                 </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" id="services">
             <div class="service mt-5 mb-5">
                 <h3 class="text-center ">Customer Services</h3>
                 <div class="row mt-5 ">
@@ -150,7 +150,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="comment">
+            <div class="comment" id="comment">
                 <div class="comment-icon mt-5 mb-3 text-center">
                     <i class="fas fa-star small"></i>
                     <i class="fas fa-star small"></i>
@@ -172,7 +172,7 @@
                 </div>
             </div>
         </div>
-        <div class="map mb-5 mt-5">
+        <div class="map mb-5 mt-5" id="map">
 
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12284.81991742122!2d27.9224222!3d39.6676034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf0fd4db2b1695544!2sDijitaladam%20-%20Mobil%20Uygulama%20ve%20Web%20Yaz%C4%B1l%C4%B1m!5e0!3m2!1str!2str!4v1616591395559!5m2!1str!2str"
                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -254,7 +254,7 @@
             </div>
             </div>
         <div class="container">
-            <div class="contact">
+            <div class="contact" id="contact">
                 <h2 class="mb-5">Contact Us</h2>
                 <p class="mb-0">You have any questions or need additional information?</p>
                 <span class="title">Adress:</span>
