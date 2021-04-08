@@ -155,7 +155,7 @@ a {
 
 .capabilities .images {
     position: relative;
-    left: 58px;
+    left: 10px;
     top: 46px;
 }
 
@@ -455,6 +455,11 @@ a.with-underline {
         height: 421px;
         left: 44px;
         top: 153px;
+    }
+
+    .capabilities .capabilities-text {
+        padding-left:100px;
+
     }
 }
 
