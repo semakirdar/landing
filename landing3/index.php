@@ -34,11 +34,7 @@
                     <div class="col-sm-12 col-md-7">
                         <div class="car ">
                             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                                <div class="carousel-indicators">
-                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-
-                                </div>
+                                
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <div class="car-text mb-5">
@@ -56,6 +52,18 @@
                                         <img src="images/slidercar.png" class="d-block w-100" alt="...">
                                     </div>
                                 </div>
+
+                                <button class="carousel-control-prev btn-prev" type="button"
+                                        data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next btn-next" type="button"
+                                        data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+
                             </div>
                         </div>
                     </div>
@@ -131,7 +139,8 @@
                     </div>
                     <div class="col-md-5">
                         <div class="input-group social-input text-center">
-                            <input type="text" class="form-control" placeholder="Email" aria-label="Recipient's username"
+                            <input type="text" class="form-control" placeholder="Email"
+                                   aria-label="Recipient's username"
                                    aria-describedby="button-addon2">
                             <button class="btn btn-outline-secondary btn-social" type="button" id="button-addon2">
                                 SEND
@@ -174,8 +183,8 @@
         </div>
         <div class="map mb-5 mt-5" id="map">
 
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12284.81991742122!2d27.9224222!3d39.6676034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf0fd4db2b1695544!2sDijitaladam%20-%20Mobil%20Uygulama%20ve%20Web%20Yaz%C4%B1l%C4%B1m!5e0!3m2!1str!2str!4v1616591395559!5m2!1str!2str"
-                        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12284.81991742122!2d27.9224222!3d39.6676034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf0fd4db2b1695544!2sDijitaladam%20-%20Mobil%20Uygulama%20ve%20Web%20Yaz%C4%B1l%C4%B1m!5e0!3m2!1str!2str!4v1616591395559!5m2!1str!2str"
+                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
         </div>
         <div class="container">
@@ -225,8 +234,8 @@
                 </div>
             </div>
         </div>
-            <div class="partners mb-5 mt-5">
-                <div class="container">
+        <div class="partners mb-5 mt-5">
+            <div class="container">
                 <h2>Meet Our Partners</h2>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi blanditiis cumque cupiditate
@@ -252,7 +261,7 @@
 
                 </div>
             </div>
-            </div>
+        </div>
         <div class="container">
             <div class="contact" id="contact">
                 <h2 class="mb-5">Contact Us</h2>

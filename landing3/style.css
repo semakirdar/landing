@@ -38,7 +38,19 @@ body {
 .hero .car img{
     width: 100% !important;
     height: 330px;
+    position: relative;
 
+}
+.hero .car .btn-prev{
+    position: absolute;
+    left: 518px;
+    top: 380px;
+
+}
+.hero .car .btn-next{
+    position: absolute;
+    top: 380px;
+    left: 553px;
 }
 
 .service h3 {
