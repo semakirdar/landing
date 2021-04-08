@@ -4,7 +4,7 @@
         <div class="banner">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 banner-article">
+                    <div class="col-sm-12 col-md-6 banner-article">
                         <h1 class="title" mb-4>Make your sofware<br/>better using teh best<br/>solitions in one tool
                         </h1>
                         <p class="paragraph mb-5">Lorem ipsum dolor sit amet, consectetur <br/> adipisicing elit.Aliquid
@@ -29,7 +29,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 banner-img ">
+                    <div class="col-sm-12 col-md-6  banner-img ">
                         <img src="images/banner.png ">
                     </div>
                 </div>
@@ -39,7 +39,7 @@
         <div class="capabilities">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 capabilities-img">
+                    <div class="col-sm-12 col-md-6 capabilities-img">
                         <div class="images">
                             <div class="capabilities-bottom">
                                 <img src="images/capabilities1.png">
@@ -50,7 +50,7 @@
                         </div>
 
                     </div>
-                    <div class="col-md-6 col-sm-6 capabilities-text">
+                    <div class="col-sm-12 col-md-6 capabilities-text">
                         <h5>CAPABILITIES</h5>
                         <h1>Overview of your <br/> progress and tasks</h1>
                         <span> Some metrics play an essential role to measure the pulse <br/>of a comapnys customer service effeciency, while others<br/> are more evaluating if a brand has a best approach</span>
@@ -67,7 +67,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6 col-sm-6">
+                                <div class="col-sm-12 col-md-6 ">
                                     <div class="icon-box">
                                         <div class="icon">
                                             <i class="fas fa-envelope"></i>
@@ -81,7 +81,7 @@
 
                             </div>
                             <div class="row text-center mt-3">
-                                <div class="col-md-6 col-sm-6 ">
+                                <div class="col-sm-12 col-md-6">
                                     <div class="icon-box">
                                         <div class="icon">
                                             <i class="fas fa-clipboard"></i>
@@ -91,7 +91,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6 col-sm-6">
+                                <div class="col-sm-12 col-md-6">
                                     <div class="icon-box">
                                         <div class="icon">
                                             <i class="fas fa-envelope"></i>
@@ -114,7 +114,7 @@
                 <p class="text-center mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br/> Accusamus
                     animi architecto commodi delectusdolore ducimus eveniet ex fuga illum ipsam</p>
                 <div class="row my-5">
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-sm-12 col-md-4">
                         <div class="feature-box">
                             <img src="images/feature-startups.png" class="img-fluid">
                             <h2 class="text-center mt-3">Startups</h2>
@@ -128,7 +128,7 @@
                         </div>
 
                     </div>
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-sm-12 col-md-4 ">
                         <div class="feature-box">
                             <img src="images/feature-entrepreneus.png" class="img-fluid">
                             <h2 class="text-center mt-3">Entrepreneus</h2>
@@ -141,7 +141,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-sm-12 col-md-4 ">
                         <div class="feature-box">
                             <img src="images/feature-employes.png" class="img-fluid">
                             <h2 class="text-center mt-3">Employes</h2>
@@ -214,7 +214,7 @@
                 <p class="text-center mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci enim,
                     <br/>est excepturi labore minus non numquam obcaecati optio, quia quisquam</p>
                 <div class="row">
-                    <div class="col-md-4 ">
+                    <div class="col-sm-12 col-md-4">
                         <div class="plans-box">
                             <h2 class="ms-4">Starter</h2>
                             <h5 class="ms-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque
@@ -236,7 +236,7 @@
 
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-sm-12 col-md-4">
                         <div class="plans-box">
                             <h2 class="ms-3">Team</h2>
                             <h5 class="ms-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque
@@ -257,7 +257,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-sm-12 col-md-4">
                         <div class="plans-box">
                             <h2 class="ms-3">Enterprise</h2>
                             <h5 class="ms-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque
@@ -287,7 +287,7 @@
                 <h5 class="text-center mt-5 mb-3"><span>BASIC FEATURES</span></h5>
                 <h1 class="text-center mt-5 mb-4">Find out more from out software</h1>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-sm-12 col-md-3">
                         <div class="more-features-box">
                             <img src="images/library.webp">
                             <h3>Free Library</h3>
@@ -297,7 +297,7 @@
                         </div>
 
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-sm-12 col-md-3">
                         <div class="more-features-box">
                             <img src="images/support.webp">
                             <h3>Free Library</h3>
@@ -307,7 +307,7 @@
                         </div>
 
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-sm-12 col-md-3">
                         <div class="more-features-box">
                             <img src="images/partner.webp">
                             <h3>Free Library</h3>
@@ -317,7 +317,7 @@
                         </div>
 
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-sm-12 col-md-3">
                         <div class="more-features-box">
                             <img src="images/contact.webp">
                             <h3>Free Library</h3>
