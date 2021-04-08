@@ -108,7 +108,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="basicfeatures ">
+            <div class="basicfeatures">
 
                 <h5 class="text-center "><span>BASIC FEATURES</span></h5>
                 <p class="text-center mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br/> Accusamus
@@ -122,7 +122,7 @@
                                 Ab asperiores consequatur
                                 consequuntur </p>
                             <div class="text-center">
-                                <a href="#"> Devamını oku </a>
+                                <a href="#" class="with-underline"> Devamını oku </a>
                             </div>
                         </div>
 
@@ -135,7 +135,7 @@
                                 Ab asperiores consequatur
                                 consequuntur </p>
                             <div class="text-center">
-                                <a href="#"> Devamını oku </a>
+                                <a href="#" class="with-underline"> Devamını oku </a>
                             </div>
                         </div>
                     </div>
@@ -147,7 +147,7 @@
                                 Ab asperiores consequatur
                                 consequuntur </p>
                             <div class="text-center">
-                                <a href="#"> Devamını oku </a>
+                                <a href="#" class="with-underline"> Devamını oku </a>
                             </div>
                         </div>
                     </div>
@@ -160,13 +160,13 @@
                     <div class="col-md-6 col-sm-6">
                         <div class="additional-text">
                             <h5>ADDITIONAL FEATURES</h5>
-                            <h1>Track your result with<br/> Premium Access Feature</h1>
+                            <h1 class="mt-3 mb-3">Track your result with<br/> Premium Access Feature</h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br/> Ad animi aperiam
                                 architecto
                                 aspernatur assumenda excepturi <br/>impedit magni maiores, nostrum placeat quisquam
                                 ratione
                                 rem <br/> reprehenderit rerum voluptate. Assumenda cupiditate </p>
-                            <a href="#">Devamını oku</a>
+                            <a href="#" class="with-underline">Devamını oku</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
@@ -288,7 +288,7 @@
                             <img src="images/library.webp">
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
-                            <a href="#">Devamını oku</a>
+                            <a href="#" class="with-underline">Devamını oku</a>
                         </div>
 
                     </div>
@@ -297,7 +297,7 @@
                             <img src="images/support.webp">
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
-                            <a href="#">Devamını oku</a>
+                            <a href="#" class="with-underline">Devamını oku</a>
                         </div>
 
                     </div>
@@ -306,7 +306,7 @@
                             <img src="images/partner.webp">
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
-                            <a href="#">Devamını oku</a>
+                            <a href="#" class="with-underline">Devamını oku</a>
                         </div>
 
                     </div>
@@ -315,7 +315,7 @@
                             <img src="images/contact.webp">
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
-                            <a href="#">Devamını oku</a>
+                            <a href="#" class="with-underline">Devamını oku</a>
                         </div>
 
                     </div>

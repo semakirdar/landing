@@ -160,10 +160,6 @@ a {
     left: -8px;
 }
 
-.basicfeatures img {
-
-}
-
 .basicfeatures h5 span {
     background-color: #eee8ff;
     border-radius: 5px;
@@ -179,6 +175,10 @@ a {
 
 .basicfeatures .feature-box a {
     color: #5d21d1;
+}
+
+.basicfeatures .feature-box .line {
+
 }
 
 .additionalfeatures .additional-text h5 {
@@ -294,7 +294,7 @@ a {
 }
 
 .pricing-plans .plans-box .plans-list ul li {
-    font-size: 30px;
+    font-size: 18px;
     font-weight: revert;
 }
 
@@ -382,8 +382,24 @@ footer {
     height: 40px;
     line-height: 20px;
 }
-.footer .contact .footer-social i{
-    color:#ffffff;
+
+.footer .contact .footer-social i {
+    color: #ffffff;
     font-size: 30px;
 
+}
+
+/*a.with-underline::after{
+    content: '';
+    display: block;
+    width: 35%;
+    height: 1px;
+    background-color: #5d21d1;
+    margin: 0 auto;
+    margin-top: 8px;
+}*/
+
+a.with-underline{
+    border-bottom: 1px solid #5d21d1;
+    padding-bottom: 6px;
 }
