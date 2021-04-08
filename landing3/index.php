@@ -150,7 +150,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="comment" id="comment">
+            <div class="comment">
                 <div class="comment-icon mt-5 mb-3 text-center">
                     <i class="fas fa-star small"></i>
                     <i class="fas fa-star small"></i>
