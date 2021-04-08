@@ -13,7 +13,7 @@
 
                         <button type="button" class="btn btn-secondary btn-StartFree">Start Free Trial</button>
                         <button type="button" class="btn btn-outline-secondary btn-Learn">Learn More</button>
-                        <div class="banner-icon mt-5">
+                        <div class="banner-icon mt-5 mb-4">
                             <span>Works With :</span>
                             <a href="#">
                                 <i class="fab fa-windows ms-3"></i>
@@ -128,7 +128,7 @@
                         </div>
 
                     </div>
-                    <div class="col-sm-12 col-md-4 ">
+                    <div class="col-sm-12 col-md-4">
                         <div class="feature-box">
                             <img src="images/feature-entrepreneus.png" class="img-fluid">
                             <h2 class="text-center mt-3">Entrepreneus</h2>
@@ -161,7 +161,7 @@
             <div class="additionalfeatures">
                 <div class="row">
                     <div class="col-md-6 col-sm-6">
-                        <div class="additional-text">
+                        <div class="additional-text mt-5">
                             <h5>ADDITIONAL FEATURES</h5>
                             <h1 class="mt-3 mb-3">Track your result with<br/> Premium Access Feature</h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br/> Ad animi aperiam

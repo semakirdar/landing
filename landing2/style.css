@@ -35,8 +35,7 @@ a {
 
 .banner {
     background-color: #5d21d1;
-    width: 100%;
-    height: 500px;
+
 }
 
 .banner .banner-article h1 {
@@ -78,14 +77,14 @@ a {
 }
 
 .capabilities {
+    padding-bottom: 40px;
+    padding-top: 40px;
     margin-bottom: 50px;
 }
 
 .capabilities .capabilities-img {
-    margin-top: 90px;
+
     background-color: #eee8ff;
-    width: 50%;
-    height: 570px;
     border-radius: 15px;
 }
 
@@ -106,7 +105,6 @@ a {
     border-bottom: 1px solid #b0bac8;
     display: inline-block;
     width: 100%;
-
 }
 
 .capabilities .icon-box {
@@ -158,6 +156,7 @@ a {
 .capabilities .images {
     position: relative;
     left: -8px;
+    top: 114px;
 }
 
 .basicfeatures h5 span {
@@ -177,10 +176,6 @@ a {
     color: #5d21d1;
 }
 
-.basicfeatures .feature-box .line {
-
-}
-
 .additionalfeatures .additional-text h5 {
     background-color: #eee8ff;
     display: inline-block;
@@ -198,9 +193,7 @@ a {
 
 }
 
-.additionalfeatures .additional-text {
-    margin-top: 200px;
-}
+
 
 .additionalfeatures .additional-img .additional-bottom img {
     width: 532px;
@@ -237,7 +230,9 @@ a {
 .pricing-plans {
     background-color: #5d21d1;
     width: 100%;
-    height: 900px
+    padding-top: 50px;
+    padding-bottom: 50px;
+
 }
 
 .pricing-plans .plans-box {
@@ -399,10 +394,34 @@ footer {
     margin-top: 8px;
 }*/
 
-a.with-underline{
+a.with-underline {
     border-bottom: 1px solid #5d21d1;
     padding-bottom: 6px;
 }
-.arrow{
-    color:#5d21d1;
+
+.arrow {
+    color: #5d21d1;
+}
+
+@media only screen and (max-width: 600px) {
+    .capabilities .icon-box {
+        margin-bottom: 15px;
+    }
+
+    .pricing-plans .plans-box {
+        margin-bottom: 15px;
+    }
+.additionalfeatures{
+   padding-bottom: 100px;
+}
+.banner .banner-img{
+
+    padding-bottom: 35px;
+}
+
+}
+
+@media only screen and (max-width: 769px) {
+
+
 }
