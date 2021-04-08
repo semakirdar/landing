@@ -190,7 +190,7 @@
             <div class="info">
                 <div class="row mb-5">
                     <div class="col-sm-12 col-md-6">
-                        <div class="info-text">
+                        <div class="info-text animate__animated animate__bounce">
                             <h2 class="mb-3">Quality Guaranted</h2>
                             <h5>Here is an example with one single photo displayed </h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dolorem nam pariatur
