@@ -75,7 +75,8 @@
                 <h3 class="text-center ">Customer Services</h3>
                 <div class="row mt-5 ">
                     <div class="col-sm-12 col-md-6 ">
-                        <div class="service-box">
+                        <div class="service-box animate__animated animate__bounce">
+
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
@@ -87,7 +88,7 @@
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 ">
-                        <div class="service-box">
+                        <div class="service-box animate__animated animate__bounce">
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
@@ -101,7 +102,7 @@
                 </div>
                 <div class="row ">
                     <div class="col-sm-12 col-md-6">
-                        <div class="service-box">
+                        <div class="service-box animate__animated animate__bounce">
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
@@ -113,7 +114,7 @@
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6">
-                        <div class="service-box">
+                        <div class="service-box animate__animated animate__flash">
                             <i class="fas fa-plus-square me-2"></i>
                             <span>Special rates on car booking</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
@@ -127,7 +128,7 @@
                 </div>
             </div>
         </div>
-        <div class="social">
+        <div class="social animate__animated animate__rubberBand">
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">

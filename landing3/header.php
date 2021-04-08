@@ -8,6 +8,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;700;900&display=swap" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <title>Oto Site</title>
