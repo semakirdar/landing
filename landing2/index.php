@@ -123,6 +123,7 @@
                                 consequuntur </p>
                             <div class="text-center">
                                 <a href="#" class="with-underline"> Devamını oku </a>
+                                <i class="fas fa-arrow-right arrow"></i>
                             </div>
                         </div>
 
@@ -136,6 +137,7 @@
                                 consequuntur </p>
                             <div class="text-center">
                                 <a href="#" class="with-underline"> Devamını oku </a>
+                                <i class="fas fa-arrow-right arrow"></i>
                             </div>
                         </div>
                     </div>
@@ -148,6 +150,7 @@
                                 consequuntur </p>
                             <div class="text-center">
                                 <a href="#" class="with-underline"> Devamını oku </a>
+                                <i class="fas fa-arrow-right arrow"></i>
                             </div>
                         </div>
                     </div>
@@ -167,6 +170,7 @@
                                 ratione
                                 rem <br/> reprehenderit rerum voluptate. Assumenda cupiditate </p>
                             <a href="#" class="with-underline">Devamını oku</a>
+                            <i class="fas fa-arrow-right arrow"></i>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
@@ -289,6 +293,7 @@
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#" class="with-underline">Devamını oku</a>
+                            <i class="fas fa-arrow-right arrow"></i>
                         </div>
 
                     </div>
@@ -298,6 +303,7 @@
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#" class="with-underline">Devamını oku</a>
+                            <i class="fas fa-arrow-right arrow"></i>
                         </div>
 
                     </div>
@@ -307,6 +313,7 @@
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#" class="with-underline">Devamını oku</a>
+                            <i class="fas fa-arrow-right arrow"></i>
                         </div>
 
                     </div>
@@ -316,18 +323,17 @@
                             <h3>Free Library</h3>
                             <p>Lorem ipsum dolor <br/> sit amet, consectetur </p>
                             <a href="#" class="with-underline">Devamını oku</a>
+                            <i class="fas fa-arrow-right arrow"></i>
                         </div>
-
                     </div>
                 </div>
-
             </div>
         </div>
         <div class="container">
             <div class="start mb-5">
                 <h1 class="text-center my-5">Improve your business and<br/> make your work easy</h1>
                 <div class="text-center">
-                <button type="button" class="btn btn-primary btn-startfree">Start Free Trial</button>
+                    <button type="button" class="btn btn-primary btn-startfree">Start Free Trial</button>
                 </div>
             </div>
         </div>
