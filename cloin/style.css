@@ -6,6 +6,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
+  position: relative;
 }
 .hero .hero-text {
   padding-top: 303px;
@@ -28,8 +29,18 @@
   padding-right: 35px;
 }
 .hero .hero-form {
-  width: 200px;
-  height: 200px;
+  width: 410px;
+  position: absolute;
+  right: 112px;
+  top: 183px;
+}
+.hero .hero-form .btn-submit {
+  border-radius: 8px;
+  background-color: #05d561;
+  color: #ffff;
+  border-color: #05d561;
+  padding-left: 35px;
+  padding-right: 35px;
 }
 
 /*# sourceMappingURL=style.css.map */

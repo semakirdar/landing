@@ -8,6 +8,7 @@ $text-color: #ffff;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
+  position: relative;
 
   .hero-text {
     padding-top: 303px;
@@ -31,13 +32,28 @@ $text-color: #ffff;
       padding-left: 35px;
       padding-right: 35px;
 
-
     }
 
   }
-  .hero-form{
-    width: 200px;
-    height: 200px;
+
+  .hero-form {
+    width: 410px;
+    position: absolute;
+    right:112px;
+    top: 183px;
+
+
+
+    .btn-submit {
+      border-radius: 8px;
+      background-color: $primary;
+      color: $text-color;
+      border-color: $primary;
+      padding-left: 35px;
+      padding-right: 35px;
+
+    }
+
   }
 
 

@@ -29,7 +29,7 @@
                                 <input type="email" class="form-control" id="exampleFormControlInput1"
                                        placeholder="Phone Number">
                             </div>
-                            <button type="button" class="btn btn-lg btn-primary btn-start mt-5">Submit</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-submit ">Submit</button>
                         </div>
                     </div>
                 </div>
