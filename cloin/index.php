@@ -161,6 +161,11 @@
 
             </div>
         </div>
+        <div class="stats">
+            <div class="container">
+
+            </div>
+        </div>
     </section>
 
 <?php include "footer.php"; ?>
