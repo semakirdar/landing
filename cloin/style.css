@@ -1,0 +1,11 @@
+.hero {
+  width: 100%;
+  height: 973px;
+  background-image: url("images/hero-background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+/*# sourceMappingURL=style.css.map */
