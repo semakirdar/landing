@@ -8,9 +8,24 @@
   position: relative;
 }
 .hero .hero-text {
-  padding-top: 20px;
-  padding-left: 30px;
+  padding-top: 303px;
+  padding-left: 90px;
   color: #ffff;
+}
+.hero .hero-text h5 {
+  font-size: 24px;
+  font-weight: inherit;
+}
+.hero .hero-text h3 {
+  font-size: 45px;
+}
+.hero .hero-text .btn-start {
+  border-radius: 25px;
+  background-color: #05d561;
+  color: #ffff;
+  border-color: #05d561;
+  padding-left: 35px;
+  padding-right: 35px;
 }
 
 /*# sourceMappingURL=style.css.map */
