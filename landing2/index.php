@@ -39,7 +39,7 @@
         <div class="capabilities">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12 col-md-6 capabilities-img">
+                    <div class="col-sm-12 col-md-12 col-lg-6 capabilities-img">
                         <div class="images">
                             <div class="capabilities-bottom">
                                 <img src="images/capabilities1.png">
@@ -50,14 +50,14 @@
                         </div>
 
                     </div>
-                    <div class="col-sm-12 col-md-6 capabilities-text">
+                    <div class="col-sm-12 col-md-12 col-lg-6 capabilities-text">
                         <h5>CAPABILITIES</h5>
                         <h1>Overview of your <br/> progress and tasks</h1>
                         <span> Some metrics play an essential role to measure the pulse <br/>of a comapnys customer service effeciency, while others<br/> are more evaluating if a brand has a best approach</span>
                         <div class="line"></div>
                         <div class="capabilities-icon">
                             <div class="row text-center mt-3">
-                                <div class="col-md-6 col-sm-6 ">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <div class="icon-box">
                                         <div class="icon">
                                             <i class="fas fa-clipboard"></i>
@@ -67,7 +67,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-sm-12 col-md-6 ">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <div class="icon-box">
                                         <div class="icon">
                                             <i class="fas fa-envelope"></i>
@@ -81,7 +81,7 @@
 
                             </div>
                             <div class="row text-center mt-3">
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <div class="icon-box">
                                         <div class="icon">
                                             <i class="fas fa-clipboard"></i>
@@ -91,7 +91,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <div class="icon-box">
                                         <div class="icon">
                                             <i class="fas fa-envelope"></i>
