@@ -9,7 +9,7 @@
 }
 .hero .hero-text {
   padding-top: 303px;
-  padding-left: 90px;
+  padding-left: 95px;
   color: #ffff;
 }
 .hero .hero-text h5 {
@@ -26,6 +26,10 @@
   border-color: #05d561;
   padding-left: 35px;
   padding-right: 35px;
+}
+.hero .hero-form {
+  width: 200px;
+  height: 200px;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -11,7 +11,7 @@ $text-color: #ffff;
 
   .hero-text {
     padding-top: 303px;
-    padding-left: 90px;
+    padding-left: 95px;
     color: $text-color;
 
     h5 {
@@ -24,15 +24,20 @@ $text-color: #ffff;
     }
 
     .btn-start {
-    border-radius: 25px;
-      background-color:$primary;
+      border-radius: 25px;
+      background-color: $primary;
       color: $text-color;
       border-color: $primary;
-padding-left: 35px;
+      padding-left: 35px;
       padding-right: 35px;
+
 
     }
 
+  }
+  .hero-form{
+    width: 200px;
+    height: 200px;
   }
 
 
