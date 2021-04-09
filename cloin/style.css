@@ -4,8 +4,6 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  position: relative;
-  position: relative;
 }
 .hero .hero-content {
   padding-top: 50px;
@@ -37,7 +35,7 @@
 }
 .hero .hero-form .form-text .icon-box {
   display: inline-block;
-  background-color: #d9f9e7;
+  background-color: #c2fedc;
   border-radius: 100%;
 }
 .hero .hero-form .form-text .icon-box i {
@@ -46,6 +44,56 @@
 }
 .hero .hero-form .btn-submit {
   border-radius: 8px;
+  background-color: #05d561;
+  color: #ffff;
+  border-color: #05d561;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.features .line {
+  border-bottom: 2px solid #e4e3e7;
+  width: 100%;
+  height: 10px;
+}
+.features .features-text p {
+  font-size: 25px;
+}
+.features .features-icons .icon-box {
+  display: inline-block;
+  background-color: #c2fedc;
+  border-radius: 100%;
+}
+.features .features-icons .icon-box i {
+  padding: 25px;
+  font-size: 15px;
+}
+.features .features-icons h5 {
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+.features .features-icons p {
+  color: #5c636a;
+}
+
+.information {
+  background-color: #dfe3e9;
+  padding-top: 84px;
+}
+.information .information-image img {
+  border-radius: 10px;
+}
+.information .information-text i {
+  font-size: 24px;
+}
+.information .information-text p {
+  padding-left: 32px;
+}
+.information .information-text span {
+  font-weight: bold;
+}
+.information .information-text .btn-getquote {
+  border-radius: 25px;
   background-color: #05d561;
   color: #ffff;
   border-color: #05d561;

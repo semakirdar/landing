@@ -48,7 +48,8 @@
                                                    placeholder="Phone Number">
                                         </div>
                                         <div class="d-grid">
-                                            <button type="button" class="btn btn-lg btn-primary btn-submit ">Submit</button>
+                                            <button type="button" class="btn btn-lg btn-primary btn-submit ">Submit
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
@@ -58,6 +59,107 @@
                 </div>
             </div>
 
+        </div>
+        <div class="container">
+            <div class="features">
+                <div class="features-text mt-5">
+                    <p class="text-center ">We Always Take Attention to Every Details Within Work.</br>
+                        We Care to Deliver and Craft Adaptive Services and </br>
+                        Solutions to Our Customers to Archieve and Satisfy</br>
+                        Their Needs.</p>
+                </div>
+                <div class="line mb-5 mt-5">
+                </div>
+                <div class="features-icons text-center">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-3">
+                            <div class="icon-box">
+                                <i class="fas fa-bullhorn icon-bullhorn"></i>
+                            </div>
+                            <h5>Technological Innovation</h5>
+                            <p>Praesent dapibus, tortor neque </br>
+                                egestas auguae eu vulputate </br> magna eu erat.
+                            </p>
+                        </div>
+                        <div class="col-sm-12 col-md-3">
+                            <div class="icon-box">
+                                <i class="fas fa-bullhorn icon-bullhorn"></i>
+                            </div>
+                            <h5>Technological Innovation</h5>
+                            <p>Praesent dapibus, tortor neque </br>
+                                egestas auguae eu vulputate </br> magna eu erat.
+                            </p>
+                        </div>
+                        <div class="col-sm-12 col-md-3">
+                            <div class="icon-box">
+                                <i class="fas fa-bullhorn icon-bullhorn"></i>
+                            </div>
+                            <h5>Technological Innovation</h5>
+                            <p>Praesent dapibus, tortor neque </br>
+                                egestas auguae eu vulputate </br> magna eu erat.
+                            </p>
+                        </div>
+                        <div class="col-sm-12 col-md-3">
+                            <div class="icon-box">
+                                <i class="fas fa-bullhorn icon-bullhorn"></i>
+                            </div>
+                            <h5>Technological Innovation</h5>
+                            <p>Praesent dapibus, tortor neque </br>
+                                egestas auguae eu vulputate </br> magna eu erat.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="information md-5 mt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="information-text">
+                            <h1>Lorem ipsum dolor sit amet, consectetur adipisicing
+                            </h1>
+                            <h5 class="mb-5 mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing</br>Lorem ipsum
+                                dolor sit amet,
+                                consectetur adipisicing</h5>
+                            <div class="row mb-3">
+                                <div class="col-sm-12 col-md-6">
+                                    <i class="fas fa-chart-line"></i>
+                                    <span>Ultimate Tools</span>
+                                    <p>dolor sit amet,</br> consectetur adipisicing</p>
+                                </div>
+                                <div class="col-sm-12 col-md-6">
+                                    <i class="fas fa-chart-line"></i>
+                                    <span>Best Analytics</span>
+                                    <p>dolor sit amet,</br> consectetur adipisicing</p>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-sm-12 col-md-6">
+                                    <i class="fas fa-chart-line"></i>
+                                    <span>Ultimate Tools</span>
+                                    <p>dolor sit amet,</br> consectetur adipisicing</p>
+                                </div>
+                                <div class="col-sm-12 col-md-6">
+                                    <i class="fas fa-chart-line"></i>
+                                    <span>Best Analytics</span>
+                                    <p>dolor sit amet,</br> consectetur adipisicing</p>
+                                </div>
+                            </div>
+                            <button type="button" class="btn btn-lg btn-primary btn-getquote mt-3">Get Quote</button>
+                        </div>
+
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="information-image">
+                            <img src="images/information.jpg">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
         </div>
     </section>
 
