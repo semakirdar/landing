@@ -1,6 +1,5 @@
 .hero {
   width: 100%;
-  height: 973px;
   background-image: url("images/hero-background.jpg");
   background-position: center;
   background-size: cover;
@@ -8,13 +7,18 @@
   position: relative;
   position: relative;
 }
+.hero .hero-content {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.hero .navbar {
+  background-color: transparent !important;
+}
 .hero .hero-text {
-  padding-top: 303px;
-  padding-left: 95px;
   color: #ffff;
 }
 .hero .hero-text h5 {
-  font-size: 24px;
+  font-size: 23px;
   font-weight: inherit;
 }
 .hero .hero-text h3 {
@@ -28,11 +32,17 @@
   padding-left: 35px;
   padding-right: 35px;
 }
-.hero .hero-form {
-  width: 410px;
-  position: absolute;
-  right: 112px;
-  top: 183px;
+.hero .hero-form .card input {
+  background-color: #dfe3e9;
+}
+.hero .hero-form .form-text .icon-box {
+  display: inline-block;
+  background-color: #d9f9e7;
+  border-radius: 100%;
+}
+.hero .hero-form .form-text .icon-box i {
+  padding: 25px;
+  font-size: 15px;
 }
 .hero .hero-form .btn-submit {
   border-radius: 8px;

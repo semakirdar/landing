@@ -2,7 +2,8 @@ $primary: #05d561;
 $text-color: #ffff;
 .hero {
   width: 100%;
-  height: 973px;
+
+
   background-image: url("images/hero-background.jpg");
   background-position: center;
   background-size: cover;
@@ -10,13 +11,19 @@ $text-color: #ffff;
   position: relative;
   position: relative;
 
+  .hero-content{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+ .navbar{
+   background-color: transparent !important;
+ }
   .hero-text {
-    padding-top: 303px;
-    padding-left: 95px;
     color: $text-color;
 
     h5 {
-      font-size: 24px;
+      font-size: 23px;
       font-weight: inherit;
     }
 
@@ -37,10 +44,30 @@ $text-color: #ffff;
   }
 
   .hero-form {
-    width: 410px;
-    position: absolute;
-    right:112px;
-    top: 183px;
+
+
+
+
+    .card{
+
+
+      .btn-submit{
+
+      }
+      input{
+        background-color: #dfe3e9;
+      }
+    }
+
+    .form-text .icon-box {
+      display: inline-block;
+      background-color:#d9f9e7;
+      border-radius: 100%;
+      i{
+        padding: 25px;
+        font-size: 15px;
+      }
+    }
 
 
 
