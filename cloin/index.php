@@ -3,7 +3,7 @@
     <div class="hero">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-6">
-                <div class="hero-image">
+                <div class="hero-text">
                     <h4>WE CRAFT STUFFS</h4>
                     <h3>We Do Professional Things</br>
                         to Grow Your Business

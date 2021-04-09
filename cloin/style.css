@@ -7,5 +7,10 @@
   background-repeat: no-repeat;
   position: relative;
 }
+.hero .hero-text {
+  padding-top: 20px;
+  padding-left: 30px;
+  color: #ffff;
+}
 
 /*# sourceMappingURL=style.css.map */
