@@ -83,46 +83,55 @@ $text-color: #f8f6f6;
       font-size: 25px;
     }
   }
+
   .features-icons {
     .icon-box {
       display: inline-block;
       background-color: lighten($primary, 45%);
       border-radius: 100%;
+
       i {
         padding: 25px;
         font-size: 15px;
       }
     }
-    h5{
-      margin-top:18px;
+
+    h5 {
+      margin-top: 18px;
       margin-bottom: 18px;
     }
-    p{
-      color:#5c636a;
+
+    p {
+      color: #5c636a;
     }
   }
 }
-.information{
+
+.information {
   background-color: #dfe3e9;
-  padding-top:80px;
-  padding-bottom:80px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 
   .information-image {
-    img{
-      border-radius:10px;
+    img {
+      border-radius: 10px;
     }
   }
-  .information-text{
-    i{
+
+  .information-text {
+    i {
       font-size: 24px;
     }
-    p{
+
+    p {
       padding-left: 32px;
     }
-    span{
+
+    span {
       font-weight: bold;
     }
-    .btn-getquote{
+
+    .btn-getquote {
       border-radius: 25px;
       background-color: $primary;
       color: $text-color;
@@ -133,45 +142,64 @@ $text-color: #f8f6f6;
     }
   }
 }
-.stats{
+
+.stats {
   background-image: url("images/stats-background.jpg");
   width: 100%;
   height: 256px;
-  .icon{
+
+  .icon {
     padding-top: 80px;
-    i{
+
+    i {
       font-size: 40px;
-      color:$primary;
+      color: $primary;
     }
-    h1{
+
+    h1 {
       color: $text-color;
     }
-    h5{
+
+    h5 {
       color: $text-color;
-      font-weight:normal;
+      font-weight: normal;
       font-size: 15px;
     }
   }
 
 }
-.plans{
+
+.plans {
   .box {
-    width: 318px;
+    width: 413px;
     padding: 20px;
     border: 5px solid #dddddd;
     margin: 20px;
-    border-radius: 5px;
-    i{
-      font-size: 37px;
+    border-radius: 8px;
+
+    &:hover {
+      border: 5px solid #05d561;
     }
-    h5{
+
+
+    i {
+      font-size: 37px;
+
+      &:hover {
+        color: #05d561;
+      }
+    }
+
+    h5 {
       color: #878788;
     }
-    p{
+
+    p {
       color: #878788;
       font-size: 15px;
     }
-    .btn-getStarted{
+
+    .btn-getStarted {
       border-radius: 25px;
       background-color: #05d561;
       color: #f8f6f6;
@@ -180,16 +208,25 @@ $text-color: #f8f6f6;
       padding-right: 31px;
     }
 
+.content{
+  span {
+    font-weight: normal;
+    font-size: 27px;
+    margin-right: 89px;
   }
-  .plans-text{
-    h1{
-      font-weight: normal;
-      margin-top: 95px;
-    }
-    h5{
-      font-weight: normal;
-      color:#5c636a;
-    }
+  }
+  }
 
+.plans-text {
+  h1 {
+    font-weight: normal;
+    margin-top: 95px;
   }
+
+  h5 {
+    font-weight: normal;
+    color: #5c636a;
+  }
+
+}
 }

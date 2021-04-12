@@ -209,9 +209,9 @@
                             <h5>STARTER</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started Now
                             </button>
-                            <div class="content">
+                            <div class="content mt-4">
                                 <span>marketing strategy</span>
                                 <i class="fas fa-check-circle"></i>
                                 <span>marketing strategy</span>
@@ -232,8 +232,20 @@
                             <h5>PROFESSIONAL</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started Now
                             </button>
+                            <div class="content mt-4">
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                            </div>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
@@ -242,8 +254,20 @@
                             <h5>ENTERPRISE</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started Now
                             </button>
+                            <div class="content mt-4">
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                            </div>
                         </div>
                     </div>
                 </div>

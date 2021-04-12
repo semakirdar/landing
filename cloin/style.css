@@ -124,14 +124,20 @@
 }
 
 .plans .box {
-  width: 318px;
+  width: 413px;
   padding: 20px;
   border: 5px solid #dddddd;
   margin: 20px;
-  border-radius: 5px;
+  border-radius: 8px;
+}
+.plans .box:hover {
+  border: 5px solid #05d561;
 }
 .plans .box i {
   font-size: 37px;
+}
+.plans .box i:hover {
+  color: #05d561;
 }
 .plans .box h5 {
   color: #878788;
@@ -147,6 +153,11 @@
   border-color: #05d561;
   padding-left: 31px;
   padding-right: 31px;
+}
+.plans .box .content span {
+  font-weight: normal;
+  font-size: 27px;
+  margin-right: 89px;
 }
 .plans .plans-text h1 {
   font-weight: normal;
