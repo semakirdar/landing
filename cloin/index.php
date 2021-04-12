@@ -196,8 +196,12 @@
         </div>
         <div class="container">
             <h1 class="plans">
-                <h1 class="text-center">Lorem ipsum dolor sit amet, consectetur </br> elit. Animi debitis debitis</h1>
-                <h5 class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis id </br>itaque obcaecati quasi rerum. Assumenda at beatae consectetur.</h5>
+                <div class="plans-text text-center">
+                    <h1 class="mb-3">Lorem ipsum dolor sit amet, consectetur </br> elit. Animi debitis
+                        debitis</h1>
+                    <h5 class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis id </br>
+                        itaque obcaecati quasi rerum. Assumenda at beatae consectetur.</h5>
+                </div>
                 <div class="row text-center">
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
@@ -207,8 +211,21 @@
                             <p>Per Month</p>
                             <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now
                             </button>
+                            <div class="content">
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                                <span>marketing strategy</span>
+                                <i class="fas fa-check-circle"></i>
+                            </div>
                         </div>
                     </div>
+
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
                             <i class="fas fa-flag mb-3"></i>
@@ -230,7 +247,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+        </div>
         </div>
     </section>
 <?php include "footer.php"; ?>
