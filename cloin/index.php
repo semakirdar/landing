@@ -195,7 +195,9 @@
             </div>
         </div>
         <div class="container">
-            <div class="plans">
+            <h1 class="plans">
+                <h1 class="text-center">Lorem ipsum dolor sit amet, consectetur </br> elit. Animi debitis debitis</h1>
+                <h5 class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis id </br>itaque obcaecati quasi rerum. Assumenda at beatae consectetur.</h5>
                 <div class="row text-center">
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
@@ -203,7 +205,8 @@
                             <h5>STARTER</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now
+                            </button>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
@@ -212,16 +215,18 @@
                             <h5>PROFESSIONAL</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now
+                            </button>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
-                            <i class="fas fa-user-lock mb-3"></i>
+                            <i class="fas fa-rocket mb-3"></i>
                             <h5>ENTERPRISE</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now
+                            </button>
                         </div>
                     </div>
                 </div>
