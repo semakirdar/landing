@@ -1,5 +1,5 @@
 $primary: #05d561;
-$text-color: #bab8b8;
+$text-color: #f8f6f6;
 .hero {
   width: 100%;
   background-image: url("images/hero-background.jpg");
@@ -153,4 +153,13 @@ $text-color: #bab8b8;
     }
   }
 
+}
+.service {
+  .box {
+    width: 318px;
+    padding: 20px;
+    border: 5px solid gray;
+    margin: 20px;
+    border-radius: 5px;
+  }
 }

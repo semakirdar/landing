@@ -195,18 +195,24 @@
             </div>
         </div>
         <div class="container">
-        <div class="service">
-            <div class="row">
-                <div class="col-sm-12 col-md-12 col-lg-4">
+            <div class="service">
+                <div class="row text-center">
+                    <div class="col-sm-12 col-md-12 col-lg-4">
+                        <div class="box">
 
-                </div>
-                <div class="col-sm-12 col-md-12 col-lg-4">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-lg-4">
+                        <div class="box">
 
-                </div>
-                <div class="col-sm-12 col-md-12 col-lg-4">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-lg-4">
+                        <div class="box">
 
+                        </div>
+                    </div>
                 </div>
-            </div>
             </div>
         </div>
     </section>
