@@ -1,5 +1,5 @@
 $primary: #05d561;
-$text-color: #ffff;
+$text-color: #bab8b8;
 .hero {
   width: 100%;
   background-image: url("images/hero-background.jpg");
@@ -148,6 +148,9 @@ $text-color: #ffff;
     }
     h5{
       color: $text-color;
+      font-weight:normal;
+      font-size: 15px;
     }
   }
+
 }

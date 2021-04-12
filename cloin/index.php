@@ -166,28 +166,28 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-3">
                         <div class="icon text-center">
-                            <i class="fas fa-file-alt"></i>
+                            <i class="fas fa-file-alt mb-3"></i>
                             <h1>1465</h1>
                             <h5>Projects Completed</h5>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-3">
                         <div class="icon text-center">
-                            <i class="fas fa-file-alt"></i>
+                            <i class="fas fa-file-alt mb-3"></i>
                             <h1>1465</h1>
                             <h5>Projects Completed</h5>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-3">
                         <div class="icon text-center">
-                            <i class="fas fa-file-alt"></i>
+                            <i class="fas fa-file-alt mb-3"></i>
                             <h1>1465</h1>
                             <h5>Projects Completed</h5>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-3">
                         <div class="icon text-center">
-                            <i class="fas fa-file-alt"></i>
+                            <i class="fas fa-file-alt mb-3"></i>
                             <h1>1465</h1>
                             <h5>Projects Completed</h5>
                         </div>

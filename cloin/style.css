@@ -13,7 +13,7 @@
   background-color: transparent !important;
 }
 .hero .hero-text {
-  color: #ffff;
+  color: #bab8b8;
 }
 .hero .hero-text h5 {
   font-size: 23px;
@@ -25,7 +25,7 @@
 .hero .hero-text .btn-start {
   border-radius: 25px;
   background-color: #05d561;
-  color: #ffff;
+  color: #bab8b8;
   border-color: #05d561;
   padding-left: 35px;
   padding-right: 35px;
@@ -45,7 +45,7 @@
 .hero .hero-form .btn-submit {
   border-radius: 8px;
   background-color: #05d561;
-  color: #ffff;
+  color: #bab8b8;
   border-color: #05d561;
   padding-left: 35px;
   padding-right: 35px;
@@ -96,7 +96,7 @@
 .information .information-text .btn-getquote {
   border-radius: 25px;
   background-color: #05d561;
-  color: #ffff;
+  color: #bab8b8;
   border-color: #05d561;
   padding-left: 35px;
   padding-right: 35px;
@@ -115,10 +115,12 @@
   color: #05d561;
 }
 .stats .icon h1 {
-  color: #ffff;
+  color: #bab8b8;
 }
 .stats .icon h5 {
-  color: #ffff;
+  color: #bab8b8;
+  font-weight: normal;
+  font-size: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
