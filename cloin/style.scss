@@ -135,4 +135,19 @@ $text-color: #ffff;
 }
 .stats{
   background-image: url("images/stats-background.jpg");
+  width: 100%;
+  height: 256px;
+  .icon{
+    padding-top: 80px;
+    i{
+      font-size: 40px;
+      color:$primary;
+    }
+    h1{
+      color: $text-color;
+    }
+    h5{
+      color: $text-color;
+    }
+  }
 }

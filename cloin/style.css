@@ -104,6 +104,21 @@
 
 .stats {
   background-image: url("images/stats-background.jpg");
+  width: 100%;
+  height: 256px;
+}
+.stats .icon {
+  padding-top: 80px;
+}
+.stats .icon i {
+  font-size: 40px;
+  color: #05d561;
+}
+.stats .icon h1 {
+  color: #ffff;
+}
+.stats .icon h5 {
+  color: #ffff;
 }
 
 /*# sourceMappingURL=style.css.map */
