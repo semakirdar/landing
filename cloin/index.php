@@ -307,7 +307,32 @@
                         </div>
                     </div>
                 </div>
+
         </div>
+        <div class="container">
+            <div class="comment">
+                
+                <div class="row ">
+                    <div class="col-md-4">
+                        <div class="comment-item-box">
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ex, id laboriosam
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="comment-item-box">
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ex, id laboriosam
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="comment-item-box">
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ex, id laboriosam
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 <?php include "footer.php"; ?>
