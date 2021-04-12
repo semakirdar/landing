@@ -312,9 +312,9 @@
         <div class="container">
             <div class="comment">
                 <div class="comment-text text-center">
-                    <p>What Are Our</p>
-                    <h1>Customers Testimonials</h1>
-                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci at, autem, </br>cupiditate
+                    <h2>What Are Our</h2>
+                    <h1 class="mb-3">Customers Testimonials</h1>
+                    <h5 class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci at, autem, </br>cupiditate
                         deserunt eaque esse exercitationem expedita hic,
                        </h5>
                 </div>

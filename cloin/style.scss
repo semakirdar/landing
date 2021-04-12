@@ -170,6 +170,7 @@ $text-color: #f8f6f6;
 }
 
 .plans {
+  padding-bottom: 83px;
   .box {
     width:365px;
     padding: 20px;
@@ -244,11 +245,23 @@ $text-color: #f8f6f6;
   }
 }
 .comment{
+  background-color: #edf1f3;
+  padding-top: 97px;
+  .comment-text{
+    h2{
+      font-size:40px;
+      font-weight: normal;
+    }
+    h5{
+      font-weight: normal;
+    }
+  }
   .comment-item-box{
     width:365px;
     padding: 20px;
     border: 3px solid #05d561;
     margin: 20px;
     border-radius: 8px;
+    background-color: #ffffff;
   }
 }

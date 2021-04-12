@@ -123,6 +123,9 @@
   font-size: 15px;
 }
 
+.plans {
+  padding-bottom: 83px;
+}
 .plans .box {
   width: 365px;
   padding: 20px;
@@ -179,12 +182,24 @@
   color: #5c636a;
 }
 
+.comment {
+  background-color: #edf1f3;
+  padding-top: 97px;
+}
+.comment .comment-text h2 {
+  font-size: 40px;
+  font-weight: normal;
+}
+.comment .comment-text h5 {
+  font-weight: normal;
+}
 .comment .comment-item-box {
   width: 365px;
   padding: 20px;
   border: 3px solid #05d561;
   margin: 20px;
   border-radius: 8px;
+  background-color: #ffffff;
 }
 
 /*# sourceMappingURL=style.css.map */
