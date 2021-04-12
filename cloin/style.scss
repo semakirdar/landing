@@ -161,6 +161,15 @@ $text-color: #f8f6f6;
     border: 5px solid gray;
     margin: 20px;
     border-radius: 5px;
+    i{
+      font-size: 37px;
+    }
+    h5{
+      color: #878788;
+    }
+    p{
+      color: #878788;
+    }
     .btn-getStarted{
       border-radius: 25px;
       background-color: #05d561;
@@ -169,5 +178,6 @@ $text-color: #f8f6f6;
       padding-left: 31px;
       padding-right: 31px;
     }
+
   }
 }

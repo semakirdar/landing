@@ -130,6 +130,15 @@
   margin: 20px;
   border-radius: 5px;
 }
+.plans .box i {
+  font-size: 37px;
+}
+.plans .box h5 {
+  color: #878788;
+}
+.plans .box p {
+  color: #878788;
+}
 .plans .box .btn-getStarted {
   border-radius: 25px;
   background-color: #05d561;

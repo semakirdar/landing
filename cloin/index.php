@@ -199,7 +199,7 @@
                 <div class="row text-center">
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
-                            <i class="fas fa-user-lock"></i>
+                            <i class="fas fa-user-lock mb-3"></i>
                             <h5>STARTER</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
@@ -208,8 +208,8 @@
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
-                            <i class="fas fa-user-lock"></i>
-                            <h5>STARTER</h5>
+                            <i class="fas fa-flag mb-3"></i>
+                            <h5>PROFESSIONAL</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
                             <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
@@ -217,8 +217,8 @@
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
-                            <i class="fas fa-user-lock"></i>
-                            <h5>STARTER</h5>
+                            <i class="fas fa-user-lock mb-3"></i>
+                            <h5>ENTERPRISE</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
                             <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
