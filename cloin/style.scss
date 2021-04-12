@@ -171,23 +171,26 @@ $text-color: #f8f6f6;
 
 .plans {
   .box {
-    width: 413px;
+    width:365px;
     padding: 20px;
     border: 5px solid #dddddd;
     margin: 20px;
     border-radius: 8px;
 
     &:hover {
+      transition: all 1s ease-out;
       border: 5px solid #05d561;
+
+      i {
+        transition: all 5s ease-out;
+        color: #05d561;
+
+      }
     }
 
 
     i {
       font-size: 37px;
-
-      &:hover {
-        color: #05d561;
-      }
     }
 
     h5 {
@@ -208,25 +211,35 @@ $text-color: #f8f6f6;
       padding-right: 31px;
     }
 
-.content{
-  span {
-    font-weight: normal;
-    font-size: 27px;
-    margin-right: 89px;
-  }
-  }
+    .content {
+      .content-item {
+        width: 100%;
+        display: inline-block;
+        span {
+          font-weight: normal;
+          font-size: 20px;
+          float: left;
+          color: #5c636a;
+        }
+
+        i {
+          float: right;
+          font-size: 20px;
+        }
+      }
+    }
   }
 
-.plans-text {
-  h1 {
-    font-weight: normal;
-    margin-top: 95px;
-  }
+  .plans-text {
+    h1 {
+      font-weight: normal;
+      margin-top: 95px;
+    }
 
-  h5 {
-    font-weight: normal;
-    color: #5c636a;
-  }
+    h5 {
+      font-weight: normal;
+      color: #5c636a;
+    }
 
-}
+  }
 }

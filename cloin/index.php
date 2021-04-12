@@ -209,19 +209,31 @@
                             <h5>STARTER</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started Now
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started
+                                Now
                             </button>
                             <div class="content mt-4">
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -232,19 +244,31 @@
                             <h5>PROFESSIONAL</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started Now
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started
+                                Now
                             </button>
                             <div class="content mt-4">
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -254,19 +278,31 @@
                             <h5>ENTERPRISE</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started Now
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started
+                                Now
                             </button>
                             <div class="content mt-4">
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
-                                <span>marketing strategy</span>
-                                <i class="fas fa-check-circle"></i>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                                <div class="content-item">
+                                    <span>marketing strategy</span>
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+
                             </div>
                         </div>
                     </div>
