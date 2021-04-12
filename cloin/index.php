@@ -203,7 +203,7 @@
                             <h5>STARTER</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Quote</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
@@ -212,7 +212,7 @@
                             <h5>STARTER</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Quote</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
@@ -221,7 +221,7 @@
                             <h5>STARTER</h5>
                             <H1>$249</H1>
                             <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Quote</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3">Get Started Now</button>
                         </div>
                     </div>
                 </div>
