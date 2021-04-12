@@ -311,23 +311,32 @@
         </div>
         <div class="container">
             <div class="comment">
-                
+                <div class="comment-text text-center">
+                    <p>What Are Our</p>
+                    <h1>Customers Testimonials</h1>
+                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci at, autem, </br>cupiditate
+                        deserunt eaque esse exercitationem expedita hic,
+                       </h5>
+                </div>
                 <div class="row ">
                     <div class="col-md-4">
                         <div class="comment-item-box">
-                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ex, id laboriosam
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Consequuntur ex, id laboriosam
                             </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="comment-item-box">
-                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ex, id laboriosam
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Consequuntur ex, id laboriosam
                             </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="comment-item-box">
-                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ex, id laboriosam
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Consequuntur ex, id laboriosam
                             </p>
                         </div>
                     </div>
