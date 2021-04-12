@@ -314,9 +314,10 @@
                 <div class="comment-text text-center">
                     <h2>What Are Our</h2>
                     <h1 class="mb-3">Customers Testimonials</h1>
-                    <h5 class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci at, autem, </br>cupiditate
+                    <h5 class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci at,
+                        autem, </br>cupiditate
                         deserunt eaque esse exercitationem expedita hic,
-                       </h5>
+                    </h5>
                 </div>
                 <div class="row ">
                     <div class="col-md-4">
@@ -325,12 +326,10 @@
                                 Consequuntur ex, id laboriosam
                             </p>
                         </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="comment-item-box">
-                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Consequuntur ex, id laboriosam
-                            </p>
+                        <div class="review text-center">
+                            <img src="images/michael.jpg">
+                            <h3>Michael Smith</h3>
+                            <h5>Backend Developer</h5>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -338,6 +337,23 @@
                             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Consequuntur ex, id laboriosam
                             </p>
+                        </div>
+                        <div class="review text-center">
+                            <img src="images/tom.jpg">
+                            <h3>Michael Smith</h3>
+                            <h5>Backend Developer</h5>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="comment-item-box">
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Consequuntur ex, id laboriosam
+                            </p>
+                        </div>
+                        <div class="review text-center">
+                            <img src="images/matt.jpg">
+                            <h3>Michael Smith</h3>
+                            <h5>Backend Developer</h5>
                         </div>
                     </div>
                 </div>
