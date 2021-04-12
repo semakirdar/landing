@@ -112,7 +112,6 @@
                 </div>
             </div>
         </div>
-
         <div class="information md-5 mt-5">
             <div class="container">
                 <div class="row">
@@ -193,6 +192,21 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="container">
+        <div class="service">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-4">
+
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+
+                </div>
+            </div>
             </div>
         </div>
     </section>
