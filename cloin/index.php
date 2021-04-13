@@ -411,7 +411,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-    <h1>Lorem ipsum dolor sit amet, consectetur adipisicing </h1>
+                        <div class="contact-text">
+                        <p>We are waiting</p>
+                        <h1 class="mb-3">Lets get started now!</h1>
+                        <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium alias asperiores, consectetur dicta explicabo illum inventore laudantium </span>
+                        </div>
                     </div>
                     <div class="col-md-6">
 

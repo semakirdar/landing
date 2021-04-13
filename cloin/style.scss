@@ -171,8 +171,9 @@ $text-color: #f8f6f6;
 
 .plans {
   padding-bottom: 83px;
+
   .box {
-    width:365px;
+    width: 365px;
     padding: 20px;
     border: 5px solid #dddddd;
     margin: 20px;
@@ -216,6 +217,7 @@ $text-color: #f8f6f6;
       .content-item {
         width: 100%;
         display: inline-block;
+
         span {
           font-weight: normal;
           font-size: 20px;
@@ -244,54 +246,81 @@ $text-color: #f8f6f6;
 
   }
 }
-.comment{
+
+.comment {
   background-color: #edf1f3;
   padding-top: 97px;
   padding-bottom: 97px;
-  .comment-text{
-    h2{
-      font-size:40px;
+
+  .comment-text {
+    h2 {
+      font-size: 40px;
       font-weight: normal;
     }
-    h5{
+
+    h5 {
       font-weight: normal;
     }
   }
-  .comment-item-box{
-    width:365px;
+
+  .comment-item-box {
+    width: 365px;
     padding: 20px;
     border: 3px solid #05d561;
     margin: 20px;
     border-radius: 8px;
     background-color: #ffffff;
   }
-  .review{
+
+  .review {
     margin-top: 43px;
-    img{
+
+    img {
       border-radius: 100%;
     }
-    h5{
-      color:#5c636a;
+
+    h5 {
+      color: #5c636a;
       font-weight: normal;
     }
-    .review-star{
-      color:#ffc107;
+
+    .review-star {
+      color: #ffc107;
     }
   }
 }
-.sponsors{
-  background-color:#05d561;
-  .sponsors-item{
+
+.sponsors {
+  background-color: #05d561;
+
+  .sponsors-item {
     padding-bottom: 47px;
     padding-top: 72px;
   }
 }
-.contact{
+
+.contact {
   width: 100%;
   background-image: url("images/contact-background.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 
+  .contact-text {
+    padding-top: 120px;
+    padding-bottom: 150px;
+    p {
+      color: white;
+      font-size: 35px;
+    }
 
+    h1 {
+      color: white;
+    }
+
+    span {
+      color: #888585;
+      font-size: 20px;
+    }
+  }
 }

@@ -231,5 +231,20 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.contact .contact-text {
+  padding-top: 120px;
+  padding-bottom: 150px;
+}
+.contact .contact-text p {
+  color: white;
+  font-size: 35px;
+}
+.contact .contact-text h1 {
+  color: white;
+}
+.contact .contact-text span {
+  color: #888585;
+  font-size: 20px;
+}
 
 /*# sourceMappingURL=style.css.map */
