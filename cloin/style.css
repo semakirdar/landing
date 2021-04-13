@@ -295,6 +295,7 @@ footer .icons i {
 
   footer .icons {
     float: left;
+    margin-bottom: 20px;
   }
 }
 @media only screen and (max-width: 769px) {
