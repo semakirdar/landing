@@ -224,4 +224,12 @@
   padding-top: 72px;
 }
 
+.contact {
+  width: 100%;
+  background-image: url("images/contact-background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 /*# sourceMappingURL=style.css.map */
