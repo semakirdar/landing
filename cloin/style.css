@@ -290,8 +290,8 @@ footer .icons i {
     margin-top: 36px;
   }
 
-  .plans .plans-item {
-    padding-left: 0px !important;
+  footer .icons {
+    float: left;
   }
 }
 @media only screen and (max-width: 769px) {
@@ -312,6 +312,10 @@ footer .icons i {
 
   .hero .card {
     margin-top: 25px;
+  }
+
+  .plans .plans-item {
+    padding-left: 0px !important;
   }
 }
 
