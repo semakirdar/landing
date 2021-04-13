@@ -262,4 +262,20 @@
   color: #888585;
 }
 
+footer {
+  padding-top: 40px;
+}
+footer p {
+  float: left;
+}
+footer .icons {
+  float: right;
+  font-size: 20px;
+}
+footer .icons i {
+  padding: 5px;
+  background-color: #c8c8c3;
+  border-radius: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */

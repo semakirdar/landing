@@ -340,3 +340,19 @@ $text-color: #f8f6f6;
     }
   }
 }
+footer{
+  padding-top: 40px;
+  p{
+    float:left;
+  }
+  .icons{
+    float: right;
+    font-size: 20px;
+
+    i{
+      padding:5px;
+      background-color: #c8c8c3;
+      border-radius: 100%;
+    }
+  }
+}
