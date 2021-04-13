@@ -310,17 +310,33 @@ $text-color: #f8f6f6;
     padding-top: 120px;
     padding-bottom: 150px;
     p {
-      color: white;
+      color:  $text-color;
       font-size: 35px;
     }
 
     h1 {
-      color: white;
+      color: $text-color;
     }
 
     span {
       color: #888585;
       font-size: 20px;
+    }
+  }
+  .contact-btn{
+    margin-top: 176px;
+  .btn-letsstart{
+    border-radius:25px;
+    background-color: $primary;
+    color: $text-color;
+    border-color: $primary;
+    padding-left: 35px;
+    padding-right: 35px;
+
+  }
+    h5{
+      font-size: 15px;
+      color: #888585;
     }
   }
 }

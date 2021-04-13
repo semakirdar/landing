@@ -412,12 +412,16 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="contact-text">
-                        <p>We are waiting</p>
-                        <h1 class="mb-3">Lets get started now!</h1>
-                        <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium alias asperiores, consectetur dicta explicabo illum inventore laudantium </span>
+                            <p>We are waiting</p>
+                            <h1 class="mb-3">Lets get started now!</h1>
+                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium alias asperiores, consectetur dicta explicabo illum inventore laudantium </span>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 text-center">
+                        <div class="contact-btn">
+                        <button type="button" class="btn btn-lg btn-primary btn-letsstart mt-3">Let's Start</button>
+                            <h5>we hope to listen </br> from you soon</h5>
+                        </div>
 
                     </div>
                 </div>

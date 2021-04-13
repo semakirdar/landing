@@ -236,15 +236,30 @@
   padding-bottom: 150px;
 }
 .contact .contact-text p {
-  color: white;
+  color: #f8f6f6;
   font-size: 35px;
 }
 .contact .contact-text h1 {
-  color: white;
+  color: #f8f6f6;
 }
 .contact .contact-text span {
   color: #888585;
   font-size: 20px;
+}
+.contact .contact-btn {
+  margin-top: 176px;
+}
+.contact .contact-btn .btn-letsstart {
+  border-radius: 25px;
+  background-color: #05d561;
+  color: #f8f6f6;
+  border-color: #05d561;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.contact .contact-btn h5 {
+  font-size: 15px;
+  color: #888585;
 }
 
 /*# sourceMappingURL=style.css.map */
