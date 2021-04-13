@@ -3,7 +3,7 @@
         <div class="hero">
             <nav class="navbar navbar-light bg-light">
                 <div class="container">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="index.php">
                         <img src="images/logo-header.png" alt="">
                     </a>
                 </div>
@@ -115,7 +115,7 @@
         <div class="information md-5 mt-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-sm-12 col-md-12 col-lg-6">
                         <div class="information-text">
                             <h1>Lorem ipsum dolor sit amet, consectetur adipisicing
                             </h1>
@@ -123,24 +123,24 @@
                                 dolor sit amet,
                                 consectetur adipisicing</h5>
                             <div class="row mb-3">
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <i class="fas fa-chart-line"></i>
                                     <span>Ultimate Tools</span>
                                     <p>dolor sit amet,</br> consectetur adipisicing</p>
                                 </div>
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <i class="fas fa-chart-line"></i>
                                     <span>Best Analytics</span>
                                     <p>dolor sit amet,</br> consectetur adipisicing</p>
                                 </div>
                             </div>
                             <div class="row mb-3">
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <i class="fas fa-chart-line"></i>
                                     <span>Ultimate Tools</span>
                                     <p>dolor sit amet,</br> consectetur adipisicing</p>
                                 </div>
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
                                     <i class="fas fa-chart-line"></i>
                                     <span>Best Analytics</span>
                                     <p>dolor sit amet,</br> consectetur adipisicing</p>
@@ -150,7 +150,7 @@
                         </div>
 
                     </div>
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-sm-12 col-md-12 col-lg-6">
                         <div class="information-image">
                             <img src="images/information.jpg">
                         </div>
@@ -202,111 +202,115 @@
                     <h5 class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis id </br>
                         itaque obcaecati quasi rerum. Assumenda at beatae consectetur.</h5>
                 </div>
-                <div class="row text-center">
-                    <div class="col-sm-12 col-md-12 col-lg-4">
-                        <div class="box">
-                            <i class="fas fa-user-lock mb-3"></i>
-                            <h5>STARTER</h5>
-                            <H1>$249</H1>
-                            <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started
-                                Now
-                            </button>
-                            <div class="content mt-4">
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
+                <div class="plans-item">
+                    <div class="row text-center">
+                        <div class="col-sm-12 col-md-12 col-lg-4">
+                            <div class="box">
+                                <i class="fas fa-user-lock mb-3"></i>
+                                <h5>STARTER</h5>
+                                <H1>$249</H1>
+                                <p>Per Month</p>
+                                <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get
+                                    Started
+                                    Now
+                                </button>
+                                <div class="content mt-4">
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
 
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-lg-4">
-                        <div class="box">
-                            <i class="fas fa-flag mb-3"></i>
-                            <h5>PROFESSIONAL</h5>
-                            <H1>$249</H1>
-                            <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started
-                                Now
-                            </button>
-                            <div class="content mt-4">
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
+                        <div class="col-sm-12 col-md-12 col-lg-4">
+                            <div class="box">
+                                <i class="fas fa-flag mb-3"></i>
+                                <h5>PROFESSIONAL</h5>
+                                <H1>$249</H1>
+                                <p>Per Month</p>
+                                <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get
+                                    Started
+                                    Now
+                                </button>
+                                <div class="content mt-4">
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
 
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-lg-4">
-                        <div class="box">
-                            <i class="fas fa-rocket mb-3"></i>
-                            <h5>ENTERPRISE</h5>
-                            <H1>$249</H1>
-                            <p>Per Month</p>
-                            <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get Started
-                                Now
-                            </button>
-                            <div class="content mt-4">
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
-                                <div class="content-item">
-                                    <span>marketing strategy</span>
-                                    <i class="fas fa-check-circle"></i>
-                                </div>
+                        <div class="col-sm-12 col-md-12 col-lg-4">
+                            <div class="box">
+                                <i class="fas fa-rocket mb-3"></i>
+                                <h5>ENTERPRISE</h5>
+                                <H1>$249</H1>
+                                <p>Per Month</p>
+                                <button type="button" class="btn btn-lg btn-primary btn-getStarted mt-3 shadow">Get
+                                    Started
+                                    Now
+                                </button>
+                                <div class="content mt-4">
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                    <div class="content-item">
+                                        <span>marketing strategy</span>
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
 
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
         <div class="comment">
@@ -320,7 +324,7 @@
                     </h5>
                 </div>
                 <div class="row ">
-                    <div class="col-md-4">
+                    <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="comment-item-box">
                             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Consequuntur ex, id laboriosam
@@ -339,7 +343,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="comment-item-box">
                             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Consequuntur ex, id laboriosam
@@ -358,7 +362,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="comment-item-box">
                             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Consequuntur ex, id laboriosam
@@ -384,22 +388,22 @@
             <div class="container">
                 <div class="sponsors-item">
                     <div class="row">
-                        <div class="col-md-2">
+                        <div class="col-sm-12 col-md-12 col-lg-2">
                             <img src="images/wayward.png">
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-sm-12 col-md-12 col-lg-2">
                             <img src="images/infra.png">
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-sm-12 col-md-12 col-lg-2">
                             <img src="images/DNES.png">
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-sm-12 col-md-12 col-lg-2">
                             <img src="images/foster.png">
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-sm-12 col-md-12 col-lg-2">
                             <img src="images/CR.png">
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-sm-12 col-md-12 col-lg-2">
                             <img src="images/wayward.png">
                         </div>
                     </div>
@@ -419,7 +423,7 @@
                     </div>
                     <div class="col-md-6 text-center">
                         <div class="contact-btn">
-                        <button type="button" class="btn btn-lg btn-primary btn-letsstart mb-3">Let's Start</button>
+                            <button type="button" class="btn btn-lg btn-primary btn-letsstart mb-3">Let's Start</button>
                             <h5>we hope to listen </br> from you soon</h5>
                         </div>
 
