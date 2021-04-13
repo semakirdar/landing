@@ -247,6 +247,7 @@ $text-color: #f8f6f6;
 .comment{
   background-color: #edf1f3;
   padding-top: 97px;
+  padding-bottom: 97px;
   .comment-text{
     h2{
       font-size:40px;
@@ -273,5 +274,15 @@ $text-color: #f8f6f6;
       color:#5c636a;
       font-weight: normal;
     }
+    .review-star{
+      color:#ffc107;
+    }
+  }
+}
+.sponsors{
+  background-color:#05d561;
+  .sponsors-item{
+    padding-bottom: 47px;
+    padding-top: 72px;
   }
 }

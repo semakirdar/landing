@@ -195,7 +195,7 @@
             </div>
         </div>
         <div class="container">
-            <h1 class="plans">
+            <div class="plans">
                 <div class="plans-text text-center">
                     <h1 class="mb-3">Lorem ipsum dolor sit amet, consectetur </br> elit. Animi debitis
                         debitis</h1>
@@ -237,7 +237,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="box">
                             <i class="fas fa-flag mb-3"></i>
@@ -308,9 +307,10 @@
                     </div>
                 </div>
 
+            </div>
         </div>
-        <div class="container">
-            <div class="comment">
+        <div class="comment">
+            <div class="container">
                 <div class="comment-text text-center">
                     <h2>What Are Our</h2>
                     <h1 class="mb-3">Customers Testimonials</h1>
@@ -330,6 +330,13 @@
                             <img src="images/michael.jpg">
                             <h3>Michael Smith</h3>
                             <h5>Backend Developer</h5>
+                            <div class="review-star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -342,6 +349,13 @@
                             <img src="images/tom.jpg">
                             <h3>Michael Smith</h3>
                             <h5>Backend Developer</h5>
+                            <div class="review-star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -354,9 +368,43 @@
                             <img src="images/matt.jpg">
                             <h3>Michael Smith</h3>
                             <h5>Backend Developer</h5>
+                            <div class="review-star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="sponsors">
+            <div class="container">
+                <div class="sponsors-item">
+                    <div class="row">
+                        <div class="col-md-2">
+                            <img src="images/wayward.png">
+                        </div>
+                        <div class="col-md-2">
+                            <img src="images/infra.png">
+                        </div>
+                        <div class="col-md-2">
+                            <img src="images/DNES.png">
+                        </div>
+                        <div class="col-md-2">
+                            <img src="images/foster.png">
+                        </div>
+                        <div class="col-md-2">
+                            <img src="images/CR.png">
+                        </div>
+                        <div class="col-md-2">
+                            <img src="images/wayward.png">
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>

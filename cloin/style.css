@@ -185,6 +185,7 @@
 .comment {
   background-color: #edf1f3;
   padding-top: 97px;
+  padding-bottom: 97px;
 }
 .comment .comment-text h2 {
   font-size: 40px;
@@ -210,6 +211,17 @@
 .comment .review h5 {
   color: #5c636a;
   font-weight: normal;
+}
+.comment .review .review-star {
+  color: #ffc107;
+}
+
+.sponsors {
+  background-color: #05d561;
+}
+.sponsors .sponsors-item {
+  padding-bottom: 47px;
+  padding-top: 72px;
 }
 
 /*# sourceMappingURL=style.css.map */
