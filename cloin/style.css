@@ -30,6 +30,9 @@
   padding-left: 35px;
   padding-right: 35px;
 }
+.hero .hero-form .card {
+  padding-bottom: 30px;
+}
 .hero .hero-form .card input {
   background-color: #dfe3e9;
 }
@@ -309,6 +312,9 @@ footer .icons i {
   .information .information-image img {
     margin-top: 36px;
   }
+  .information .information-text {
+    text-align: center;
+  }
 
   .hero .card {
     margin-top: 25px;
@@ -316,6 +322,10 @@ footer .icons i {
 
   .plans .plans-item {
     padding-left: 0px !important;
+  }
+
+  .contact .contact-text {
+    text-align: center;
   }
 }
 
