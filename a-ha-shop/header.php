@@ -15,7 +15,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light nav-top">
-    <div class="container-fluid">
+    <div class="container">
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item">
@@ -38,9 +38,10 @@
         </div>
     </div>
 </nav>
-<div class="container-fluid">
+
+<div class="container">
     <div class="nav-middle">
-        <div class="line">
+        <div class="line ">
         </div>
         <div class="row">
             <div class="col-md-4">
@@ -62,14 +63,14 @@
                     <i class="fas fa-shopping-cart"></i>
                 </div>
             </div>
-
         </div>
-        <div class="line">
+        <div class="line ">
         </div>
     </div>
 </div>
+
 <nav class="navbar navbar-expand-lg navbar-light nav-lower ">
-    <div class="container-fluid">
+    <div class="container">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
                 aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -77,7 +78,7 @@
         <div class="collapse navbar-collapse " id="navbarScroll">
             <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll mx-auto" style="--bs-scroll-height: 100px;">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">HOME</a>
+                    <a class="nav-link active" aria-current="page" href="home.php">HOME</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">PAGES</a>
@@ -108,8 +109,8 @@
             </ul>
         </div>
     </div>
-
 </nav>
+<div class="container">
 <div class="line"></div>
-
+</div>
 

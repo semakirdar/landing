@@ -1,7 +1,3 @@
-.nav-middle .line {
-  border-bottom: 1px solid #eaeaea;
-  padding-top: 5px;
-}
 .nav-middle .nav-search {
   margin-top: 50px;
   margin-bottom: 50px;
@@ -12,6 +8,10 @@
 }
 .nav-middle .shopping-cart {
   margin-top: 60px;
+}
+.nav-middle .line {
+  border-bottom: 1px solid #eaeaea;
+  padding-top: 5px;
 }
 
 .nav-lower .collapse li {
