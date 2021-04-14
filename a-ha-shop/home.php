@@ -75,7 +75,18 @@
                 </div>
             </div>
             <div class="subscribe">
+                <div class="row">
+                    <div class="col-md-6 text-end">
+                        <p>SUBSCRIBE TO RECEIVE OUR UPDATES</p>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="input-group mb-3">
+                            <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
+                            <button class="btn btn-outline-secondary btn-subscribe" type="button" id="button-addon2">Subscribe</button>
+                        </div>
+                    </div>
 
+                </div>
             </div>
         </div>
     </section>
