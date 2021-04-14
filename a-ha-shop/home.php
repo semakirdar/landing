@@ -88,6 +88,41 @@
 
                 </div>
             </div>
+            <div class="best-sellers">
+                <h2 class="text-center">BEST SELLERS</h2>
+                <div class="shop">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="shop-item">
+                                <img src="images/shop_item_1.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="shop-item">
+                                <img src="images/shop_item_2.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="shop-item">
+                                <img src="images/shop_item_3.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="shop-item">
+                                <img src="images/shop_item_4.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 <?php include "footer.php"; ?>

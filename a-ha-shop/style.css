@@ -60,4 +60,23 @@
   width: 60%;
 }
 
+.best-sellers {
+  margin-top: 80px;
+}
+.best-sellers h2 {
+  margin-bottom: 80px;
+}
+.best-sellers .shop .shop-item p {
+  text-align: center;
+  color: #5c636a;
+  margin-top: 25px;
+}
+.best-sellers .shop .shop-item img {
+  width: 100%;
+}
+.best-sellers .shop .shop-item h4 {
+  text-align: center;
+  font-weight: bolder;
+}
+
 /*# sourceMappingURL=style.css.map */
