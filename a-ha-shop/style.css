@@ -53,5 +53,8 @@
   background-color: black;
   color: white;
 }
+.subscribe .input-group {
+  width: 60%;
+}
 
 /*# sourceMappingURL=style.css.map */
