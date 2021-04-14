@@ -110,7 +110,6 @@
     </div>
 
 </nav>
-<div class="line">
-    <div class="line-item">
-    </div>
-</div
+<div class="line"></div>
+
+
