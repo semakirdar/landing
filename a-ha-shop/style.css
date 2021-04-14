@@ -23,6 +23,12 @@
   padding-top: 5px;
 }
 
+.new-arrivals {
+  margin-top: 80px;
+}
+.new-arrivals h2 {
+  margin-bottom: 80px;
+}
 .new-arrivals .shop .shop-item p {
   text-align: center;
   color: #5c636a;
