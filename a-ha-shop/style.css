@@ -34,6 +34,9 @@
   color: #5c636a;
   margin-top: 25px;
 }
+.new-arrivals .shop .shop-item img {
+  width: 100%;
+}
 .new-arrivals .shop .shop-item h4 {
   text-align: center;
   font-weight: bolder;
