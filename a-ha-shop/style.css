@@ -41,14 +41,17 @@
 
 .subscribe {
   margin-top: 70px;
-  background-color: #e5ebf5;
+  background-color: #eff3fa;
   padding: 50px;
-  line-height: 20px;
 }
 .subscribe p {
   font-weight: bolder;
   color: #4e4e4f;
-  font-size: 28px;
+  font-size: 23px;
+}
+.subscribe .btn-subscribe {
+  background-color: black;
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
