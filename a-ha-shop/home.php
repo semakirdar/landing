@@ -40,20 +40,28 @@
                 </div>
             </div>
             <div class="new-arrivals">
-                <h2>NEW ARRIVALS</h2>
+                <h2 class="text-center">NEW ARRIVALS</h2>
                 <div class="shop">
                     <div class="row">
                         <div class="col-md-3">
-                            <img src="images/shop_item_1.jpg">
+                            <div class="shop-item">
+                                <img src="images/shop_item_1.jpg">
+                            </div>
                         </div>
                         <div class="col-md-3">
-                            <img src="images/shop_item_2.jpg">
+                            <div class="shop-item">
+                                <img src="images/shop_item_2.jpg">
+                            </div>
                         </div>
                         <div class="col-md-3">
-                            <img src="images/shop_item_3.jpg">
+                            <div class="shop-item">
+                                <img src="images/shop_item_3.jpg">
+                            </div>
                         </div>
                         <div class="col-md-3">
-                            <img src="images/shop_item_4.jpg">
+                            <div class="shop-item">
+                                <img src="images/shop_item_4.jpg">
+                            </div>
                         </div>
                     </div>
                 </div>
