@@ -84,7 +84,20 @@
   color: #5c636a;
   margin-top: 25px;
 }
-.best-sellers .shop .shop-item img {
+.best-sellers .shop .shop-item .image {
+  position: relative;
+}
+.best-sellers .shop .shop-item .image .button {
+  opacity: 0;
+  transition: opacity 0.5s;
+  position: absolute;
+  bottom: 350px;
+  left: 25px;
+}
+.best-sellers .shop .shop-item .image:hover .button {
+  opacity: 1;
+}
+.best-sellers .shop .shop-item .image img {
   width: 100%;
 }
 .best-sellers .shop .shop-item h4 {

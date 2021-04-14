@@ -112,10 +112,24 @@
         margin-top: 25px;
       }
 
-      img {
-        width: 100%;
+      .image {
+        position: relative;
 
+        .button {
+          opacity: 0;
+          transition: opacity 0.5s;
+          position: absolute;
+          bottom: 350px;
+          left: 25px;
+        }
 
+        &:hover .button {
+          opacity: 1;
+        }
+
+        img {
+          width: 100%;
+        }
       }
 
       h4 {
