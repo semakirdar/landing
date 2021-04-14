@@ -74,6 +74,9 @@
                     </div>
                 </div>
             </div>
+            <div class="subscribe">
+
+            </div>
         </div>
     </section>
 <?php include "footer.php"; ?>
