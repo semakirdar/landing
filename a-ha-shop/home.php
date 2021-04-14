@@ -46,21 +46,29 @@
                         <div class="col-md-3">
                             <div class="shop-item">
                                 <img src="images/shop_item_1.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
                                 <img src="images/shop_item_2.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
                                 <img src="images/shop_item_3.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
                                 <img src="images/shop_item_4.jpg">
+                                <p>Night Party Dress</p>
+                                <h4>$159.99</h4>
                             </div>
                         </div>
                     </div>
