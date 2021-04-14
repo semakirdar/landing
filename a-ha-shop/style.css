@@ -1,0 +1,25 @@
+.nav-middle .line {
+  border-bottom: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+.nav-middle .nav-search {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 50%;
+}
+.nav-middle .text {
+  margin-top: 60px;
+}
+.nav-middle .shopping-cart {
+  margin-top: 60px;
+}
+
+.nav-lower .collapse li {
+  margin-right: 25px;
+}
+.nav-lower .line {
+  border-bottom: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
