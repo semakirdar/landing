@@ -121,29 +121,52 @@
                     <div class="row">
                         <div class="col-md-3">
                             <div class="shop-item">
-
-                                <img src="images/shop_item_1.jpg">
+                                <div class="image">
+                                    <img src="images/shop_item_1.jpg">
+                                    <div class="button">
+                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="far fa-heart"></i>
+                                    </div>
+                                </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
-                                <img src="images/shop_item_2.jpg">
+                                <div class="image">
+                                    <img src="images/shop_item_2.jpg">
+                                    <div class="button">
+                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="far fa-heart"></i>
+                                    </div>
+                                </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
-                                <img src="images/shop_item_3.jpg">
+                                <div class="image">
+                                    <img src="images/shop_item_3.jpg">
+                                    <div class="button">
+                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="far fa-heart"></i>
+                                    </div>
+                                </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
-                                <img src="images/shop_item_4.jpg">
+                                <div class="image">
+                                    <img src="images/shop_item_4.jpg">
+                                    <div class="button">
+                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="far fa-heart"></i>
+                                    </div>
+                                </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
                             </div>
