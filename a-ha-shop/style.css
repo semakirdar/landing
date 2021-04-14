@@ -23,4 +23,14 @@
   padding-top: 5px;
 }
 
+.new-arrivals .shop .shop-item p {
+  text-align: center;
+  color: #5c636a;
+  margin-top: 25px;
+}
+.new-arrivals .shop .shop-item h4 {
+  text-align: center;
+  font-weight: bolder;
+}
+
 /*# sourceMappingURL=style.css.map */

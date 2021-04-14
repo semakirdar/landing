@@ -4,16 +4,21 @@
     margin-bottom: 50px;
     width: 50%;
   }
+
   .text {
     margin-top: 60px;
   }
+
   .shopping-cart {
     margin-top: 60px;
   }
+
   .line {
     border-bottom: 1px solid #eaeaea;
-    padding-top: 5px;}
+    padding-top: 5px;
+  }
 }
+
 .nav-lower {
   .collapse {
     li {
@@ -21,7 +26,26 @@
     }
   }
 }
- .line {
-    border-bottom: 1px solid #eaeaea;
-    padding-top: 5px;
+
+.line {
+  border-bottom: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.new-arrivals {
+  .shop {
+    .shop-item {
+
+      p {
+        text-align: center;
+        color: #5c636a;
+        margin-top: 25px;
+      }
+
+      h4 {
+        text-align: center;
+        font-weight: bolder;
+      }
+    }
   }
+}
