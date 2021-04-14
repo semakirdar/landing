@@ -33,6 +33,23 @@
                 </button>
             </div>
         </div>
+        <div class="new-arrivals">
+            <h2>NEW ARRIVALS</h2>
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="#">
+                </div>
+                <div class="col-md-3">
+                    <img src="#">
+                </div>
+                <div class="col-md-3">
+                    <img src="#">
+                </div>
+                <div class="col-md-3">
+                    <img src="#">
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <?php include "footer.php"; ?>
