@@ -58,21 +58,39 @@
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
-                                <img src="images/shop_item_2.jpg">
+                                <div class="image">
+                                    <img src="images/shop_item_2.jpg">
+                                    <div class="button">
+                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="far fa-heart"></i>
+                                    </div>
+                                </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
-                                <img src="images/shop_item_3.jpg">
+                                <div class="image">
+                                    <img src="images/shop_item_3.jpg">
+                                    <div class="button">
+                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="far fa-heart"></i>
+                                    </div>
+                                </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="shop-item">
-                                <img src="images/shop_item_4.jpg">
+                                <div class="image">
+                                    <img src="images/shop_item_4.jpg">
+                                    <div class="button">
+                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="far fa-heart"></i>
+                                    </div>
+                                </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
                             </div>
@@ -87,8 +105,11 @@
                     </div>
                     <div class="col-md-6">
                         <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Your Email" aria-label="Recipient's username" aria-describedby="button-addon2">
-                            <button class="btn btn-outline-secondary btn-subscribe" type="button" id="button-addon2">SUBSCRIBE</button>
+                            <input type="text" class="form-control" placeholder="Your Email"
+                                   aria-label="Recipient's username" aria-describedby="button-addon2">
+                            <button class="btn btn-outline-secondary btn-subscribe" type="button"
+                                    id="button-addon2">SUBSCRIBE
+                            </button>
                         </div>
                     </div>
 
