@@ -2,7 +2,20 @@
     <section>
         <div class="container">
             <div class="banner">
-               
+                <div class="banner-slider owl-carousel owl-theme">
+                    <div class="banner-item">
+                        <img src="images/slider-img1.jpg" class="d-block" alt="">
+                    </div>
+                    <div class="banner-item">
+                        <img src="images/slider-img2.jpg" class="d-block" alt="">
+                    </div>
+                    <div class="banner-item">
+                        <img src="images/slider-img3.jpg" class="d-block" alt="">
+                    </div>
+                    <div class="banner-item">
+                        <img src="images/slider-img4.jpg" class="d-block" alt="">
+                    </div>
+                </div>
             </div>
             <div class="new-arrivals">
                 <h2 class="text-center">NEW ARRIVALS</h2>
