@@ -40,6 +40,19 @@
   padding-top: 5px;
 }
 
+.banner .banner-item {
+  position: relative;
+}
+.banner .banner-item .banner-text {
+  position: absolute;
+  top: 150px;
+  right: 100px;
+  color: white;
+}
+.banner .banner-item .banner-text h1 {
+  font-size: 65px;
+}
+
 .new-arrivals {
   margin-top: 80px;
 }

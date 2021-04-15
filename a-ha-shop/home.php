@@ -5,6 +5,13 @@
                 <div class="banner-slider owl-carousel owl-theme">
                     <div class="banner-item">
                         <img src="images/slider-img1.jpg" class="d-block" alt="">
+                        <div class="line"></div>
+                        <div class="banner-text text-center">
+                            <h1>Collection 2021</h1>
+                            <h5> HOT AND FRESH TRENDS OF THIS YEAR</h5>
+                            <button type="button" class="btn btn-light">SHOP NOW</button>
+                        </div>
+                        <div class="line"></div>
                     </div>
                     <div class="banner-item">
                         <img src="images/slider-img2.jpg" class="d-block" alt="">
