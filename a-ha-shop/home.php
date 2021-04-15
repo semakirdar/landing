@@ -51,6 +51,9 @@
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
+                                    </div>
                                 </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
@@ -63,6 +66,9 @@
                                     <div class="button">
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
+                                    </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
                                     </div>
                                 </div>
                                 <p>Night Party Dress</p>
@@ -77,6 +83,9 @@
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
+                                    </div>
                                 </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
@@ -89,6 +98,9 @@
                                     <div class="button">
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
+                                    </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
                                     </div>
                                 </div>
                                 <p>Night Party Dress</p>
@@ -127,6 +139,9 @@
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
+                                    </div>
                                 </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
@@ -139,6 +154,9 @@
                                     <div class="button">
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
+                                    </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
                                     </div>
                                 </div>
                                 <p>Night Party Dress</p>
@@ -153,6 +171,9 @@
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
+                                    </div>
                                 </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>
@@ -165,6 +186,9 @@
                                     <div class="button">
                                         <i class="fas fa-forward me-3"></i>
                                         <i class="far fa-heart"></i>
+                                    </div>
+                                    <div class="text text-center">
+                                        <h3>deneme</h3>
                                     </div>
                                 </div>
                                 <p>Night Party Dress</p>

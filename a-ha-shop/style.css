@@ -36,6 +36,7 @@
 }
 .new-arrivals .shop .shop-item .image {
   position: relative;
+  overflow: hidden;
 }
 .new-arrivals .shop .shop-item .image .button {
   opacity: 0;
@@ -46,6 +47,22 @@
 }
 .new-arrivals .shop .shop-item .image:hover .button {
   opacity: 1;
+}
+.new-arrivals .shop .shop-item .image .text {
+  opacity: 0;
+  transition: all 0.5s;
+  position: absolute;
+  bottom: -100px;
+  width: 100%;
+}
+.new-arrivals .shop .shop-item .image .text h3 {
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+}
+.new-arrivals .shop .shop-item .image:hover .text {
+  opacity: 1;
+  bottom: 0;
 }
 .new-arrivals .shop .shop-item .image img {
   width: 100%;
@@ -86,16 +103,33 @@
 }
 .best-sellers .shop .shop-item .image {
   position: relative;
+  overflow: hidden;
 }
 .best-sellers .shop .shop-item .image .button {
   opacity: 0;
-  transition: opacity 0.5s;
+  transition: all 0.5s;
   position: absolute;
   bottom: 350px;
   left: 25px;
 }
 .best-sellers .shop .shop-item .image:hover .button {
   opacity: 1;
+}
+.best-sellers .shop .shop-item .image .text {
+  opacity: 0;
+  transition: all 0.5s ease;
+  position: absolute;
+  bottom: -100px;
+  width: 100%;
+}
+.best-sellers .shop .shop-item .image .text h3 {
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+}
+.best-sellers .shop .shop-item .image:hover .text {
+  opacity: 1;
+  bottom: 0;
 }
 .best-sellers .shop .shop-item .image img {
   width: 100%;
