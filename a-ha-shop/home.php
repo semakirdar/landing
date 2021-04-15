@@ -7,11 +7,11 @@
                         <img src="images/slider-img1.jpg" class="d-block" alt="">
 
                         <div class="banner-text text-center">
-                            <div class="line"></div>
+                            <div class="line mb-4"></div>
                             <h1>Collection 2021</h1>
                             <h5> HOT AND FRESH TRENDS OF THIS YEAR</h5>
-                            <div class="line"></div>
-                            <button type="button" class="btn btn-light">SHOP NOW</button>
+                            <div class="line mt-4"></div>
+                            <button type="button" class="btn btn-light mt-4">SHOP NOW</button>
 
                         </div>
 
