@@ -52,6 +52,11 @@
 .banner .banner-item .banner-text h1 {
   font-size: 65px;
 }
+.banner .banner-item .banner-text .line {
+  border-bottom: 1px solid #eaeaea;
+  width: 100px;
+  margin-left: 174px;
+}
 
 .new-arrivals {
   margin-top: 80px;
