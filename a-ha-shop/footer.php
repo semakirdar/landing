@@ -2,7 +2,7 @@
     <div class="container">
         <div class="line"></div>
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <h3>INFORMATION</h3>
                 <p>Our stores</p>
                 <p>About us</p>
@@ -35,7 +35,7 @@
                 <p>imagine.</p>
 
             </div>
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <h3>CONTACT</h3>
                 <p>A-ha Shop is a very slick and clean</p>
                 <p>Phone:+123456789</p>
