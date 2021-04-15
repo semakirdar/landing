@@ -48,7 +48,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_1.jpg" alt="image">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
@@ -64,7 +64,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_2.jpg">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
@@ -80,7 +80,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_3.jpg">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
@@ -96,7 +96,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_4.jpg">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
@@ -136,7 +136,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_1.jpg">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
@@ -152,7 +152,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_2.jpg">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
@@ -168,7 +168,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_3.jpg">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
@@ -184,7 +184,7 @@
                                 <div class="image">
                                     <img src="images/shop_item_4.jpg">
                                     <div class="button">
-                                        <i class="fas fa-forward me-3"></i>
+                                        <i class="fas fa-angle-right me-3"></i>
                                         <i class="far fa-heart"></i>
                                     </div>
                                     <div class="text text-center">
