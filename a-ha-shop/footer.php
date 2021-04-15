@@ -39,14 +39,17 @@
                 <p>A-ha Shop is a very slick and clean</p>
                 <p>Phone:+123456789</p>
                 <p>Email:Themesupport@gmail.com</p>
-                <div class="footer-icon">
-
+                <div class="footer-icon mt-4">
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-google-plus-g"></i>
+                    <i class="fab fa-linkedin-in"></i>
+                    <i class="fab fa-vuejs"></i>
                 </div>
             </div>
         </div>
     </div>
 </footer>
-
 <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
