@@ -33,7 +33,6 @@
                 <p>A-ha Shop is a very slick and clean</p>
                 <p>A-ha Shop is a very slick and clean</p>
                 <p>imagine.</p>
-
             </div>
             <div class="col-md-3">
                 <h3>CONTACT</h3>
@@ -68,6 +67,9 @@
     </div>
 
 </footer>
+<script src="plugins/jquery/jquery-3.6.0.min.js"></script>
 <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="plugins/OwlCarousel2/dist/owl.carousel.min.js"></script>
+<script src="main.js"></script>
 </body>
 </html>

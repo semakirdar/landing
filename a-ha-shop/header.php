@@ -8,6 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="plugins/OwlCarousel2/dist/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="plugins/OwlCarousel2/dist/assets/owl.theme.default.min.css" rel="stylesheet">
 
     <link href="style.css" rel="stylesheet">
 
