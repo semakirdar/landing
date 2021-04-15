@@ -1,17 +1,15 @@
-.navbar-light .navbar-right .text {
+.navbar-light .navbar-right select {
   display: inline-block;
 }
-.navbar-light .navbar-right .text select {
-  display: inline-block;
-}
-.navbar-light .navbar-right .text span {
+.navbar-light .navbar-right span {
   display: inline-block;
   color: #8a8888;
 }
-.navbar-light .navbar-right .social-icons {
+
+.social-icons {
   display: inline-block;
 }
-.navbar-light .navbar-right .social-icons i {
+.social-icons i {
   background: #efeaea;
   border-radius: 100%;
   color: #8a8888;

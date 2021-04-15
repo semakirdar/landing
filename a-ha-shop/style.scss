@@ -1,7 +1,5 @@
 .navbar-light {
   .navbar-right {
-    .text {
-      display: inline-block;
 
       select {
         display: inline-block;
@@ -13,6 +11,8 @@
       }
 
     }
+  }
+
 
     .social-icons {
       display: inline-block;
@@ -24,8 +24,7 @@
         padding: 5px;
       }
     }
-  }
-}
+
 
 
 .nav-middle {
