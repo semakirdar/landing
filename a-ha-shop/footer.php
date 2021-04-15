@@ -50,7 +50,17 @@
             </div>
         </div>
         <div class="line"></div>
+        <div class="row">
+            <div class="col-md-6">
+2021 Aha Shop
+            </div>
+            <div class="col-md-6">
+
+            </div>
+
+        </div>
     </div>
+
 </footer>
 <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
