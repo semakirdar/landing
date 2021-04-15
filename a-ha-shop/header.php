@@ -39,10 +39,31 @@
             </ul>
         </div>
         <div class="navbar-right">
-            <div class="text me-3">
-                <p> Currency:USD Language:ENG</p>
-
+            <div class="text">
+            <div class="Currency :">
+                <span>Currency</span>
+                <div class="form-currency">
+                    <select class="form-select" id="autoSizingSelect">
+                        <option selected>USD</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                    </select>
+                </div>
             </div>
+            <div class="Language :">
+                <span>Language</span>
+                <div class="form-language">
+                    <select class="form-select" id="autoSizingSelect">
+                        <option selected>USD</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                    </select>
+                </div>
+            </div>
+            </div>
+
             <div class="social-icons">
                 <i class="fab fa-twitter"></i>
                 <i class="fab fa-facebook"></i>

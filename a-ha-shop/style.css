@@ -1,14 +1,18 @@
 .navbar-light .navbar-right .text {
   display: inline-block;
 }
-.navbar-light .navbar-right .text p {
+.navbar-light .navbar-right .text select {
+  display: inline-block;
+}
+.navbar-light .navbar-right .text span {
+  display: inline-block;
   color: #8a8888;
 }
 .navbar-light .navbar-right .social-icons {
   display: inline-block;
 }
 .navbar-light .navbar-right .social-icons i {
-  background: #e0dcdc;
+  background: #efeaea;
   border-radius: 100%;
   color: #8a8888;
   padding: 5px;
@@ -54,8 +58,8 @@
 }
 .banner .banner-item .banner-text .line {
   border-bottom: 1px solid #eaeaea;
-  width: 130px;
-  margin-left: 160px;
+  width: 150px;
+  margin-left: 150px;
 }
 
 .new-arrivals {
@@ -188,7 +192,7 @@ footer p {
   color: #616262;
 }
 footer .footer-icon i {
-  background: #e0dcdc;
+  background: #efeaea;
   border-radius: 100%;
   color: #8a8888;
   padding: 5px;

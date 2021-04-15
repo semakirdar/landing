@@ -1,10 +1,14 @@
 .navbar-light {
   .navbar-right {
     .text {
-
       display: inline-block;
 
-      p {
+      select {
+        display: inline-block;
+      }
+
+      span {
+        display: inline-block;
         color: #8a8888;
       }
 
@@ -14,7 +18,7 @@
       display: inline-block;
 
       i {
-        background: #e0dcdc;
+        background: #efeaea;
         border-radius: 100%;
         color: #8a8888;
         padding: 5px;
@@ -65,16 +69,18 @@
 
     .banner-text {
       position: absolute;
-    top:150px;
+      top: 150px;
       right: 100px;
       color: white;
-      h1{
-font-size: 65px;
+
+      h1 {
+        font-size: 65px;
       }
-      .line{
+
+      .line {
         border-bottom: 1px solid #eaeaea;
-        width: 130px;
-        margin-left: 160px;
+        width: 150px;
+        margin-left: 150px;
       }
     }
   }
@@ -248,7 +254,7 @@ footer {
 
   .footer-icon {
     i {
-      background: #e0dcdc;
+      background: #efeaea;
       border-radius: 100%;
       color: #8a8888;
       padding: 5px;
