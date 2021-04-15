@@ -10,7 +10,6 @@ $(function () {
         loop: true,
         margin: 10,
         items: 1,
-        Type: Boolean,
-        default: false
+        nav:true
     })
 });
