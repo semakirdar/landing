@@ -154,4 +154,17 @@
   font-weight: bolder;
 }
 
+footer {
+  margin-bottom: 50px;
+  margin-top: 80px;
+  font-size: 15px;
+}
+footer h3 {
+  font-size: 15px;
+  margin-bottom: 25px;
+}
+footer p {
+  color: #5c636a;
+}
+
 /*# sourceMappingURL=style.css.map */

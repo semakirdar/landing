@@ -39,6 +39,9 @@
                 <p>A-ha Shop is a very slick and clean</p>
                 <p>Phone:+123456789</p>
                 <p>Email:Themesupport@gmail.com</p>
+                <div class="footer-icon">
+
+                </div>
             </div>
         </div>
     </div>
