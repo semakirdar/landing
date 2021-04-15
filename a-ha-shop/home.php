@@ -30,10 +30,7 @@
                         </div>
                         <div class="carousel-item">
                             <img src="images/slider-img2.jpg" class="d-block w-100" alt="...">
-                            <div class="banner-text">
-                                <h3>LUXURY CAR FROM FROM $28 DAY</h3>
-                                <h5>Treat yourself in USA</h5>
-                            </div>
+                            
                         </div>
                         <div class="carousel-item">
                             <img src="images/slider-img3.jpg" class="d-block w-100" alt="...">
