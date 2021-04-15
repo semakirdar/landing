@@ -32,6 +32,26 @@
   padding-top: 5px;
 }
 
+.banner {
+  .carousel-inner {
+    position: relative;
+
+    .line {
+      border-bottom: 1px solid #ffffff;
+      width: 100px;
+      margin-left: 129px;
+    }
+
+    .banner-text {
+      position: absolute;
+      top: 150px;
+      right: 200px;
+      color: white;
+    }
+  }
+}
+
+
 .new-arrivals {
   margin-top: 80px;
 

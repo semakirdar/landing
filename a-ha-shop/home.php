@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
     <section>
         <div class="container">
-            <div class="slider">
+            <div class="banner">
                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
@@ -16,9 +16,24 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <img src="images/slider-img1.jpg" class="d-block w-100" alt="...">
+                            <div class="banner-text text-center">
+                                <div class="line mb-4">
+
+                                </div>
+                                <h1 class="mb-2">Collection 2021</h1>
+                                <h5>HOT AND FRESH TRENDS OF THIS YEAR</h5>
+                                <div class="line mt-4">
+
+                                </div>
+                                <button type="button" class="btn btn-light btn-shop mt-5">SHOP NOW</button>
+                            </div>
                         </div>
                         <div class="carousel-item">
                             <img src="images/slider-img2.jpg" class="d-block w-100" alt="...">
+                            <div class="banner-text">
+                                <h3>LUXURY CAR FROM FROM $28 DAY</h3>
+                                <h5>Treat yourself in USA</h5>
+                            </div>
                         </div>
                         <div class="carousel-item">
                             <img src="images/slider-img3.jpg" class="d-block w-100" alt="...">
@@ -197,6 +212,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="partners">
+
             </div>
         </div>
     </section>
