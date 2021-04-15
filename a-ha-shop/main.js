@@ -1,14 +1,16 @@
-$(function(){
+$(function () {
     $('.partners-slider').owlCarousel({
-        loop:true,
-        margin:10,
+        loop: true,
+        margin: 10,
         items: 6
     })
 });
-$(function(){
+$(function () {
     $('.banner-slider').owlCarousel({
-        loop:true,
-        margin:10,
-        items: 1
+        loop: true,
+        margin: 10,
+        items: 1,
+        Type: Boolean,
+        default: false
     })
 });
