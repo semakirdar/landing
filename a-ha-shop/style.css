@@ -1,3 +1,10 @@
+.navbar-light .navbar-right .text {
+  display: inline-block;
+}
+.navbar-light .navbar-right .social-icons {
+  display: inline-block;
+}
+
 .nav-middle .nav-search {
   margin-top: 50px;
   margin-bottom: 50px;

@@ -1,3 +1,18 @@
+.navbar-light {
+  .navbar-right {
+    .text {
+
+        display: inline-block;
+
+    }
+
+    .social-icons {
+      display: inline-block;
+    }
+  }
+}
+
+
 .nav-middle {
   .nav-search {
     margin-top: 50px;
@@ -210,7 +225,7 @@ footer {
   h3 {
     font-size: 15px;
     margin-bottom: 25px;
-    margin-top:20px;
+    margin-top: 20px;
   }
 
   p {

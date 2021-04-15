@@ -35,7 +35,19 @@
                     <a class="nav-link" href="#">Contact</a>
                 </li>
             </ul>
+        </div>
+        <div class="navbar-right">
+            <div class="text me-3">
+                <p> Currency:USD Language:ENG</p>
 
+            </div>
+            <div class="social-icons">
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-facebook"></i>
+                <i class="fab fa-google-plus-g"></i>
+                <i class="fab fa-linkedin-in"></i>
+                <i class="fab fa-vuejs"></i>
+            </div>
         </div>
     </div>
 </nav>
