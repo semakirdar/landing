@@ -50,12 +50,18 @@
             </div>
         </div>
         <div class="line"></div>
-        <div class="row">
+        <div class="row mt-5">
             <div class="col-md-6">
-2021 Aha Shop
+                2021 Aha Shop,Made By DeoThemes
             </div>
             <div class="col-md-6">
-
+                <div class="Atm-card-icons text-end">
+                    <i class="fab fa-cc-visa"></i>
+                    <i class="fab fa-cc-jcb"></i>
+                    <i class="fab fa-cc-mastercard"></i>
+                    <i class="fab fa-cc-discover"></i>
+                    <i class="fab fa-cc-amazon-pay"></i>
+                </div>
             </div>
 
         </div>
