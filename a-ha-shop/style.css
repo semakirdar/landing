@@ -1,6 +1,9 @@
 .navbar-light .navbar-right .text {
   display: inline-block;
 }
+.navbar-light .navbar-right .text p {
+  color: #8a8888;
+}
 .navbar-light .navbar-right .social-icons {
   display: inline-block;
 }
@@ -21,6 +24,7 @@
 }
 .nav-middle .shopping-cart {
   margin-top: 60px;
+  color: #8a8888;
 }
 .nav-middle .line {
   border-bottom: 1px solid #eaeaea;
