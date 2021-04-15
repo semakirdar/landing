@@ -201,24 +201,32 @@
     }
   }
 }
-footer{
+
+footer {
   margin-bottom: 50px;
   margin-top: 80px;
   font-size: 15px;
 
-h3{
-  font-size: 15px;
-  margin-bottom: 25px;
-}
-  p{
+  h3 {
+    font-size: 15px;
+    margin-bottom: 25px;
+    margin-top:20px;
+  }
+
+  p {
     color: #616262;
   }
-  .footer-icon{
-    i{
+
+  .footer-icon {
+    i {
       background: #e0dcdc;
       border-radius: 100%;
       color: #8a8888;
-      padding:5px;
+      padding: 5px;
     }
+  }
+
+  .line {
+    border-bottom: 1px solid #eaeaea;
   }
 }

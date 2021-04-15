@@ -1,5 +1,6 @@
 <footer>
     <div class="container">
+        <div class="line"></div>
         <div class="row">
             <div class="col-md-3">
                 <h3>INFORMATION</h3>
@@ -48,6 +49,7 @@
                 </div>
             </div>
         </div>
+        <div class="line"></div>
     </div>
 </footer>
 <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>

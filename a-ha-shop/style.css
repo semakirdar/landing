@@ -162,6 +162,7 @@ footer {
 footer h3 {
   font-size: 15px;
   margin-bottom: 25px;
+  margin-top: 20px;
 }
 footer p {
   color: #616262;
@@ -171,6 +172,9 @@ footer .footer-icon i {
   border-radius: 100%;
   color: #8a8888;
   padding: 5px;
+}
+footer .line {
+  border-bottom: 1px solid #eaeaea;
 }
 
 /*# sourceMappingURL=style.css.map */
