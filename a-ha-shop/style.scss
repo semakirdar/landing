@@ -8,6 +8,12 @@
 
     .social-icons {
       display: inline-block;
+      i {
+        background: #e0dcdc;
+        border-radius: 100%;
+        color: #8a8888;
+        padding: 5px;
+      }
     }
   }
 }
