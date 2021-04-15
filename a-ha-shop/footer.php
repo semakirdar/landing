@@ -1,7 +1,7 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <h3>INFORMATION</h3>
                 <p>Our stores</p>
                 <p>About us</p>
@@ -26,10 +26,19 @@
                 <p>Track order</p>
             </div>
             <div class="col-md-3">
+                <h3>ABOUT US</h3>
+                <p>A-ha Shop is a very slick and clean</p>
+                <p>A-ha Shop is a very slick and clean</p>
+                <p>A-ha Shop is a very slick and clean</p>
+                <p>A-ha Shop is a very slick and clean</p>
+                <p>imagine.</p>
 
             </div>
-            <div class="col-md-3">
-
+            <div class="col-md-2">
+                <h3>CONTACT</h3>
+                <p>A-ha Shop is a very slick and clean</p>
+                <p>Phone:+123456789</p>
+                <p>Email:Themesupport@gmail.com</p>
             </div>
         </div>
     </div>
