@@ -64,26 +64,6 @@
 .new-arrivals h2 {
   margin-bottom: 80px;
 }
-.new-arrivals .shop .out-of-stock .image {
-  position: relative;
-  overflow: hidden;
-}
-.new-arrivals .shop .out-of-stock .text {
-  opacity: 0;
-  transition: all 0.5s;
-  position: absolute;
-  width: 100%;
-}
-.new-arrivals .shop .out-of-stock .text h3 {
-  background-color: #ffffff;
-  color: black;
-  padding: 13px;
-  font-size: 18px;
-}
-.new-arrivals .shop .out-of-stock:hover .text {
-  opacity: 0.8;
-  bottom: 150px;
-}
 .new-arrivals .shop .shop-item p {
   text-align: center;
   color: #5c636a;
@@ -93,36 +73,46 @@
   position: relative;
   overflow: hidden;
 }
-.new-arrivals .shop .shop-item .image .button {
+.new-arrivals .shop .shop-item .image .out-of-stock {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #ffff;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  opacity: 0.75;
+}
+.new-arrivals .shop .button {
   opacity: 0;
   transition: opacity 0.5s;
   position: absolute;
   top: 10px;
   left: 25px;
 }
-.new-arrivals .shop .shop-item .image:hover .button {
+.new-arrivals .shop:hover .button {
   opacity: 1;
 }
-.new-arrivals .shop .shop-item .image .text {
+.new-arrivals .shop .text {
   opacity: 0;
   transition: all 0.5s;
   position: absolute;
   bottom: -100px;
   width: 100%;
 }
-.new-arrivals .shop .shop-item .image .text h3 {
+.new-arrivals .shop .text h3 {
   background-color: black;
   color: white;
   font-size: 23px;
 }
-.new-arrivals .shop .shop-item .image:hover .text {
+.new-arrivals .shop:hover .text {
   opacity: 1;
   bottom: -8px;
 }
-.new-arrivals .shop .shop-item .image img {
+.new-arrivals .shop img {
   width: 100%;
 }
-.new-arrivals .shop .shop-item h4 {
+.new-arrivals h4 {
   text-align: center;
   font-weight: bolder;
 }

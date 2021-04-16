@@ -64,12 +64,10 @@
                             </div>
                         </div>
                         <div class="col-md-3">
-                            <div class="out-of-stock">
+                            <div class="shop-item">
                                 <div class="image">
-                                    <img src="images/shop_item_3.jpg">
-                                    <div class="text text-center">
-                                        <h3>OUT OF STOCK</h3>
-                                    </div>
+                                    <img src="images/shop_item_2.jpg">
+                                    <div class="out-of-stock">out of stock</div>
                                 </div>
                                 <p>Night Party Dress</p>
                                 <h4>$159.99</h4>

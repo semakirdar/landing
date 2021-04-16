@@ -90,33 +90,9 @@
   }
 
   .shop {
-    .out-of-stock {
-      .image {
-        position: relative;
-        overflow: hidden;
-      }
-      .text{
-        opacity:0;
-        transition: all 0.5s;
-        position: absolute;
-        width: 100%;
-
-        h3{
-          background-color: #ffffff;
-          color: black;
-          padding: 13px;
-          font-size: 18px;
-        }
-      }
-      &:hover .text{
-        opacity:0.8;
-        bottom:150px;
-
-      }
-
-    }
 
     .shop-item {
+
       p {
         text-align: center;
         color: #5c636a;
@@ -127,53 +103,58 @@
         position: relative;
         overflow: hidden;
 
-
-        .button {
-          opacity: 0;
-          transition: opacity 0.5s;
+        .out-of-stock {
           position: absolute;
-          top: 10px;
-          left: 25px;
-        }
-
-        &:hover .button {
-          opacity: 1;
-
-        }
-
-        .text {
-          opacity: 0;
-          transition: all 0.5s;
-          position: absolute;
-          bottom: -100px;
+          top: 50%;
+          transform: translateY(-50%);
+          background: #ffff;
+          padding: 10px;
           width: 100%;
-
-          h3 {
-            background-color: black;
-            color: white;
-            font-size: 23px;
+          text-align: center;
+          opacity: .75;
           }
         }
-
-        &:hover .text {
-          opacity: 1;
-          bottom: -8px;
-        }
-
-        img {
-          width: 100%;
-        }
-
+      }
+      .button {
+        opacity: 0;
+        transition: opacity 0.5s;
+        position: absolute;
+        top: 10px;
+        left: 25px;
       }
 
-      h4 {
-        text-align: center;
-        font-weight: bolder;
+      &:hover .button {
+        opacity: 1;
+
       }
+      .text {
+        opacity: 0;
+        transition: all 0.5s;
+        position: absolute;
+        bottom: -100px;
+        width: 100%;
+        h3 {
+          background-color: black;
+          color: white;
+          font-size: 23px;
+        }
+      }
+      &:hover .text {
+        opacity: 1;
+        bottom: -8px;
+      }
+
+      img {
+        width: 100%;
+      }
+
+    }
+
+    h4 {
+      text-align: center;
+      font-weight: bolder;
     }
   }
-}
-
 .subscribe {
   margin-top: 70px;
   background-color: #f6f9fd;

@@ -110,8 +110,8 @@
                         SHOP
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="catalog-grid.php">Catalog Grid</a></li>
+                        <li><a class="dropdown-item" href="#"></a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
