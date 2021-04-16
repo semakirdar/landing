@@ -112,7 +112,7 @@
                                 <div class="col-md-4">
                                     <div class="shop-item">
                                         <div class="image">
-                                            <a href="#">
+                                            <a href="catalog-details.php">
                                                 <img src="images/shop_item_2.jpg">
                                             </a>
                                             <div class="button">
@@ -126,7 +126,7 @@
                                                 SALE
                                             </div>
                                         </div>
-                                        <a href="#">
+                                        <a href="catalog-details.php">
                                             <p>Night Party Dress</p>
                                         </a>
                                         <div class="prices">
