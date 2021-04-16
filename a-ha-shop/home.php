@@ -64,15 +64,11 @@
                             </div>
                         </div>
                         <div class="col-md-3">
-                            <div class="shop-item">
+                            <div class="out-of-stock">
                                 <div class="image">
                                     <img src="images/shop_item_3.jpg">
-                                    <div class="button">
-                                        <i class="fas fa-angle-right me-3"></i>
-                                        <i class="far fa-heart"></i>
-                                    </div>
                                     <div class="text text-center">
-                                        <h3>deneme</h3>
+                                        <h3>OUT OF STOCK</h3>
                                     </div>
                                 </div>
                                 <p>Night Party Dress</p>

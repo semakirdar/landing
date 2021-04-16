@@ -32,9 +32,10 @@
 
   .shopping-cart {
     margin-top: 60px;
-    color: #8a8888 ;
-    i{
-      color: #8a8888 ;
+    color: #8a8888;
+
+    i {
+      color: #8a8888;
     }
 
   }
@@ -89,6 +90,32 @@
   }
 
   .shop {
+    .out-of-stock {
+      .image {
+        position: relative;
+        overflow: hidden;
+      }
+      .text{
+        opacity:0;
+        transition: all 0.5s;
+        position: absolute;
+        width: 100%;
+
+        h3{
+          background-color: #ffffff;
+          color: black;
+          padding: 13px;
+          font-size: 18px;
+        }
+      }
+      &:hover .text{
+        opacity:0.8;
+        bottom:150px;
+
+      }
+
+    }
+
     .shop-item {
       p {
         text-align: center;
@@ -130,7 +157,7 @@
 
         &:hover .text {
           opacity: 1;
-          bottom:-8px;
+          bottom: -8px;
         }
 
         img {
@@ -216,7 +243,7 @@
 
         &:hover .text {
           opacity: 1;
-          bottom:-8px;
+          bottom: -8px;
         }
 
 

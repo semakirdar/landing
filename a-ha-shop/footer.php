@@ -31,7 +31,6 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet incidunt neque perferendis placeat
                     porro reprehenderit rerum, totam. Aspernatur delectus deserunt dolorum enim eveniet facilis labore
                     laudantium minus sint veniam! Voluptas.</p>
-
             </div>
             <div class="col-md-3">
                 <h3>CONTACT</h3>
