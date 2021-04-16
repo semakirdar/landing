@@ -98,7 +98,9 @@
                     </div>
                 </div>
             </div>
-            <div class="subscribe">
+        </div>
+        <div class="subscribe">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-end">
                         <p>SUBSCRIBE TO RECEIVE OUR UPDATES</p>
@@ -115,6 +117,8 @@
 
                 </div>
             </div>
+        </div>
+        <div class="container">
             <div class="best-sellers">
                 <h2 class="text-center">BEST SELLERS</h2>
                 <div class="shop">

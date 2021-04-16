@@ -1,18 +1,8 @@
 .navbar-light {
   .navbar-right {
-
-      select {
-        display: inline-block;
-      }
-
-      span {
-        display: inline-block;
-        color: #8a8888;
-      }
-
+    .usd-form {
+      display: inline-block;
     }
-  }
-
 
     .social-icons {
       display: inline-block;
@@ -25,6 +15,8 @@
       }
     }
 
+  }
+}
 
 
 .nav-middle {
@@ -40,7 +32,11 @@
 
   .shopping-cart {
     margin-top: 60px;
-    color: #8a8888;
+    color: #8a8888 ;
+    i{
+      color: #8a8888 ;
+    }
+
   }
 
   .line {
@@ -109,7 +105,7 @@
           opacity: 0;
           transition: opacity 0.5s;
           position: absolute;
-          bottom: 350px;
+          top: 10px;
           left: 25px;
         }
 
@@ -127,14 +123,14 @@
 
           h3 {
             background-color: black;
-            border-radius: 5px;
             color: white;
+            font-size: 23px;
           }
         }
 
         &:hover .text {
           opacity: 1;
-          bottom: 0;
+          bottom:-8px;
         }
 
         img {
@@ -195,7 +191,7 @@
           opacity: 0;
           transition: all 0.5s;
           position: absolute;
-          bottom: 350px;
+          top: 10px;
           left: 25px;
         }
 
@@ -212,14 +208,15 @@
 
           h3 {
             background-color: black;
-            border-radius: 5px;
             color: white;
+            font-size: 23px;
+
           }
         }
 
         &:hover .text {
           opacity: 1;
-          bottom: 0;
+          bottom:-8px;
         }
 
 

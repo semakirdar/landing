@@ -39,36 +39,16 @@
             </ul>
         </div>
         <div class=" row navbar-right">
-            <div class="col-md-4">
-                <select class="form-select" aria-label="Default select example">
-                    <option selected>Language</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
-                </select>
-            </div>
-            <div class="col-md-4">
-                <select class="form-select" aria-label="Default select example">
-                    <option selected>USD</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
-                </select>
-            </div>
-            <div class="col-md-4">
-                <div class="social-icons">
-                    <i class="fab fa-twitter"></i>
-                    <i class="fab fa-facebook"></i>
-                    <i class="fab fa-google-plus-g"></i>
-                    <i class="fab fa-linkedin-in"></i>
-                    <i class="fab fa-vuejs"></i>
-                </div>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"> <i class="fab fa-vuejs"></i></a>
             </div>
         </div>
     </div>
-    </div>
 </nav>
-
 <div class="container">
     <div class="nav-middle">
         <div class="line ">
@@ -87,10 +67,12 @@
                 </div>
             </div>
             <div class="col-md-4">
+
                 <div class="shopping-cart text-end">
                     <span>CART / </span>
                     <span> $1299.50</span>
-                    <i class="fas fa-shopping-cart"></i>
+                    <a href="#"><i class="fas fa-shopping-cart"></i></a>
+
                 </div>
             </div>
         </div>

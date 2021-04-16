@@ -28,11 +28,10 @@
             </div>
             <div class="col-md-3">
                 <h3>ABOUT US</h3>
-                <p>A-ha Shop is a very slick and clean</p>
-                <p>A-ha Shop is a very slick and clean</p>
-                <p>A-ha Shop is a very slick and clean</p>
-                <p>A-ha Shop is a very slick and clean</p>
-                <p>imagine.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet incidunt neque perferendis placeat
+                    porro reprehenderit rerum, totam. Aspernatur delectus deserunt dolorum enim eveniet facilis labore
+                    laudantium minus sint veniam! Voluptas.</p>
+
             </div>
             <div class="col-md-3">
                 <h3>CONTACT</h3>
@@ -40,11 +39,11 @@
                 <p>Phone:+123456789</p>
                 <p>Email:Themesupport@gmail.com</p>
                 <div class="footer-icon mt-4">
-                    <i class="fab fa-twitter"></i>
-                    <i class="fab fa-facebook"></i>
-                    <i class="fab fa-google-plus-g"></i>
-                    <i class="fab fa-linkedin-in"></i>
-                    <i class="fab fa-vuejs"></i>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"> <i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                    <a href="#"> <i class="fab fa-linkedin-in"></i></a>
+                    <a href="#"> <i class="fab fa-vuejs"></i></a>
                 </div>
             </div>
         </div>

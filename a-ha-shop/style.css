@@ -1,15 +1,10 @@
-.navbar-light .navbar-right select {
+.navbar-light .navbar-right .usd-form {
   display: inline-block;
 }
-.navbar-light .navbar-right span {
-  display: inline-block;
-  color: #8a8888;
-}
-
-.social-icons {
+.navbar-light .navbar-right .social-icons {
   display: inline-block;
 }
-.social-icons i {
+.navbar-light .navbar-right .social-icons i {
   background: #efeaea;
   border-radius: 100%;
   color: #8a8888;
@@ -26,6 +21,9 @@
 }
 .nav-middle .shopping-cart {
   margin-top: 60px;
+  color: #8a8888;
+}
+.nav-middle .shopping-cart i {
   color: #8a8888;
 }
 .nav-middle .line {
@@ -79,7 +77,7 @@
   opacity: 0;
   transition: opacity 0.5s;
   position: absolute;
-  bottom: 350px;
+  top: 10px;
   left: 25px;
 }
 .new-arrivals .shop .shop-item .image:hover .button {
@@ -94,12 +92,12 @@
 }
 .new-arrivals .shop .shop-item .image .text h3 {
   background-color: black;
-  border-radius: 5px;
   color: white;
+  font-size: 23px;
 }
 .new-arrivals .shop .shop-item .image:hover .text {
   opacity: 1;
-  bottom: 0;
+  bottom: -8px;
 }
 .new-arrivals .shop .shop-item .image img {
   width: 100%;
@@ -146,7 +144,7 @@
   opacity: 0;
   transition: all 0.5s;
   position: absolute;
-  bottom: 350px;
+  top: 10px;
   left: 25px;
 }
 .best-sellers .shop .shop-item .image:hover .button {
@@ -161,12 +159,12 @@
 }
 .best-sellers .shop .shop-item .image .text h3 {
   background-color: black;
-  border-radius: 5px;
   color: white;
+  font-size: 23px;
 }
 .best-sellers .shop .shop-item .image:hover .text {
   opacity: 1;
-  bottom: 0;
+  bottom: -8px;
 }
 .best-sellers .shop .shop-item .image img {
   width: 100%;
