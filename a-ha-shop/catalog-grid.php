@@ -71,7 +71,7 @@
                     </div>
                     <div class="best-catalog mt-5">
                         <h5 class="mb-3">BEST SELLERS</h5>
-                        <div class="row mb-4">
+                        <div class="row">
                             <div class="col-md-6">
                                 <img src="images/shop_item_1.jpg">
                             </div>
@@ -80,7 +80,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row mb-4">
                             <div class="col-md-6">
                                 <img src="images/shop_item_2.jpg">
                             </div>
@@ -95,7 +95,7 @@
                 <div class="col-md-9">
                     <div class="best-sellers">
                         <div class="shop">
-                            <div class="row">
+                            <div class="row mb-5">
                                 <div class="col-md-4">
                                     <div class="shop-item">
                                         <div class="image">
@@ -145,7 +145,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row mb-5">
                                 <div class="col-md-4">
                                     <div class="shop-item">
                                         <div class="image">
@@ -195,7 +195,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row mb-5">
                                 <div class="col-md-4">
                                     <div class="shop-item">
                                         <div class="image">
@@ -245,7 +245,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row ">
                                 <div class="col-md-4">
                                     <div class="shop-item">
                                         <div class="image">
