@@ -189,11 +189,17 @@
 
   .shop {
     .shop-item {
+      a{
+        text-decoration: none;
+      }
+
       p {
         text-align: center;
         color: #5c636a;
         margin-top: 25px;
+
       }
+
 
       .image {
         position: relative;
@@ -244,6 +250,20 @@
 
         img {
           width: 100%;
+        }
+      }
+
+      .prices {
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+
+        .price-discount {
+          color: #6d6d6d;
+          font-size: 13px;
+          margin-right: 10px;
+          text-decoration: line-through;
+
         }
       }
 
@@ -309,20 +329,26 @@ footer {
   img {
     width: 100%;
   }
-  p{
-    color:grey;
+
+
+    p {
+      color: grey;
+
+
+    }
   }
-}
+
 
 .page {
 
   nav {
     float: right !important;
     margin-top: 30px;
-display: inline-block;
-    ul{
-      li{
-        a{
+    display: inline-block;
+
+    ul {
+      li {
+        a {
           color: grey;
         }
       }
@@ -330,12 +356,25 @@ display: inline-block;
   }
 }
 
-.text{
-  color:grey;
+.text {
+  color: grey;
+
 
 }
-.tags{
-  btn{
 
+.tags {
+  span {
+    padding: 5px;
+    background-color: #f7f7f7;
+    margin-bottom: 5px;
+    display: inline-block;
+    font-size: 14px;
+    color: grey;
+    transition: all .2s ease;
+
+    &:hover {
+      background-color: #0dcaf0;
+      color: white;
+    }
   }
 }

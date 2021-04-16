@@ -93,12 +93,16 @@
                     </div>
                     <div class="tags mt-5">
                         <h5 class="mb-3">TAGS</h5>
-                        <button type="button" class="btn btn-light mb-3">Light</button>
-                        <button type="button" class="btn btn-light mb-3">Light</button>
-                        <button type="button" class="btn btn-light mb-3">Light</button>
-                        <button type="button" class="btn btn-light mb-3">Light</button>
-                        <button type="button" class="btn btn-light">Light</button>
-                        <button type="button" class="btn btn-light">Light</button>
+                        <div class="tag-list">
+                            <span>Store</span>
+                            <span>Business</span>
+                            <span>Business</span>
+                            <span>Business</span>
+                            <span>Business</span>
+                            <span>Business</span>
+                            <span>Business</span>
+                        </div>
+
                     </div>
                 </div>
                 <div class="col-md-9">
@@ -108,7 +112,9 @@
                                 <div class="col-md-4">
                                     <div class="shop-item">
                                         <div class="image">
-                                            <img src="images/shop_item_2.jpg">
+                                            <a href="#">
+                                                <img src="images/shop_item_2.jpg">
+                                            </a>
                                             <div class="button">
                                                 <i class="fas fa-angle-right me-3"></i>
                                                 <i class="far fa-heart"></i>
@@ -120,8 +126,14 @@
                                                 SALE
                                             </div>
                                         </div>
-                                        <p>Night Party Dress</p>
-                                        <h4>$159.99</h4>
+                                        <a href="#">
+                                            <p>Night Party Dress</p>
+                                        </a>
+                                        <div class="prices">
+                                            <span class="price-discount">$150</span>
+                                            <span class="price">$15</span>
+                                        </div>
+
                                     </div>
                                 </div>
                                 <div class="col-md-4">

@@ -141,6 +141,9 @@
 .best-sellers h2 {
   margin-bottom: 80px;
 }
+.best-sellers .shop .shop-item a {
+  text-decoration: none;
+}
 .best-sellers .shop .shop-item p {
   text-align: center;
   color: #5c636a;
@@ -187,6 +190,17 @@
 }
 .best-sellers .shop .shop-item .image img {
   width: 100%;
+}
+.best-sellers .shop .shop-item .prices {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.best-sellers .shop .shop-item .prices .price-discount {
+  color: #6d6d6d;
+  font-size: 13px;
+  margin-right: 10px;
+  text-decoration: line-through;
 }
 .best-sellers .shop .shop-item h4 {
   text-align: center;
@@ -243,6 +257,20 @@ footer .line {
 
 .text {
   color: grey;
+}
+
+.tags span {
+  padding: 5px;
+  background-color: #f7f7f7;
+  margin-bottom: 5px;
+  display: inline-block;
+  font-size: 14px;
+  color: grey;
+  transition: all 0.2s ease;
+}
+.tags span:hover {
+  background-color: #0dcaf0;
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
