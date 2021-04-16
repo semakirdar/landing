@@ -91,6 +91,9 @@
                         </div>
 
                     </div>
+                    <div class="tags">
+                        <span></span>
+                    </div>
                 </div>
                 <div class="col-md-9">
                     <div class="best-sellers">

@@ -220,7 +220,7 @@ footer .line {
   margin-top: 80px;
 }
 .filters ul li a {
-  color: black !important;
+  color: grey !important;
   padding: 0;
   margin-bottom: 10px;
 }
@@ -228,11 +228,21 @@ footer .line {
 .best-catalog img {
   width: 100%;
 }
+.best-catalog p {
+  color: grey;
+}
 
 .page nav {
   float: right !important;
   margin-top: 30px;
   display: inline-block;
+}
+.page nav ul li a {
+  color: grey;
+}
+
+.text {
+  color: grey;
 }
 
 /*# sourceMappingURL=style.css.map */

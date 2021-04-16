@@ -292,11 +292,12 @@ footer {
     margin-top: 80px;
   }
 
+
   ul {
     li {
 
       a {
-        color: black !important;
+        color: grey !important;
         padding: 0;
         margin-bottom: 10px;
       }
@@ -308,6 +309,9 @@ footer {
   img {
     width: 100%;
   }
+  p{
+    color:grey;
+  }
 }
 
 .page {
@@ -316,5 +320,17 @@ footer {
     float: right !important;
     margin-top: 30px;
 display: inline-block;
+    ul{
+      li{
+        a{
+          color: grey;
+        }
+      }
+    }
   }
+}
+
+.text{
+  color:grey;
+
 }
