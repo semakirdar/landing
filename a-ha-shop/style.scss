@@ -17,6 +17,7 @@
 
   }
 }
+
 .nav-middle {
   .nav-search {
     margin-top: 50px;
@@ -112,50 +113,51 @@
           text-align: center;
           opacity: .75;
         }
+
       }
-    }
 
-    .button {
-      opacity: 0;
-      transition: opacity 0.5s;
-      position: absolute;
-      top: 10px;
-      left: 25px;
-    }
-
-    &:hover .button {
-      opacity: 1;
-
-    }
-
-    .text {
-      opacity: 0;
-      transition: all 0.5s;
-      position: absolute;
-      bottom: -100px;
-      width: 100%;
-
-      h3 {
-        background-color: black;
-        color: white;
-        font-size: 23px;
+      .button {
+        opacity: 0;
+        transition: opacity 0.5s;
+        position: absolute;
+        top: 10px;
+        left: 25px;
       }
+
+      &:hover .button {
+        opacity: 1;
+
+      }
+
+      .text {
+        opacity: 0;
+        transition: all 0.5s;
+        position: absolute;
+        bottom: -100px;
+        width: 100%;
+
+        h3 {
+          background-color: black;
+          color: white;
+          font-size: 23px;
+        }
+      }
+
+      &:hover .text {
+        opacity: 1;
+        bottom: -8px;
+      }
+
+      img {
+        width: 100%;
+      }
+
     }
 
-    &:hover .text {
-      opacity: 1;
-      bottom: -8px;
+    h4 {
+      text-align: center;
+      font-weight: bolder;
     }
-
-    img {
-      width: 100%;
-    }
-
-  }
-
-  h4 {
-    text-align: center;
-    font-weight: bolder;
   }
 }
 
@@ -182,7 +184,6 @@
 
 .best-sellers {
   margin-top: 80px;
-
   h2 {
     margin-bottom: 80px;
   }
@@ -277,15 +278,20 @@ footer {
 }
 
 .filters {
-.categories{
-  margin-top: 80px;
-}
+  .categories {
+    margin-top: 80px;
+  }
 
- ul{
-   li{
-     a{
-color: black !important;
-     }
-   }
- }
+  ul {
+    li {
+      a {
+        color: black !important;
+      }
+    }
+  }
+}
+.best-catalog{
+  img{
+    width:100%;
+  }
 }
