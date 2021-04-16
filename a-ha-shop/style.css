@@ -207,4 +207,8 @@ footer .line {
   border-bottom: 1px solid #eaeaea;
 }
 
+.filters ul li a {
+  color: black !important;
+}
+
 /*# sourceMappingURL=style.css.map */
