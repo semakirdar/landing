@@ -46,6 +46,26 @@
                     </li>
                 </ul>
             </div>
+            <div class="select-color">
+                <h5>SELECT COLOR</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">White</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Grey</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Black</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pink</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Green</a>
+                    </li>
+                </ul>
+            </div>
 
         </div>
     </section>
