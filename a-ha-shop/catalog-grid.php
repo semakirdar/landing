@@ -71,7 +71,7 @@
                     </div>
                     <div class="best-catalog mt-5">
                         <h5 class="mb-3">BEST SELLERS</h5>
-                        <div class="row">
+                        <div class="row mb-4">
                             <div class="col-md-6">
                                 <img src="images/shop_item_1.jpg">
                             </div>
@@ -80,7 +80,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="row mb-4">
+                        <div class="row ">
                             <div class="col-md-6">
                                 <img src="images/shop_item_2.jpg">
                             </div>
@@ -192,6 +192,9 @@
                                             <div class="text text-center">
                                                 <h3>deneme</h3>
                                             </div>
+                                            <div class="sale">
+                                                SALE
+                                            </div>
                                         </div>
                                         <p>Night Party Dress</p>
                                         <h4>$159.99</h4>
@@ -225,6 +228,9 @@
                                             </div>
                                             <div class="text text-center">
                                                 <h3>deneme</h3>
+                                            </div>
+                                            <div class="sale">
+                                                SALE
                                             </div>
                                         </div>
                                         <p>Night Party Dress</p>
@@ -260,6 +266,9 @@
                                             <div class="text text-center">
                                                 <h3>deneme</h3>
                                             </div>
+                                            <div class="sale">
+                                                SALE
+                                            </div>
                                         </div>
                                         <p>Night Party Dress</p>
                                         <h4>$159.99</h4>
@@ -291,6 +300,9 @@
                                             </div>
                                             <div class="text text-center">
                                                 <h3>deneme</h3>
+                                            </div>
+                                            <div class="sale">
+                                                SALE
                                             </div>
                                         </div>
                                         <p>Night Party Dress</p>

@@ -156,7 +156,8 @@
   top: 10px;
   right: 10px;
   color: #f3f1f1;
-  padding: 5px;
+  padding-right: 8px;
+  padding-left: 8px;
 }
 .best-sellers .shop .shop-item .image .button {
   opacity: 0;
