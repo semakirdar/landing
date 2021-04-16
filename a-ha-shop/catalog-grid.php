@@ -107,6 +107,9 @@
                                             <div class="text text-center">
                                                 <h3>deneme</h3>
                                             </div>
+                                            <div class="sale">
+                                                SALE
+                                            </div>
                                         </div>
                                         <p>Night Party Dress</p>
                                         <h4>$159.99</h4>
