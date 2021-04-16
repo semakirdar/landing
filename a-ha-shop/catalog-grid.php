@@ -91,8 +91,14 @@
                         </div>
 
                     </div>
-                    <div class="tags">
-                        <span></span>
+                    <div class="tags mt-5">
+                        <h5 class="mb-3">TAGS</h5>
+                        <button type="button" class="btn btn-light mb-3">Light</button>
+                        <button type="button" class="btn btn-light mb-3">Light</button>
+                        <button type="button" class="btn btn-light mb-3">Light</button>
+                        <button type="button" class="btn btn-light mb-3">Light</button>
+                        <button type="button" class="btn btn-light">Light</button>
+                        <button type="button" class="btn btn-light">Light</button>
                     </div>
                 </div>
                 <div class="col-md-9">
