@@ -207,6 +207,9 @@ footer .line {
   border-bottom: 1px solid #eaeaea;
 }
 
+.filters .categories {
+  margin-top: 80px;
+}
 .filters ul li a {
   color: black !important;
 }
