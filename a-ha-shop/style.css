@@ -229,4 +229,10 @@ footer .line {
   width: 100%;
 }
 
+.page nav {
+  float: right !important;
+  margin-top: 30px;
+  display: inline-block;
+}
+
 /*# sourceMappingURL=style.css.map */

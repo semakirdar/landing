@@ -254,7 +254,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row ">
+                            <div class="row">
                                 <div class="col-md-4">
                                     <div class="shop-item">
                                         <div class="image">
@@ -310,7 +310,22 @@
                                     </div>
                                 </div>
                             </div>
+
                         </div>
+                    </div>
+                    <div class="page">
+                        <nav aria-label="Page navigation example">
+                            <ul class="pagination">
+                                <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+                                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item"><a class="page-link" href="#">Next</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="text mt-5">
+                        Showing: 1-12 of 80 result
                     </div>
                 </div>
             </div>
