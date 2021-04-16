@@ -212,6 +212,8 @@ footer .line {
 }
 .filters ul li a {
   color: black !important;
+  padding: 0;
+  margin-bottom: 10px;
 }
 
 .best-catalog img {

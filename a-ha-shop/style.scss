@@ -278,14 +278,17 @@ footer {
 }
 
 .filters {
+
   .categories {
     margin-top: 80px;
   }
-
   ul {
     li {
+
       a {
         color: black !important;
+        padding: 0 ;
+        margin-bottom: 10px;
       }
     }
   }
