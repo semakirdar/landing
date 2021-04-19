@@ -69,6 +69,21 @@
                             </ul>
                         </div>
                     </div>
+                    <div class="mt-3" id="slider">
+                    </div>
+                    <div class="row mt-5">
+                        <div class="col-md-8 mt-3">
+                            <div class="price-filter">
+                                <p>Price: $160 - $800</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mt-3">
+                            <div class="button-filter">
+                                <button type="button" class="btn btn-secondary button-filter">FILTER</button>
+                            </div>
+                        </div>
+
+                    </div>
                     <div class="best-catalog mt-5">
                         <h5 class="mb-3">BEST SELLERS</h5>
                         <div class="row mb-4">

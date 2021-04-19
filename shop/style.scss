@@ -189,7 +189,7 @@
 
   .shop {
     .shop-item {
-      a{
+      a {
         text-decoration: none;
       }
 
@@ -331,12 +331,12 @@ footer {
   }
 
 
-    p {
-      color: grey;
+  p {
+    color: grey;
 
 
-    }
   }
+}
 
 
 .page {
@@ -376,5 +376,150 @@ footer {
       background-color: #0dcaf0;
       color: white;
     }
+  }
+}
+
+.button-filter {
+  color: white;
+  border-color: #2c3034;
+  background-color: #2c3034;
+  border-radius: 0px;
+
+}
+
+.price-filter {
+  line-height: 32px;
+}
+
+.catalog-details {
+  .detail-img {
+    img {
+      width:100%;
+    }
+    .small-img{
+      width: 100%;
+    }
+  }
+
+  .detail-text {
+    .star-icon {
+      .full {
+        color: grey;
+
+        .null {
+          color: #aeaaaa;
+        }
+      }
+    }
+
+    .prices {
+      .price-discount {
+        color: grey;
+        text-decoration: line-through;
+        font-size: 18px;
+      }
+
+      .price {
+        color: #373737;
+        font-weight: bold;
+        font-size: 23px;
+      }
+    }
+
+    .comment {
+      p {
+        color: grey;
+      }
+    }
+
+    .product-section {
+      .add-fav {
+        .btn-add-cart {
+          background-color: #00c9d0;
+          border-color: #00c9d0;
+          border-radius: 0px;
+        }
+
+        .fav-icon {
+          background-color: #f3f0f0;
+          padding: 15px;
+        }
+      }
+    }
+
+    .social-icons {
+      i {
+        background-color: #e2e0e0;
+        border-radius: 100%;
+        padding: 10px;
+        color: #aeacac;
+        margin-right: 10px;
+      }
+    }
+  }
+}
+.related-products{
+  .shop-item {
+    h4{
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+      color: #5c636a;
+      margin-top: 25px;
+    }
+
+    .image {
+      position: relative;
+      overflow: hidden;
+
+      .out-of-stock {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #ffff;
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+        opacity: .75;
+      }
+    }
+
+    .button {
+      opacity: 0;
+      transition: opacity 0.5s;
+      position: absolute;
+      top: 10px;
+      left: 25px;
+    }
+
+    &:hover .button {
+      opacity: 1;
+    }
+
+    .text {
+      opacity: 0;
+      transition: all 0.5s;
+      position: absolute;
+      bottom: -100px;
+      width: 100%;
+
+      h3 {
+        background-color: black;
+        color: white;
+        font-size: 23px;
+      }
+    }
+
+    &:hover .text {
+      opacity: 1;
+      bottom: -8px;
+    }
+
+    img {
+      width: 100%;
+    }
+
   }
 }

@@ -68,6 +68,8 @@
 <script src="plugins/jquery/jquery-3.6.0.min.js"></script>
 <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="plugins/OwlCarousel2/dist/owl.carousel.min.js"></script>
+<script src="plugins/noUiSlider/distribute/nouislider.min.js"></script>
+
 <script src="main.js"></script>
 </body>
 </html>

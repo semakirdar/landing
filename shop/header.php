@@ -10,6 +10,8 @@
     <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="plugins/OwlCarousel2/dist/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="plugins/OwlCarousel2/dist/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="plugins/noUiSlider/distribute/nouislider.min.css" rel="stylesheet">
+
 
     <link href="style.css" rel="stylesheet">
 
