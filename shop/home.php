@@ -12,7 +12,6 @@
                             <h5> HOT AND FRESH TRENDS OF THIS YEAR</h5>
                             <div class="line mt-4"></div>
                             <button type="button" class="btn btn-light mt-4">SHOP NOW</button>
-
                         </div>
 
                     </div>
@@ -31,7 +30,7 @@
                 <h2 class="text-center">NEW ARRIVALS</h2>
                 <div class="shop">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_1.jpg" alt="image">
@@ -47,7 +46,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_2.jpg">
@@ -63,7 +62,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_2.jpg">
@@ -73,7 +72,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_4.jpg">
@@ -96,10 +95,10 @@
         <div class="subscribe">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 text-end">
+                    <div class="col-sm-12 col-md-12 col-lg-8">
                         <p>SUBSCRIBE TO RECEIVE OUR UPDATES</p>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="input-group">
                             <input type="text" class="form-control" placeholder="Your Email"
                                    aria-label="Recipient's username" aria-describedby="button-addon2">
@@ -117,7 +116,7 @@
                 <h2 class="text-center">BEST SELLERS</h2>
                 <div class="shop">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_1.jpg">
@@ -133,7 +132,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_2.jpg">
@@ -149,7 +148,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_3.jpg">
@@ -165,7 +164,7 @@
                                 <h4>$159.99</h4>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-sm-12 col-md-12 col-lg-3">
                             <div class="shop-item">
                                 <div class="image">
                                     <img src="images/shop_item_4.jpg">

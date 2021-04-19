@@ -59,7 +59,7 @@
             <div class="col-md-4">
                 <div class="nav-search">
                     <form class="d-flex">
-                        <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                        <input class="form-control search" type="search" placeholder="Search" aria-label="Search">
                     </form>
                 </div>
             </div>

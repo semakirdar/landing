@@ -3,7 +3,7 @@
     <section>
         <div class="container">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-sm-12 col-md-12 col-lg-3">
                     <div class="filters">
                         <div class="categories mb-5">
                             <h5>CATEGORIES</h5>
@@ -117,14 +117,13 @@
                             <span>Business</span>
                             <span>Business</span>
                         </div>
-
                     </div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-sm-12 col-md-12 col-lg-9">
                     <div class="best-sellers">
                         <div class="shop">
                             <div class="row mb-5">
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <a href="catalog-details.php">
@@ -151,7 +150,7 @@
 
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_3.jpg">
@@ -167,7 +166,7 @@
                                         <h4>$159.99</h4>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_4.jpg">
@@ -185,7 +184,7 @@
                                 </div>
                             </div>
                             <div class="row mb-5">
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_1.jpg">
@@ -201,7 +200,7 @@
                                         <h4>$159.99</h4>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_2.jpg">
@@ -217,7 +216,7 @@
                                         <h4>$159.99</h4>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_3.jpg">
@@ -238,7 +237,7 @@
                                 </div>
                             </div>
                             <div class="row mb-5">
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_1.jpg">
@@ -254,7 +253,7 @@
                                         <h4>$159.99</h4>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_3.jpg">
@@ -273,7 +272,7 @@
                                         <h4>$159.99</h4>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_4.jpg">
@@ -291,7 +290,7 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_1.jpg">
@@ -310,7 +309,7 @@
                                         <h4>$159.99</h4>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_3.jpg">
@@ -326,7 +325,7 @@
                                         <h4>$159.99</h4>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-12 col-md-12 col-lg-4">
                                     <div class="shop-item">
                                         <div class="image">
                                             <img src="images/shop_item_4.jpg">
@@ -350,18 +349,26 @@
                         </div>
                     </div>
                     <div class="page">
-                        <nav aria-label="Page navigation example">
-                            <ul class="pagination">
-                                <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-                                <li class="page-item"><a class="page-link" href="#">1</a></li>
-                                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="text mt-5">
-                        Showing: 1-12 of 80 result
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-6 text-start">
+                                <div class="text mt-5">
+                                    Showing: 1-12 of 80 result
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-6 text-end">
+                                <div class="page-number">
+                                    <nav aria-label="Page navigation example">
+                                        <ul class="pagination">
+                                            <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+                                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                            <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                            <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                            <li class="page-item"><a class="page-link" href="#">Next</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

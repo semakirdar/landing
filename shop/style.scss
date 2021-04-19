@@ -1,3 +1,7 @@
+.border-radius-0 {
+  border-radius: 0;
+}
+
 .navbar-light {
   .navbar-right {
     .usd-form {
@@ -22,7 +26,7 @@
   .nav-search {
     margin-top: 50px;
     margin-bottom: 50px;
-    width: 50%;
+
   }
 
   .text {
@@ -176,7 +180,6 @@
   }
 
   .input-group {
-    width: 60%;
   }
 }
 
@@ -394,9 +397,10 @@ footer {
 .catalog-details {
   .detail-img {
     img {
-      width:100%;
+      width: 100%;
     }
-    .small-img{
+
+    .small-img {
       width: 100%;
     }
   }
@@ -433,16 +437,43 @@ footer {
     }
 
     .product-section {
+      .quantity {
+        margin-top: 18px;
+
+        .quantity-btn {
+          height: 40px;
+          width: 40px;
+          border: 1px solid #c6c6c6 !important;
+        }
+
+        .quantity-input {
+          width: 60px;
+          height: 40px;
+          margin-right: -6px;
+          margin-left: -5px;
+          border: 1px solid #c6c6c6 !important;
+          border-left: 0;
+          border-right: 0;
+
+          &:hover {
+            border-color: grey !important;
+
+          }
+        }
+
+
+      }
+
       .add-fav {
         .btn-add-cart {
           background-color: #00c9d0;
           border-color: #00c9d0;
-          border-radius: 0px;
         }
 
         .fav-icon {
           background-color: #f3f0f0;
           padding: 15px;
+          color: black;
         }
       }
     }
@@ -458,9 +489,10 @@ footer {
     }
   }
 }
-.related-products{
+
+.related-products {
   .shop-item {
-    h4{
+    h4 {
       text-align: center;
     }
 
@@ -523,3 +555,61 @@ footer {
 
   }
 }
+
+.product-info {
+  .tab-pane {
+    font-size: 18px;
+    color: grey;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .best-catalog {
+    display: none;
+  }
+
+  .nav-search {
+
+    width: 100%;
+
+  }
+  .catalog-details {
+    .detail-img {
+      .small-img {
+        img {
+          margin-bottom: 20px;
+        }
+
+      }
+    }
+  }
+
+
+}
+
+
+@media only screen and (max-width: 769px) {
+  .banner {
+    .banner-slider {
+      .banner-text {
+        display: none;
+      }
+    }
+  }
+
+  .page {
+    .text {
+      text-align: right;
+    }
+  }
+
+  .catalog-details {
+    .select-color {
+      margin-bottom: 20px;
+    }
+  }
+
+}
+
+
+
