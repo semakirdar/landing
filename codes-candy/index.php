@@ -4,15 +4,15 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-6">
                     <div class="hero-text text-white mt-5">
-                        <p>Lorem ipsum dolor sit amet </br> ipsum dolor sit amet aliquam</p>
-                        <span>
-                                Lorem ipsum dolor sit amet, consectetur  adipisicing </br> elit. A aliquam assumenda
-                                consequuntur debitis.consequuntur debitis.
-                            </span>
+                        <h1 class="fw-bold">Welcome to Geeks UI Learning Application</h1>
+                        <p class="lead text-white-50">
+                            Hand-picked Instructor and expertly crafted courses, designed for the modern students and
+                            entrepreneur.
+                        </p>
                     </div>
                     <div class="hero-button mt-5">
-                        <button type="button" class="btn btn-success btn-lg">Browse Courses</button>
-                        <button type="button" class="btn btn-light btn-lg">Are You Instructor?</button>
+                        <button type="button" class="btn btn-success btn-lg browse">Browse Courses</button>
+                        <button type="button" class="btn btn-light btn-lg instructor">Are You Instructor?</button>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6">
@@ -23,64 +23,58 @@
             </div>
         </div>
     </section>
-    <section class="features bg-white mt-5">
+    <section class="features bg-white py-4">
         <div class="container">
-
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="feature-item">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-3">
-                                <div class="icon-box">
-                                    <i data-feather="video"> </i>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 col-md-12 col-lg-9">
-                                <div class="text">
-                                    <p> Lorem ipsum dolor sit amet</p>
-                                    Lorem ipsum dolor sit amet
-                                </div>
-                            </div>
+                        <div class="feature-item-icon">
+                            <i data-feather="users"></i>
+                        </div>
+                        <div class="feature-item-text d-inline-block ms-3">
+                            <h6 class="fw-bold mb-0">30,000 online courses</h6>
+                            <p class="p-0 mb-0 text-muted">Enjoy a variety of fresh topics</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="feature-item">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-3">
-                                <div class="icon-box">
-                                    <i data-feather="users"> </i>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 col-md-12 col-lg-9">
-                                <div class="text">
-                                    <p> Lorem ipsum dolor sit amet</p>
-                                    Lorem ipsum dolor sit amet
-                                </div>
-                            </div>
+                        <div class="feature-item-icon">
+                            <i data-feather="users"></i>
+                        </div>
+                        <div class="feature-item-text d-inline-block ms-3">
+                            <h6 class="fw-bold mb-0">30,000 online courses</h6>
+                            <p class="p-0 mb-0 text-muted">Enjoy a variety of fresh topics</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="feature-item">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-3">
-                                <div class="icon-box">
-                                    <i data-feather="clock"> </i>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 col-md-12 col-lg-9">
-                                <div class="text">
-                                    <p> Lorem ipsum dolor sit amet</p>
-                                    Lorem ipsum dolor sit amet
-                                </div>
-                            </div>
+                        <div class="feature-item-icon">
+                            <i data-feather="users"></i>
+                        </div>
+                        <div class="feature-item-text d-inline-block ms-3">
+                            <h6 class="fw-bold mb-0">30,000 online courses</h6>
+                            <p class="p-0 mb-0 text-muted">Enjoy a variety of fresh topics</p>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
 
+    </section>
+    <section class="course-list">
+        <div class="container">
+            <div class="course-item">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 <?php include "footer.php" ?>

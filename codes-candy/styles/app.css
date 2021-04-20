@@ -10730,18 +10730,18 @@ textarea.form-control-lg {
 }
 body {
   font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.hero .hero-text p {
-  font-size: 30px;
-  font-weight: bold;
-}
-.hero .hero-text span {
-  font-size: 20px;
-  color: #d4d3d3;
-}
 .hero .hero-image img {
   width: 100%;
+}
+.hero .hero-button .browse {
+  font-size: 16px;
+}
+.hero .hero-button .instructor {
+  font-size: 16px;
 }
 
 .notification {
@@ -10775,16 +10775,24 @@ body {
   border-radius: 100%;
 }
 
-.features .feature-item .icon-box {
-  background-color: #ffeeda;
-  padding: 15px;
-  display: inline-block;
-  border-radius: 100%;
-  color: #c28135;
+.features .feature-item {
+  display: flex;
+  align-items: center;
 }
-.features .feature-item .text p {
-  margin-bottom: 0;
-  font-weight: bold;
+.features .feature-item .feature-item-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffeeda;
+  color: #c28135;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 100%;
+}
+.features .feature-item .feature-item-icon svg {
+  width: 19px;
+  height: 19px;
 }
 
 /*# sourceMappingURL=app.css.map */

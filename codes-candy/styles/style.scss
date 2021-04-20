@@ -2,24 +2,22 @@
 
 body {
   font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
 }
 
 .hero {
-  .hero-text {
-    p {
-      font-size: 30px;
-      font-weight: bold;
-    }
-
-    span {
-      font-size: 20px;
-      color: #d4d3d3;
-    }
-  }
-
   .hero-image {
     img {
       width: 100%;
+    }
+  }
+  .hero-button{
+    .browse{
+      font-size: 16px;
+    }
+    .instructor{
+      font-size: 16px;
     }
   }
 }
@@ -60,20 +58,23 @@ body {
 
 .features {
   .feature-item {
-    .icon-box {
+    display: flex;
+    align-items: center;
+    .feature-item-icon{
+      display: flex;
+      align-items: center;
+      justify-content: center;
       background-color:#ffeeda;
-      padding: 15px;
-      display: inline-block;
-      border-radius: 100%;
       color:#c28135;
-    }
+      width: 50px;
+      height: 50px;
+      text-align: center;
+      border-radius: 100%;
 
-    .text {
-      p {
-        margin-bottom: 0;
-        font-weight: bold;
+      svg{
+        width: 19px;
+        height: 19px;
       }
-
     }
   }
 }
