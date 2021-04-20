@@ -42,7 +42,7 @@
                         Landings
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#" aria-disabled="true">Disabled>Action</a>LANDINGS</li>
+                        <li><a class="dropdown-item disabled" href="#" tabindex="-1" aria-disabled="true">LANDINGS</a></li>
                         <li><a class="dropdown-item" href="#">Courses</a></li>
                         <li><a class="dropdown-item" href="#">Lead Course</a></li>
                     </ul>
@@ -72,7 +72,7 @@
                         Accounts
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">ACCOUNTS</a></li>
+                        <li><a class="dropdown-item  disabled" href="#" tabindex="-1" aria-disabled="true" >ACCOUNTS</a></li>
                         <li><a class="dropdown-item" href="#">Instructor</a></li>
                         <li><a class="dropdown-item" href="#">Students</a></li>
                         <li><a class="dropdown-item" href="#">Admin</a></li>
@@ -87,7 +87,7 @@
                         <li><a class="dropdown-item" href="#">Privacy Settings</a></li>
                         <li><a class="dropdown-item" href="#">Delete Profile</a></li>
                         <li><a class="dropdown-item" href="#">Linked Accounts</a></li>
-                        <li><a class="dropdown-item" href="#">Linked Accounts</a></li>
+                        <li><a class="dropdown-item" href="#"></a></li>
                     </ul>
                 </li>
 
