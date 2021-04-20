@@ -20,26 +20,77 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Browse
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Web Development</a></li>
+                        <li><a class="dropdown-item" href="#">Design</a></li>
+                        <li><a class="dropdown-item" href="#">Mobile App</a></li>
+                        <li><a class="dropdown-item" href="#">IT Software</a></li>
+                        <li><a class="dropdown-item" href="#">Marketing</a></li>
+                        <li><a class="dropdown-item" href="#">Music</a></li>
+                        <li><a class="dropdown-item" href="#">Life Style</a></li>
+                        <li><a class="dropdown-item" href="#">Business</a></li>
+                        <li><a class="dropdown-item" href="#">Photography</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Dropdown
+                        Landings
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropdown-item" href="#" aria-disabled="true">Disabled>Action</a>LANDINGS</li>
+                        <li><a class="dropdown-item" href="#">Courses</a></li>
+                        <li><a class="dropdown-item" href="#">Lead Course</a></li>
                     </ul>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Pages
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Course Single</a></li>
+                        <li><a class="dropdown-item" href="#">Course Single v2</a></li>
+                        <li><a class="dropdown-item" href="#">Course Resume</a></li>
+                        <li><a class="dropdown-item" href="#">Course Category</a></li>
+                        <li><a class="dropdown-item" href="#">Course Checkout</a></li>
+                        <li><a class="dropdown-item" href="#">Course List/Grid</a></li>
+                        <li><a class="dropdown-item" href="#">Add New Course</a></li>
+                        <li><a class="dropdown-item" href="#">Paths</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#">Blog</a></li>
+                        <li><a class="dropdown-item" href="#">About</a></li>
+                        <li><a class="dropdown-item" href="#">Help Center</a></li>
+                        <li><a class="dropdown-item" href="#">Specialty</a></li>
+                    </ul>
                 </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Accounts
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">ACCOUNTS</a></li>
+                        <li><a class="dropdown-item" href="#">Instructor</a></li>
+                        <li><a class="dropdown-item" href="#">Students</a></li>
+                        <li><a class="dropdown-item" href="#">Admin</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#">Sign In</a></li>
+                        <li><a class="dropdown-item" href="#">Sign Up</a></li>
+                        <li><a class="dropdown-item" href="#">Forgot Password</a></li>
+                        <li><a class="dropdown-item" href="#">Edit Profile</a></li>
+                        <li><a class="dropdown-item" href="#">Security</a></li>
+                        <li><a class="dropdown-item" href="#">Social Profiles</a></li>
+                        <li><a class="dropdown-item" href="#">Notifications</a></li>
+                        <li><a class="dropdown-item" href="#">Privacy Settings</a></li>
+                        <li><a class="dropdown-item" href="#">Delete Profile</a></li>
+                        <li><a class="dropdown-item" href="#">Linked Accounts</a></li>
+                        <li><a class="dropdown-item" href="#">Linked Accounts</a></li>
+                    </ul>
+                </li>
+
             </ul>
             <form class="d-flex">
                 <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
