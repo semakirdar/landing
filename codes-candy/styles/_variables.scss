@@ -1,8 +1,9 @@
 $btn-border-radius: 0;
+$primary: #754ffe;
 
 //Bootstrap colors override
 $custom-colors: (
-    "primary":  #754ffe,
+    "primary":  $primary,
     "success": #19cb98
 );
 

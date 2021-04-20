@@ -8,13 +8,17 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="styles/app.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+
     <title>CODES CANDY</title>
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            <img src="images/logo.svg">
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -104,9 +108,31 @@
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                 </li>
             </ul>
-            <ul class="text-end">
-                <
+            <ul class="nav text-end">
+                <li class="dropdown ">
+                    <a href="#" class="btn btn-light rounded-circle notification text-muted me-3" data-bs-toggle="dropdown">
+                        <i class="far fa-bell"></i>
+                        <span class="notification-alert"></span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuButton1">
+                        <li><a class="dropdown-item" href="#">Notifications</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="rounded-circle user-avatar text-muted" data-bs-toggle="dropdown">
+                        <img src="images/avatar.jpg" class="img-fluid">
+                        <span class="notification-alert"></span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuButton1">
+                        <li><a class="dropdown-item" href="#">Notifications</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                </li>
             </ul>
         </div>
     </div>
 </nav>
+<main>
