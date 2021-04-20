@@ -1,0 +1,10 @@
+$btn-border-radius: 0;
+
+//Bootstrap colors override
+$custom-colors: (
+    "primary":  #754ffe,
+    "success": #19cb98
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+//

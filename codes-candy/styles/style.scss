@@ -1,0 +1,13 @@
+@import "variables";
+.hero{
+  .hero-text{
+    p{
+      font-size: 40px;
+      font-weight: bold;
+    }
+    span{
+      font-size: 24px;
+      color: #d4d3d3;
+    }
+  }
+}
