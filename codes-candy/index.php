@@ -23,27 +23,64 @@
             </div>
         </div>
     </section>
-    <section class="features bg-white">
+    <section class="features bg-white mt-5">
         <div class="container">
-            <div class="features-icons text-center">
-                <div class="row">
-                    <div class="col-sm-12 col-md-12 col-lg-4">
-                        <div class="icon-box">
-                            <i data-feather="video"> </i>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-lg-4">
-                        <div class="icon-box">
-                            <i data-feather="users"></i>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-lg-4">
-                        <div class="icon-box">
-                            <i data-feather="clock"></i>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="feature-item">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-3">
+                                <div class="icon-box">
+                                    <i data-feather="video"> </i>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-9">
+                                <div class="text">
+                                    <p> Lorem ipsum dolor sit amet</p>
+                                    Lorem ipsum dolor sit amet
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="feature-item">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-3">
+                                <div class="icon-box">
+                                    <i data-feather="users"> </i>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-9">
+                                <div class="text">
+                                    <p> Lorem ipsum dolor sit amet</p>
+                                    Lorem ipsum dolor sit amet
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="feature-item">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-3">
+                                <div class="icon-box">
+                                    <i data-feather="clock"> </i>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-9">
+                                <div class="text">
+                                    <p> Lorem ipsum dolor sit amet</p>
+                                    Lorem ipsum dolor sit amet
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
             </div>
         </div>
+
     </section>
 <?php include "footer.php" ?>

@@ -10775,11 +10775,16 @@ body {
   border-radius: 100%;
 }
 
-.features .features-icons .icon-box {
-  background-color: #fca58a;
-  padding: 20px;
+.features .feature-item .icon-box {
+  background-color: #ffeeda;
+  padding: 15px;
   display: inline-block;
   border-radius: 100%;
+  color: #c28135;
+}
+.features .feature-item .text p {
+  margin-bottom: 0;
+  font-weight: bold;
 }
 
 /*# sourceMappingURL=app.css.map */
