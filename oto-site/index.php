@@ -7,13 +7,18 @@
                     <div class="col-sm-12 col-md-5">
                         <div class="hero-form ">
                             <div class="form-control">
-                                <label for="exampleFormControlInput1" class="form-label mt-3">Araç Seçiniz</label>
-                                <select class="form-select mb-4" aria-label="Default select example">
-                                    <option selected>Open this select menu</option>
-                                    <option value="1">One</option>
-                                    <option value="2">Two</option>
-                                    <option value="3">Three</option>
+                                <label for="reservationBrand" class="form-label mt-3">Araç Marka Seçiniz</label>
+                                <select class="form-select" aria-label="Default select example" id="reservationBrand">
+                                    <option selected>Seçiniz</option>
                                 </select>
+
+                                <div class="mb-4">
+                                    <label for="reservationModel" class="form-label mt-4">Araç Model Seçiniz</label>
+                                    <select class="form-select mb-4" id="reservationModel">
+                                        <option selected>Seçiniz</option>
+                                    </select>
+                                </div>
+
                                 <div class="mb-4">
                                     <label for="exampleFormControlInput1" class="form-label">Ad</label>
                                     <input type="email" class="form-control" id="exampleFormControlInput1"
@@ -24,8 +29,8 @@
                                     <input type="email" class="form-control" id="exampleFormControlInput1"
                                            placeholder="">
                                 </div>
-                                <button type="button" class="btn btn-danger btn-reservation mb-5">CONTINUE CAR
-                                    RESERVATION
+                                <button type="button" class="btn btn-danger btn-reservation mb-3">REZERVASYON TALEBİ
+
                                 </button>
 
                             </div>
@@ -38,18 +43,32 @@
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <div class="car-text mb-5">
-                                            <h3>LUXURY CAR FROM FROM $28 DAY</h3>
-                                            <h5>Treat yourself in USA</h5>
+                                            <h3>Volkswagen</h3>
+                                            <h5>Gizli Özellik Açma</h5>
                                         </div>
-                                        <img src="images/car.png" class="d-block w-100" alt="...">
+                                        <img src="images/slider-car1.png" class="d-block w-100" alt="...">
 
                                     </div>
                                     <div class="carousel-item">
                                         <div class="car-text mb-5">
-                                            <h3>Get 15% off your rental</h3>
-                                            <h5>Plan your trip now</h5>
+                                            <h3>Audi</h3>
+                                            <h5>Gizli Özellik Açma</h5>
                                         </div>
-                                        <img src="images/slidercar.png" class="d-block w-100" alt="...">
+                                        <img src="images/slider-car2.png" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="car-text mb-5">
+                                            <h3>Skoda</h3>
+                                            <h5>Gizli Özellik açma</h5>
+                                        </div>
+                                        <img src="images/slider-car3.png" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="car-text mb-5">
+                                            <h3>Seat</h3>
+                                            <h5>Gizli Özellik Açma</h5>
+                                        </div>
+                                        <img src="images/slider-car4.png" class="d-block w-100" alt="...">
                                     </div>
                                 </div>
 
@@ -72,7 +91,7 @@
         </div>
         <div class="container" id="services">
             <div class="service mt-5 mb-5">
-                <h3 class="text-center ">Customer Services</h3>
+                <h3 class="text-center ">Hizmetlerimiz</h3>
                <div class="row mt-3">
                    <div class="col-sm-12 col-md-12 col-lg-6">
                        <select id="brands" class="form-select mb-4" aria-label="Default select example">
@@ -80,67 +99,46 @@
                        </select>
                    </div>
                    <div class="col-sm-12 col-md-12 col-lg-6">
-                       <select id="models" class="form-select mb-4" aria-label="Default select example">
-                           <option selected>Open this select menu</option>
-                           <option value="1">One</option>
-                           <option value="2">Two</option>
-                           <option value="3">Three</option>
+                       <select id="models" class="form-select mb-4">
+                           <option selected>Model Seçiniz</option>
+                           
                        </select>
                    </div>
 
                </div>
-                <div class="row mt-5 ">
-                    <div class="col-sm-12 col-md-6 ">
-                        <div class="service-box ">
+                <div class="row mt-5">
+					<!--<div class="col-sm-12 cloned text-center">
+						<p>
+							Özellik bilgilerini görüntüleyebilmek için lütfen marka/model seçimi yapınız.
+						</p>
+					</div>
+                    <div class="col-sm-12 col-md-6 clone-this" style="display: none;">
 
-                            <i class="fas fa-plus-square me-2"></i>
-                            <span>Special rates on car booking</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
-                                enim
-                                exercitationem labore numquam, officiis optio praesentium quia quod repellat
-                                reprehenderit temporibus ullam veniam veritatis?Accusantium dolorem reiciendis
-                                saepe!
-                            </p>
+                    </div>-->
+
+                    <div class="col-sm-12 cloned text-center">
+                        <p>
+                            Özellik bilgilerini görüntüleyebilmek için lütfen marka/model seçimi yapınız.
+                        </p>
+                    </div>
+                    <div class="masonry" id="service-list">
+                        <div class="item clone-this" style="display: none;">
+                            <div class="service-box ">
+
+                                <i class="fas fa-plus-square me-2"></i>
+                                <span class="service-box-title">Special rates on car booking</span>
+                                <p class="service-box-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
+                                    enim
+                                    exercitationem labore numquam, officiis optio praesentium quia quod repellat
+                                    reprehenderit temporibus ullam veniam veritatis?Accusantium dolorem reiciendis
+                                    saepe!
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid animi at atque deserunt expedita fuga illum, impedit in iure iusto minus molestias perferendis quaerat quis repudiandae sapiente ut velit voluptate.
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis doloribus ipsam quae saepe voluptas. Ad aut culpa deleniti dolor doloremque facilis laborum, minus neque praesentium quod rem repudiandae saepe suscipit?
+                                </p>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-6 ">
-                        <div class="service-box ">
-                            <i class="fas fa-plus-square me-2"></i>
-                            <span>Special rates on car booking</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
-                                enim
-                                exercitationem labore numquam, officiis optio praesentium quia quod repellat
-                                reprehenderit temporibus ullam veniam veritatis?Accusantium dolorem reiciendis
-                                saepe!
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row ">
-                    <div class="col-sm-12 col-md-6">
-                        <div class="service-box ">
-                            <i class="fas fa-plus-square me-2"></i>
-                            <span>Special rates on car booking</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
-                                enim
-                                exercitationem labore numquam, officiis optio praesentium quia quod repellat
-                                reprehenderit temporibus ullam veniam veritatis?Accusantium dolorem reiciendis
-                                saepe!
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-6">
-                        <div class="service-box ">
-                            <i class="fas fa-plus-square me-2"></i>
-                            <span>Special rates on car booking</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.A accusantium delectus
-                                enim
-                                exercitationem labore numquam, officiis optio praesentium quia quod repellat
-                                reprehenderit temporibus ullam veniam veritatis?Accusantium dolorem reiciendis
-                                saepe!
-                            </p>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </div>
@@ -159,7 +157,7 @@
                                    aria-label="Recipient's username"
                                    aria-describedby="button-addon2">
                             <button class="btn btn-outline-secondary btn-social" type="button" id="button-addon2">
-                                SEND
+                                GÖNDER
                             </button>
                         </div>
                     </div>
@@ -280,22 +278,22 @@
         </div>
         <div class="container">
             <div class="contact" id="contact">
-                <h2 class="mb-5">Contact Us</h2>
+                <h2 class="mb-5">Bize Ulaşın</h2>
                 <p class="mb-0">You have any questions or need additional information?</p>
-                <span class="title">Adress:</span>
+                <span class="title">Adres:</span>
                 <span class="adress">Car|Rental/3861 Sepulveda Blvd./Culver City,CA 90230</span>
                 <div class="contact-form">
                     <div class="row g-3 mt-4 mb-3">
                         <div class="col">
-                            <input type="text" class="form-control" placeholder="First name" aria-label="First name:">
+                            <input type="text" class="form-control" placeholder="Ad:" aria-label="First name:">
                         </div>
                         <div class="col">
-                            <input type="text" class="form-control" placeholder="Last name" aria-label="Last name:">
+                            <input type="text" class="form-control" placeholder="Soyad:" aria-label="Last name:">
                         </div>
                     </div>
                     <div class="mb-3">
                         <input type="email" class="form-control" id="exampleFormControlInput1"
-                               placeholder="Telephone:">
+                               placeholder="Telefon:">
                     </div>
 
                     <div class="mb-3">
@@ -304,9 +302,9 @@
                     </div>
                     <div class="mb-3">
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
-                                  placeholder="Message:"></textarea>
+                                  placeholder="Mesaj:"></textarea>
                     </div>
-                    <button type="button" class="btn btn-danger btn-submit">SUBMIT MESSAGE</button>
+                    <button type="button" class="btn btn-danger btn-submit">MESAJI GÖNDER</button>
                 </div>
 
             </div>

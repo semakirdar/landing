@@ -12,7 +12,7 @@
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
     />
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <title>Oto Site</title>
 </head>
@@ -27,10 +27,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ms-auto">
-                    <a class="nav-link active" aria-current="page" href="#hero">Home</a>
-                    <a class="nav-link" href="#services">Services</a>
-                    <a class="nav-link" href="#map">Location</a>
-                    <a class="nav-link" href="#contact">Contact</a>
+                    <a class="nav-link active" aria-current="page" href="#hero">Anasayfa</a>
+                    <a class="nav-link" href="#services">Hizmetlerimiz</a>
+                    <a class="nav-link" href="#map">Lokasyon</a>
+                    <a class="nav-link" href="#contact">Bize Ulaşın</a>
                 </div>
             </div>
         </div>

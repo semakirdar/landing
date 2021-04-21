@@ -2,6 +2,9 @@ let brandSelect = document.getElementById('brands');
 let modelSelect = document.getElementById('models');
 let serviceWrapper = document.getElementById('service-list');
 
+let reservationBrand = document.getElementById('reservationBrand');
+let reservationModel = document.getElementById('reservationModel');
+
 let cars = [
 	{
 		'name': 'Seat',
@@ -1641,7 +1644,40 @@ cars.forEach(function (item, i){
    brandOption.text = item.name;
    brandOption.value = item.name;
 
+	let brandOption2 = document.createElement('option');
+	brandOption2.text = item.name;
+	brandOption2.value = item.name;
+
    brandSelect.appendChild(brandOption);
+   reservationBrand.appendChild(brandOption2);
+});
+
+reservationBrand.addEventListener('change', function(e){
+	let selectedBrand = reservationBrand.value;
+	reservationModel.innerHTML = '';
+
+	let modelDefaultOption = document.createElement('option');
+	modelDefaultOption.text = 'Model Seçiniz';
+	modelDefaultOption.value = '';
+
+	modelSelect.appendChild(modelDefaultOption);
+
+	cars.forEach(function(item, i){
+		if(selectedBrand === item.name){
+			let models = item.models;
+			if(models.length > 0){
+				models.forEach(function(item, i){
+					let modelOption = document.createElement('option');
+					modelOption.text = item.name;
+					modelOption.value = item.name;
+
+					reservationModel.appendChild(modelOption);
+				});
+			}
+
+			return;
+		}
+	});
 });
 
 brandSelect.addEventListener('change', function(e){
@@ -1691,7 +1727,7 @@ modelSelect.addEventListener('change', function(e){
 				serviceBox.getElementsByTagName('span')[0].innerHTML = feature.name;
 				serviceBox.getElementsByTagName('p')[0].innerHTML = feature.description.replaceAll('\n', '<br/>');
 				
-				serviceBox.style.display = "block";
+				serviceBox.style.display = "inline-block";
 				serviceBox.classList.remove('clone-this');
 				serviceBox.classList += ' cloned';
 				
