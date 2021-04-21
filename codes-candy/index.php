@@ -82,7 +82,7 @@
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
-                            <span class="text ms-2">4.5</span>
+                            <span class="text ms-1 me-1">4.5</span>
                             <span class="small-text">(16,500)</span>
                         </div>
                         <div class="">
