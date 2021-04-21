@@ -34,7 +34,7 @@
                     <div class="col-sm-12 col-md-7">
                         <div class="car ">
                             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                                
+
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <div class="car-text mb-5">
@@ -73,6 +73,22 @@
         <div class="container" id="services">
             <div class="service mt-5 mb-5">
                 <h3 class="text-center ">Customer Services</h3>
+               <div class="row mt-3">
+                   <div class="col-sm-12 col-md-12 col-lg-6">
+                       <select id="brands" class="form-select mb-4" aria-label="Default select example">
+                           <option selected>Marka Seçiniz</option>
+                       </select>
+                   </div>
+                   <div class="col-sm-12 col-md-12 col-lg-6">
+                       <select id="models" class="form-select mb-4" aria-label="Default select example">
+                           <option selected>Open this select menu</option>
+                           <option value="1">One</option>
+                           <option value="2">Two</option>
+                           <option value="3">Three</option>
+                       </select>
+                   </div>
+
+               </div>
                 <div class="row mt-5 ">
                     <div class="col-sm-12 col-md-6 ">
                         <div class="service-box ">

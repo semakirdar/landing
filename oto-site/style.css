@@ -72,213 +72,219 @@ body {
 
 .service .service-box {
     display: inline-block;
-    background-color: #f2f2f3;
+   /* background-color: #f2f2f3;*/
     padding: 20px;
     width: 100%;
-    margin-bottom: 20px;
+/*   margin-bottom: 20px;*/
+ background-color: #eee;
+ display: inline-block;
+ margin: 0 0 2em;
+ width: 100%;
 }
 
 .service .service-box p {
-    font-size: 15px;
-    margin-top: 10px;
+ font-size: 15px;
+margin-top: 10px;
+ column-count: 3;
+ column-gap: 2em;
 }
 
 .social {
-    background-color: #c61334;
-    padding: 50px;
+ background-color: #c61334;
+ padding: 50px;
 }
 .social .social-icon{
-    width: 50px;
-    height: 50px;
-    line-height: 52px;
-    display: inline-block;
-    margin-right: 6px;
+ width: 50px;
+ height: 50px;
+ line-height: 52px;
+ display: inline-block;
+ margin-right: 6px;
 }
 
 .social .social-icon i {
-    color: #fff;
-    font-size: 24px;
+ color: #fff;
+ font-size: 24px;
 }
 
 .social .social-icon.twitter {
-    background-color: #1DA1F2;
+ background-color: #1DA1F2;
 }
 
 .social .social-icon.google {
-    background-color: #ef2116
+ background-color: #ef2116
 }
 
 .social .social-icon.facebook {
-    background-color: #0047ab;
+ background-color: #0047ab;
 }
 
 .social .social-text {
-    color: white;
+ color: white;
 
 }
 
 .social .social-text h2 {
-    font-weight: bold;
-    font-size: 20px;
+ font-weight: bold;
+ font-size: 20px;
 }
 
 .social .social-text h5 {
-    font-size: 12px;
+ font-size: 12px;
 }
 
 .social .social-input {
-    padding: 5px;
-    background-color: white;
-    width: 100%;
+ padding: 5px;
+ background-color: white;
+ width: 100%;
 }
 
 .social .social-input input {
-    border-color: transparent !important;
+ border-color: transparent !important;
 }
 
 .social .social-input .btn-social {
-    background-color: white;
-    color: #474545;
-    border-radius: 0;
-    font-weight: bold;
-    border:2px solid #bebebe;
+ background-color: white;
+ color: #474545;
+ border-radius: 0;
+ font-weight: bold;
+ border:2px solid #bebebe;
 }
 
 .comment .comment-icon {
-    color: #696b6b;
+ color: #696b6b;
 }
 
 .comment .comment-icon .small {
-    font-size: 18px;
+ font-size: 18px;
 }
 
 .comment .comment-icon .big {
-    font-size: 38px;
+ font-size: 38px;
 }
 .comment-text h5{
-    color: #c61334;
-    font-weight: bold;
+ color: #c61334;
+ font-weight: bold;
 }
 
 .info .btn {
-    width: 200px;
-    border-radius: 0px;
+ width: 200px;
+ border-radius: 0px;
 }
 
 .info .info-img img {
-    width: 100%;
+ width: 100%;
 
 }
 
 .info .info-text {
-    padding-top: 42px;
+ padding-top: 42px;
 }
 
 .info .info-text h2 {
-    color: #696b6b;
-    font-weight: bold;
+ color: #696b6b;
+ font-weight: bold;
 }
 
 .info .info-text-watch h2 {
-    color: #696b6b;
-    font-weight: bold;
+ color: #696b6b;
+ font-weight: bold;
 }
 
 .info .info-text .info-button {
-    padding-top: 20px;
+ padding-top: 20px;
 }
 
 .partners {
-    margin-top: 108px !important;
-    padding: 30px;
-    background-color: #f2f2f3;
+ margin-top: 108px !important;
+ padding: 30px;
+ background-color: #f2f2f3;
 
 
 }
 
 .partners h2 {
-    color: #696b6b;
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-    margin-bottom: 30px;
+ color: #696b6b;
+ text-align: center;
+ font-weight: bold;
+ font-size: 30px;
+ margin-bottom: 30px;
 }
 
 .contact h2 {
-    color: #696b6b;
-    text-align: left;
-    font-weight: bold;
+ color: #696b6b;
+ text-align: left;
+ font-weight: bold;
 }
 
 .contact .title {
-    color: #c61334;
-    font-weight: bold;
+ color: #c61334;
+ font-weight: bold;
 }
 
 .contact .adress {
-    color: #696b6b;
-    font-weight: bold;
+ color: #696b6b;
+ font-weight: bold;
 
 }
 
 .contact .contact-form input {
-    background-color: #e5e5e7;
+ background-color: #e5e5e7;
 }
 
 .contact .contact-form textarea {
-    background-color: #e5e5e7;
+ background-color: #e5e5e7;
 }
 
 .contact .contact-form .btn-submit {
-    border-radius: 0px;
-    background-color: #c61334;
-    font-weight: bold;
+ border-radius: 0px;
+ background-color: #c61334;
+ font-weight: bold;
 }
 
 .footer-grey .footer-text a {
-    color: #696b6b;
-    font-weight: bold;
-    margin-top: 25px;
+ color: #696b6b;
+ font-weight: bold;
+ margin-top: 25px;
 
 }
 
 .footer-grey .footer-text {
-    padding-top: 25px;
+ padding-top: 25px;
 }
 
 .footer-grey {
-    background-color: #e5e5e7;
-    width: 100%;
-    height: 130px;
+ background-color: #e5e5e7;
+ width: 100%;
+ height: 130px;
 
 
 }
 
 @media only screen and (max-width: 600px) {
-    .hero {
-        padding-right: 0;
-    }
+ .hero {
+     padding-right: 0;
+ }
 
-    .car-text {
-        margin-top: 24px;
-    }
+ .car-text {
+     margin-top: 24px;
+ }
 
 
-    .info .info-text-watch h2 {
-        margin-top: 20px;
-    }
+ .info .info-text-watch h2 {
+     margin-top: 20px;
+ }
 
 }
 
 @media only screen and (max-width: 769px) {
-    .service .service-box {
-        margin-bottom: 20px;
-    }
+ .service .service-box {
+     margin-bottom: 20px;
+ }
 
-    .info .info-button .btn {
-        margin-bottom: 15px;
-    }
+ .info .info-button .btn {
+     margin-bottom: 15px;
+ }
 .social-icons {
-    margin-top:15px ;
+ margin-top:15px ;
 }
 }
