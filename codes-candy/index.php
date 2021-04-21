@@ -90,6 +90,7 @@
                             <div class="row">
                                 <div class="col-md-8 img-fluid my-3">
                                     <img src="images/avatar.jpg">
+                                    <span class="name">Ted Hawkins</span>
                                 </div>
                                 <div class="col-md-4">
 
