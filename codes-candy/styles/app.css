@@ -10814,5 +10814,15 @@ body {
   color: #5c636a;
   font-size: 12px;
 }
+.course-list .course-item .card .card-body .line {
+  border-bottom: 1px solid #e4e3e7;
+  width: 100%;
+  height: 10px;
+}
+.course-list .course-item .card .card-body .card-person img {
+  border-radius: 100%;
+  width: 35px;
+  height: 37px;
+}
 
 /*# sourceMappingURL=app.css.map */

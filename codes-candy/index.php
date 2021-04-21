@@ -85,8 +85,16 @@
                             <span class="text ms-1 me-1">4.5</span>
                             <span class="small-text">(16,500)</span>
                         </div>
-                        <div class="">
+                        <div class="line"></div>
+                        <div class="card-person">
+                            <div class="row">
+                                <div class="col-md-8 img-fluid my-3">
+                                    <img src="images/avatar.jpg">
+                                </div>
+                                <div class="col-md-4">
 
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
