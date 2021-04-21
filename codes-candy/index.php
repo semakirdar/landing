@@ -70,7 +70,7 @@
                     <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
-                        <div class="content mt-3 mb-2">
+                        <div class="content mt-2 mb-2">
                             <i data-feather="clock"></i>
                             <span class="me-3">1h 30m</span>
                             <i data-feather="radio"></i>
@@ -86,14 +86,14 @@
                             <span class="small-text">(16,500)</span>
                         </div>
                         <div class="line"></div>
-                        <div class="card-person">
-                            <div class="row">
-                                <div class="col-md-8 img-fluid my-3">
-                                    <img src="images/avatar.jpg">
-                                    <span class="name">Ted Hawkins</span>
-                                </div>
-                                <div class="col-md-4">
-
+                        <div class="card-person my-2">
+                            <div>
+                                <img src="images/avatar.jpg">
+                                <span class="name">Ted Hawkins</span>
+                            </div>
+                            <div>
+                                <div class="icon-bookmark">
+                                    <i class="far fa-bookmark"></i>
                                 </div>
                             </div>
                         </div>

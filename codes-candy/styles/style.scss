@@ -91,6 +91,7 @@ body {
         }
         .content {
           color: #5c636a;
+          font-size: 15px;
           svg {
             width: 17px;
             height: 17px;
@@ -116,6 +117,9 @@ body {
           height: 10px;
         }
         .card-person{
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
           img{
             border-radius: 100%;
             width: 35px;
@@ -124,6 +128,10 @@ body {
           .name{
             font-size: 14px;
             color: #5c636a;
+          }
+          .icon-bookmark{
+
+
           }
         }
         }
