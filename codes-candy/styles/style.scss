@@ -2,8 +2,8 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  -webkit-font-smoothing:antialiased;
-  -moz-osx-font-smoothing:grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .hero {
@@ -12,11 +12,13 @@ body {
       width: 100%;
     }
   }
-  .hero-button{
-    .browse{
+
+  .hero-button {
+    .browse {
       font-size: 16px;
     }
-    .instructor{
+
+    .instructor {
       font-size: 16px;
     }
   }
@@ -60,21 +62,49 @@ body {
   .feature-item {
     display: flex;
     align-items: center;
-    .feature-item-icon{
+
+    .feature-item-icon {
       display: flex;
       align-items: center;
       justify-content: center;
-      background-color:#ffeeda;
-      color:#c28135;
+      background-color: #ffeeda;
+      color: #c28135;
       width: 50px;
       height: 50px;
       text-align: center;
       border-radius: 100%;
 
-      svg{
+      svg {
         width: 19px;
         height: 19px;
       }
     }
   }
 }
+
+.course-list {
+  .course-item {
+    .card {
+      .card-body {
+        .card-title{
+          font-size: 17px;
+        }
+        .content {
+          svg {
+            width: 17px;
+            height: 17px;
+          }
+        }
+        .icon-star{
+          i{
+            color:#ffc107;
+            font-size: 11px;
+          }
+          .text{
+            color:
+          }
+        }
+        }
+      }
+    }
+  }

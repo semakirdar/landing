@@ -66,12 +66,28 @@
     <section class="course-list">
         <div class="container">
             <div class="course-item">
-                <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                <div class="card" style="width:18rem;">
+                    <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
+                        <div class="content mt-3 mb-2">
+                            <i data-feather="clock"></i>
+                            <span class="me-3">1h 30m</span>
+                            <i data-feather="radio"></i>
+                            <span>Intermediate</span>
+                        </div>
+                        <div class="icon-star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <span class="text ms-2">4.5</span>
+                            <span class="small-text">(16,500)</span>
+                        </div>
+                        <div class="">
+
+                        </div>
                     </div>
                 </div>
             </div>
