@@ -64,12 +64,12 @@
 
     </section>
 
-    <section class="course-list">
+    <section class="course-list first">
         <div class="container">
             <h3 class="mb-3">Recommended to you</h3>
             <div class="course-slider owl-carousel owl-theme">
                 <div class="course-item">
-                    <div class="card">
+                    <div class="card shadow">
                         <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
@@ -106,7 +106,7 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
+                    <div class="card shadow">
                         <img src="images/course-angular.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
@@ -143,7 +143,7 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
+                    <div class="card shadow">
                         <img src="images/course-css.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
@@ -180,7 +180,7 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
+                    <div class="card shadow">
                         <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
@@ -217,7 +217,7 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
+                    <div class="card shadow">
                         <img src="images/course-graphql.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
@@ -254,7 +254,7 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
+                    <div class="card shadow">
                         <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>

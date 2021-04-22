@@ -1,6 +1,7 @@
 <footer>
     <div class="container">
-        <div class="footer">
+
+        <div class="footer my-5">
                 <div>
                     © 2021 Geeks. All Rights Reserved.
                 </div>

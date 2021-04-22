@@ -7,7 +7,9 @@ $(function () {
         loop: true,
         margin: 10,
         items: 4,
-        dots:false
+        dots:false,
+        nav:true
+
     })
 });
 
