@@ -1,24 +1,16 @@
-
-.options {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 300px;
+.small-view {
   padding-top: 100px;
-  padding-left: 500px;
+  width: 300px;
+  margin:0 auto;
 
-
-  .btn-angle {
-
+  .options {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
   }
-
-  .btn-ellipsis {
-
+  .image{
+    img{
+      max-width: 100%;
+    }
   }
 }
-
-
-
-
-
-

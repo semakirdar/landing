@@ -1,0 +1,15 @@
+.small-view {
+  padding-top: 100px;
+  width: 300px;
+  margin: 0 auto;
+}
+.small-view .options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.small-view .image img {
+  max-width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */

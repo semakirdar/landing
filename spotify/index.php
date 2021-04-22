@@ -7,29 +7,38 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
-    <link href="style.scss" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <title>Spotify Mobile</title>
 </head>
 <body>
 <div class="container">
 
+    <div class="small-view">
 
 
-    <section>
-        <div class="options">
-            <div class="btn-angle">
-                <i class="fas fa-angle-down"></i>
+        <section class="options">
+            <div>
+                <div>
+                    <i class="fas fa-angle-down"></i>
+                </div>
+
             </div>
             <div>
                 Liked Songs
             </div>
-            <div class="btn-ellipsis">
-                <i class="fas fa-ellipsis-h"></i>
+            <div>
+                <div>
+                    <i class="fas fa-ellipsis-h"></i>
+                </div>
+
             </div>
-        </div>
-    </section>
+        </section>
 
+        <section class="image">
+            <img src="images/songs-img.jpg">
+        </section>
 
+    </div>
 
 </div>
 </body>
