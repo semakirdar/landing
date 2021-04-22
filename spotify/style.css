@@ -1,12 +1,25 @@
+body {
+  background-color: #1a1a1a;
+}
+
 .small-view {
-  padding-top: 100px;
+  background-color: #262525;
+  color: white;
+  padding: 30px;
   width: 300px;
   margin: 0 auto;
+  margin-top: 60px;
+  border-color: white;
+  border: 1px solid white;
 }
 .small-view .options {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-bottom: 20px;
+}
+.small-view .options i {
+  color: white;
 }
 .small-view .image img {
   max-width: 100%;
@@ -15,6 +28,9 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+.small-view .song-name h2 {
+  margin-bottom: -13px;
 }
 
 /*# sourceMappingURL=style.css.map */

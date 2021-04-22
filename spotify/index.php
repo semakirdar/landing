@@ -34,8 +34,8 @@
         </section>
         <section class="song-name">
             <div>
-                <h2 class="">Before I Forget</h2>
-                <h4 class="">Slipknot</h4>
+                <h2>Before I Forget</h2>
+                <h4>Slipknot</h4>
             </div>
             <div>
                 <i class="far fa-heart"></i>
