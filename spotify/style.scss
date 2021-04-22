@@ -1,16 +1,17 @@
 
 body {
-  background-color: #1a1a1a;
+  background-color:#111;
   font-family: Arial;
 }
 
 .small-view {
-  background-color: #262525;
+  background-color:#111;
   color: white;
   padding: 30px;
   width: 300px;
   margin: 0 auto;
-  border: 1px solid white;
+  border: 1px solid #333;
+  background: linear-gradient(360deg, darken(rgba(213,7,51,1), 35%) 0%, darken(rgba(213,7,51,1), 15%) 100%);s
 
   .song-options {
     display: flex;
@@ -41,7 +42,7 @@ body {
     justify-content: space-between;
     margin-top: 15px;
 
-    h2 {
+    h3 {
       margin: 0;
       margin-bottom: 5px;
     }
