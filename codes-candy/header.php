@@ -9,6 +9,8 @@
     <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="styles/app.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="plugins/OwlCarousel2/dist/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="plugins/OwlCarousel2/dist/assets/owl.theme.default.min.css" rel="stylesheet">
 
     <title>CODES CANDY</title>
 </head>

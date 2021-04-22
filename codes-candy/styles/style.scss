@@ -83,58 +83,78 @@ body {
 }
 
 .course-list {
+  background-color: #e5e4e4;
+
   .course-item {
+    margin-right: 20px;
+
     .card {
+      img {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+      }
+
       .card-body {
-        .card-title{
+        .card-title {
           font-size: 17px;
         }
+
         .content {
           color: #5c636a;
           font-size: 15px;
+
           svg {
             width: 17px;
             height: 17px;
           }
         }
-        .icon-star{
-          i{
-            color:#ffc107;
+
+        .icon-star {
+          i {
+            color: #ffc107;
             font-size: 11px;
           }
-          .text{
-            color:#ffc107;
+
+          .text {
+            color: #ffc107;
             font-size: 14px;
           }
-          .small-text{
+
+          .small-text {
             color: #5c636a;
             font-size: 12px;
           }
         }
-        .line{
+
+        .line {
           border-bottom: 1px solid #e4e3e7;
           width: 100%;
           height: 10px;
         }
-        .card-person{
+      }
+
+      .card-footer {
+        background-color: white;
+        .card-person {
           display: flex;
           align-items: center;
           justify-content: space-between;
-          img{
+
+          img {
             border-radius: 100%;
             width: 35px;
             height: 37px;
+            display: inline-block;
           }
-          .name{
+
+          .name {
             font-size: 14px;
             color: #5c636a;
           }
-          .icon-bookmark{
-
-
+          .icon-bookmark {
           }
-        }
         }
       }
     }
   }
+}
