@@ -1,5 +1,6 @@
 body {
   background-color: #1a1a1a;
+  font-family: Arial;
 }
 
 .small-view {
@@ -8,29 +9,109 @@ body {
   padding: 30px;
   width: 300px;
   margin: 0 auto;
-  margin-top: 60px;
-  border-color: white;
   border: 1px solid white;
 }
-.small-view .options {
+.small-view .song-options {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 20px;
 }
-.small-view .options i {
+.small-view .song-options p {
+  font-size: 14px;
+}
+.small-view .song-options i {
   color: white;
 }
-.small-view .image img {
+.small-view .song-image {
+  margin-top: 20px;
+}
+.small-view .song-image img {
   max-width: 100%;
 }
 .small-view .song-name {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-top: 15px;
 }
 .small-view .song-name h2 {
-  margin-bottom: -13px;
+  margin: 0;
+  margin-bottom: 5px;
+}
+.small-view .song-name h4 {
+  font-size: 12px;
+  font-weight: normal;
+  color: #eeeeee;
+  margin: 0;
+}
+.small-view .play-range {
+  margin-top: 15px;
+}
+.small-view .play-range .times {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 10px;
+  margin-top: 2px;
+}
+.small-view .play-range input {
+  width: 100%;
+  -webkit-appearance: none;
+  /* Override default CSS styles */
+  appearance: none;
+  background: #c1c0c0;
+  border-radius: 4px;
+  height: 6px;
+}
+.small-view .play-range input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  /* Override default look */
+  appearance: none;
+  width: 10px;
+  /* Set a specific slider handle width */
+  height: 10px;
+  /* Slider handle height */
+  background: #989696;
+  /* Green background */
+  cursor: pointer;
+  /* Cursor on hover */
+  border-radius: 100%;
+}
+.small-view .player-controls {
+  margin-top: 20px;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.small-view .player-controls i {
+  color: white;
+}
+.small-view .player-controls .btn-small {
+  font-size: 12px;
+}
+.small-view .player-controls .btn-play {
+  background-color: white;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small-view .player-controls .btn-play i {
+  color: #262525;
+}
+
+.player-buttons {
+  font-size: 12px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.player-buttons i {
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
