@@ -4,6 +4,7 @@ body {
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #e7e9ec;
 }
 
 .hero {
@@ -83,7 +84,8 @@ body {
 }
 
 .course-list {
-  background-color: #e5e4e4;
+  padding: 10px;
+  margin-top: 25px;
 
   .course-item {
     margin-right: 20px;
@@ -135,6 +137,7 @@ body {
 
       .card-footer {
         background-color: white;
+
         .card-person {
           display: flex;
           align-items: center;
@@ -151,10 +154,24 @@ body {
             font-size: 14px;
             color: #5c636a;
           }
+
           .icon-bookmark {
           }
         }
       }
     }
+  }
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #7e7d7d !important;
+  font-size: 13px;
+
+  a {
+    margin-right: 28px;
+    color: #7e7d7d !important;
   }
 }
