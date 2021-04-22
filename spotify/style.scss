@@ -13,4 +13,9 @@
       max-width: 100%;
     }
   }
+  .song-name{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+  }
 }

@@ -14,30 +14,33 @@
 <div class="container">
 
     <div class="small-view">
-
-
         <section class="options">
             <div>
-                <div>
+                <a href="#">
                     <i class="fas fa-angle-down"></i>
-                </div>
-
+                </a>
             </div>
             <div>
                 Liked Songs
             </div>
             <div>
-                <div>
+                <a href="#">
                     <i class="fas fa-ellipsis-h"></i>
-                </div>
-
+                </a>
             </div>
         </section>
-
         <section class="image">
             <img src="images/songs-img.jpg">
         </section>
-
+        <section class="song-name">
+            <div>
+                <h2 class="">Before I Forget</h2>
+                <h4 class="">Slipknot</h4>
+            </div>
+            <div>
+                <i class="far fa-heart"></i>
+            </div>
+        </section>
     </div>
 
 </div>

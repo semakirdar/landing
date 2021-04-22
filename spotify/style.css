@@ -11,5 +11,10 @@
 .small-view .image img {
   max-width: 100%;
 }
+.small-view .song-name {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
 /*# sourceMappingURL=style.css.map */
