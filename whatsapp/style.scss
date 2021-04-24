@@ -4,13 +4,13 @@ body {
 
 .small-view {
   background-color: #075e54;
-  color: white;
   padding: 20px;
   width: 300px;
   margin: 0 auto;
   border: 1px solid #333;
 
   .options {
+    color: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -24,9 +24,11 @@ body {
   }
 
   .nav-bar {
+    color: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 10px;
 
     i {
       color: #e8e4e4;
@@ -43,6 +45,31 @@ body {
       .nav-item {
         margin-right: 10px;
       }
+    }
+  }
+
+  .chats {
+    padding:0;
+    background-color: #eeeeee;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: -20px;
+    margin-right: -20px;
+
+    .avatar {
+      img {
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+      }
+
+      .message {
+        h3 {
+          color: black;
+        }
+      }
+
     }
   }
 }

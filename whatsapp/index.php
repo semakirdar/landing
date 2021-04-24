@@ -11,10 +11,12 @@
     <title>WhatsApp Mobile</title>
 </head>
 <body>
-<div class="container">
 
-    <div class="small-view">
+
+<div class="small-view">
+    <div class="container">
         <section class="options">
+
             <div>
                 <p>
                     WhatsApp
@@ -37,6 +39,50 @@
                 <a href="#" class="nav-item">SOHBETLER</a>
                 <a href="#" class="nav-item">DURUM</a>
                 <a href="#">ARAMALAR</a>
+            </div>
+        </section>
+        <section class="chats">
+            <div class="avatar">
+                <img src="images/avatar-2.jpg">
+            </div>
+            <div class="message">
+
+                    <h3>Ceren</h3>
+
+
+            </div>
+        </section>
+        <section class="chats">
+            <div class="avatar">
+                <img src="images/avatar-2.jpg">
+            </div>
+            <div class="message">
+
+                <h3>Ceren</h3>
+
+
+            </div>
+        </section>
+        <section class="chats">
+            <div class="avatar">
+                <img src="images/avatar-2.jpg">
+            </div>
+            <div class="message">
+
+                <h3>Ceren</h3>
+
+
+            </div>
+        </section>
+        <section class="chats">
+            <div class="avatar">
+                <img src="images/avatar-2.jpg">
+            </div>
+            <div class="message">
+
+                <h3>Ceren</h3>
+
+
             </div>
         </section>
     </div>
