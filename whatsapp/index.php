@@ -27,7 +27,6 @@
                 <a class="ellipsis-icon">
                     <i class="fas fa-ellipsis-h"></i>
                 </a>
-
             </div>
         </section>
         <section class="nav-bar">
