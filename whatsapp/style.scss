@@ -1,4 +1,46 @@
-.small-view{
-  width:300px;
-  background-color: green;
+body {
+  background-color: #111111;
 }
+
+.small-view {
+  background-color: #128c7e;
+  color: white;
+  padding: 20px;
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid #333;
+
+  .options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .icons {
+      .search-icon {
+        margin-right: 15px;
+      }
+    }
+  }
+
+  .nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    i {
+      color: #e8e4e4;
+    }
+
+    .nav-items {
+      a {
+        text-decoration: none !important;
+        color: #e8e4e4;
+      }
+
+      .nav-item {
+        margin-right: 10px;
+      }
+    }
+  }
+}
+

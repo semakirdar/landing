@@ -1,6 +1,37 @@
+body {
+  background-color: #111111;
+}
+
 .small-view {
+  background-color: #128c7e;
+  color: white;
+  padding: 20px;
   width: 300px;
-  background-color: green;
+  margin: 0 auto;
+  border: 1px solid #333;
+}
+.small-view .options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.small-view .options .icons .search-icon {
+  margin-right: 15px;
+}
+.small-view .nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.small-view .nav-bar i {
+  color: #e8e4e4;
+}
+.small-view .nav-bar .nav-items a {
+  text-decoration: none !important;
+  color: #e8e4e4;
+}
+.small-view .nav-bar .nav-items .nav-item {
+  margin-right: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
