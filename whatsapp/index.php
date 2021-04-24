@@ -45,46 +45,87 @@
             <div class="avatar">
                 <img src="images/avatar-2.jpg">
             </div>
+
             <div class="message">
-
-                    <h3>Ceren</h3>
-
+                <div>
+                    <h3>ceren</h3>
+                </div>
+                <div>
+                    <h5>naber</h5>
+                </div>
 
             </div>
+
+            <div class="time">
+                <h5>11:22</h5>
+            </div>
+
+
         </section>
         <section class="chats">
             <div class="avatar">
                 <img src="images/avatar-2.jpg">
             </div>
+
             <div class="message">
-
-                <h3>Ceren</h3>
-
+                <div>
+                    <h3>ceren</h3>
+                </div>
+                <div>
+                    <h5>naber</h5>
+                </div>
 
             </div>
+
+            <div class="time">
+                <h5>11:22</h5>
+            </div>
+
+
         </section>
         <section class="chats">
             <div class="avatar">
                 <img src="images/avatar-2.jpg">
             </div>
+
             <div class="message">
-
-                <h3>Ceren</h3>
-
+                <div>
+                    <h3>ceren</h3>
+                </div>
+                <div>
+                    <h5>naber</h5>
+                </div>
 
             </div>
+
+            <div class="time">
+                <h5>11:22</h5>
+            </div>
+
+
         </section>
         <section class="chats">
             <div class="avatar">
                 <img src="images/avatar-2.jpg">
             </div>
+
             <div class="message">
-
-                <h3>Ceren</h3>
-
+                <div>
+                    <h3>ceren</h3>
+                </div>
+                <div>
+                    <h5>naber</h5>
+                </div>
 
             </div>
+
+            <div class="time">
+                <h5>11:22</h5>
+            </div>
+
+
         </section>
+
     </div>
 
 </div>
