@@ -1,0 +1,148 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #000000;
+}
+
+.small-view {
+  background-color: #111;
+  color: white;
+  padding: 20px;
+  width: 330px;
+  margin: 0 auto;
+  border: 1px solid #333;
+}
+.small-view .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.small-view .header .icons .icon-item {
+  display: inline-flex;
+}
+.small-view .header .icons .icon-item i {
+  margin-left: 10px;
+  font-size: 18px;
+}
+.small-view .header .icons .icon-item .messenger-icon {
+  position: relative;
+}
+.small-view .header .icons .icon-item .number {
+  position: absolute;
+  top: -21px;
+  right: -8px;
+}
+.small-view .header .icons .icon-item .number h4 {
+  display: flex;
+  align-items: center;
+  width: 10px;
+  height: 10px;
+  padding: 3px;
+  font-size: 10px;
+  background-color: red;
+  border-radius: 100%;
+  justify-content: center;
+}
+.small-view .stories {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.small-view .stories .story-item.has-story img {
+  border: 2px solid #ff253a;
+}
+.small-view .stories .story-item img {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+}
+.small-view .stories .story-item p {
+  text-align: center;
+  font-size: 11px;
+}
+.small-view .stories .story-item .user-story {
+  position: relative;
+}
+.small-view .stories .story-item .user-story .add-icon {
+  position: absolute;
+  bottom: 4px;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small-view .stories .story-item .user-story .add-icon i {
+  padding: 7px;
+  background-color: dodgerblue;
+  border-radius: 100%;
+  font-size: 10px;
+}
+.small-view .body {
+  border-top: 1px solid #333333;
+  max-height: 360px;
+  overflow-y: scroll;
+}
+.small-view .body .body-options {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.small-view .body .body-options .user {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 11px;
+}
+.small-view .body .body-options .user img {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.small-view .body .body-options i {
+  font-size: 12px;
+}
+.small-view .body .body-shipment img {
+  text-align: center;
+  width: 100%;
+  height: 250px;
+}
+.small-view .body .body-icons {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+}
+.small-view .body .body-icons .left {
+  margin-right: 10px;
+}
+.small-view .body .body-like {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  font-size: 11px;
+}
+.small-view .body .body-like img {
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.small-view .footer {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+}
+.small-view .footer img {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */

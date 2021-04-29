@@ -1,0 +1,57 @@
+body {
+  font-family: "Barlow Condensed", sans-serif;
+  background-color: #1d1d1d;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+}
+
+.events {
+  margin: 0 auto;
+  max-width: 900px;
+}
+.events .event-item {
+  width: calc((100% - 60px) / 3);
+  display: inline-block;
+  float: left;
+  margin: 10px;
+}
+.events .event-item:hover img {
+  opacity: 0.5;
+}
+.events .event-item:hover .text {
+  margin-top: -135px;
+}
+.events .event-item .image img {
+  transition: all 0.3s ease-in-out;
+  max-width: 100%;
+}
+.events .event-item .text {
+  margin-top: -110px;
+  margin-left: 30px;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+}
+.events .event-item .text .time {
+  border-bottom: 3px solid #ec4554;
+  max-width: 40%;
+  display: flex;
+  align-items: center;
+}
+.events .event-item .text .time .day {
+  margin-right: 20px;
+  font-size: 65px;
+}
+.events .event-item .text .info {
+  font-size: 50px;
+  max-width: 80%;
+}
+.events .event-item .text .place {
+  font-size: 13px;
+  color: #c61818;
+}
+
+/*# sourceMappingURL=style.css.map */
