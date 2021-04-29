@@ -10735,6 +10735,13 @@ body {
   background-color: #e7e9ec;
 }
 
+.card {
+  border-radius: 10px !important;
+}
+.card .card-header, .card .list-group {
+  border-radius: 10px !important;
+}
+
 .hero .hero-image img {
   width: 100%;
 }
@@ -10900,6 +10907,217 @@ body {
 }
 .course-slider .owl-nav .owl-next:hover {
   background-color: #754ffe !important;
+}
+
+.course-hero {
+  padding-top: 70px;
+  padding-bottom: 130px;
+}
+.course-hero .information {
+  font-size: 13px;
+}
+.course-hero .information i {
+  color: #b5b3b3;
+}
+.course-hero .information .fav-icon i {
+  color: #ffc107;
+  font-size: 10px;
+}
+
+.course-content .content-list {
+  margin-top: -50px;
+  border-radius: 8px;
+}
+.course-content .content-list .tab-content .accordion-item .accordion-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.course-content .content-list .tab-content .accordion-item .accordion-body span {
+  font-size: 14px;
+}
+.course-content .content-list .tab-content .accordion-item .accordion-body .course-video i {
+  font-size: 9px;
+  color: #754ffe;
+  background-color: #f5f4f8;
+  padding: 10px;
+  border-radius: 100%;
+  line-height: normal;
+}
+.course-content .content-list .tab-content .accordion-item .accordion-body .course-video a {
+  color: black !important;
+  text-decoration: none;
+}
+.course-content .content-list .tab-content .tab-description {
+  padding: 20px;
+}
+.course-content .content-list .tab-content .tab-reviews {
+  padding: 20px;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .icons .star-icon {
+  margin-bottom: 7px;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .icons .star-icon .null {
+  color: #f5f4f8;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .icons .star-icon .text {
+  color: black;
+  font-size: 13px;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .comment p {
+  font-size: 13px;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews p {
+  font-size: 55px;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews h1, .course-content .content-list .tab-content .tab-reviews .reviews .h1 {
+  font-weight: bold;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .star-icon {
+  color: #ffc107;
+  font-size: 10px;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .progress {
+  margin-bottom: 15px;
+  height: 0.4rem;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .progress .progress-bar {
+  background-color: #ffc107;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .reviews-summary {
+  border-bottom: 1px solid #ccc6e6;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .review-list .nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .review-list .review-item {
+  display: flex;
+  border-bottom: 1px solid #ccc6e6;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .review-list .review-item img {
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+  margin-right: 15px;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .review-list .review-item p {
+  font-size: 14px;
+  color: #4f5051;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .review-list .review-item span {
+  font-size: 14px;
+  color: #4f5051;
+}
+.course-content .content-list .tab-content .tab-reviews .reviews .review-list .review-item .time {
+  font-size: 12px;
+}
+.course-content .access .card {
+  border-radius: 8px;
+  margin-top: -180px;
+}
+.course-content .access .card .card-body btn {
+  width: 100%;
+}
+.course-content .access .card img {
+  padding: 4px;
+  border-radius: 10px;
+}
+.course-content .included .card {
+  border-radius: 10px !important;
+  margin-top: 20px;
+  font-size: 14px;
+}
+.course-content .included .card .list-group .list-group-item {
+  padding: 13px;
+}
+.course-content .resume .card {
+  margin-top: 20px;
+}
+.course-content .resume .card .card-header {
+  background-color: white;
+  border-bottom: none;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+}
+.course-content .resume .card .card-header .avatar-img {
+  position: relative;
+}
+.course-content .resume .card .card-header .avatar-img img {
+  border-radius: 100%;
+  width: 80px;
+  height: 80px;
+  margin-right: 16px;
+}
+.course-content .resume .card .card-header .avatar-img .checked-img {
+  position: absolute;
+  right: -12px;
+  top: 9px;
+}
+.course-content .resume .card .card-header .avatar-img .checked-img img {
+  width: 30px;
+  height: 30px;
+}
+.course-content .resume .card .card-header .star-icon {
+  color: #ffc107;
+  font-size: 9px;
+}
+.course-content .resume .card .card-header .star-icon-text {
+  color: #ffc107;
+}
+.course-content .resume .card .card-body .stats {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+}
+.course-content .resume .card .card-body .stats .stat-item {
+  width: calc(100% / 3);
+  text-align: left;
+  border-right: 1px solid #dedede;
+  padding: 14px;
+  font-size: 14px;
+}
+.course-content .resume .card .card-body .stats .stat-item span {
+  font-weight: bold;
+  display: block;
+}
+.course-content .resume .card .card-body .stats .stat-item:last-child {
+  border-right: 0;
+}
+.course-content .resume .card .card-body .bio {
+  font-size: 14px;
+  padding: 12px 0;
+}
+.course-content .resume .card .card-body .student {
+  border-bottom: 1px solid grey;
+}
+.course-content .resume .card .card-foot {
+  background-color: white;
+  border-bottom: none;
+  font-size: 14px;
+}
+
+.contents-table {
+  width: 400px;
+  height: 200px;
+}
+
+.fixed {
+  position: fixed;
+  top: 58px;
+  left: 0;
+  width: 350px;
+  height: 100vh;
+  background-color: #fff;
+}
+
+.course-video {
+  padding-left: 250px;
 }
 
 /*# sourceMappingURL=app.css.map */

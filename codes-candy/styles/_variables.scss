@@ -4,7 +4,8 @@ $primary: #754ffe;
 //Bootstrap colors override
 $custom-colors: (
     "primary":  $primary,
-    "success": #19cb98
+    "success": #19cb98,
+
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);

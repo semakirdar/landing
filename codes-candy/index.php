@@ -64,13 +64,16 @@
 
     </section>
 
-    <section class="course-list first">
+
+    <section class="course-list">
         <div class="container">
             <h3 class="mb-3">Recommended to you</h3>
             <div class="course-slider owl-carousel owl-theme">
                 <div class="course-item">
                     <div class="card shadow">
-                        <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
+                        <a href="detail.php">
+                            <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -107,7 +110,9 @@
                 </div>
                 <div class="course-item">
                     <div class="card shadow">
-                        <img src="images/course-angular.jpg" class="card-img-top" alt="...">
+                        <a href="detail.php">
+                            <img src="images/course-angular.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -144,7 +149,9 @@
                 </div>
                 <div class="course-item">
                     <div class="card shadow">
-                        <img src="images/course-css.jpg" class="card-img-top" alt="...">
+                        <a href="detail.php">
+                            <img src="images/course-css.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -181,7 +188,9 @@
                 </div>
                 <div class="course-item">
                     <div class="card shadow">
-                        <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        <a href="detail.php">
+                            <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -218,44 +227,48 @@
                 </div>
                 <div class="course-item">
                     <div class="card shadow">
-                        <img src="images/course-graphql.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
-                            <div class="content mt-2 mb-2">
-                                <i data-feather="clock"></i>
-                                <span class="me-3">1h 30m</span>
-                                <i data-feather="radio"></i>
-                                <span>Intermediate</span>
-                            </div>
-                            <div class="icon-star">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <span class="text ms-1 me-1">4.5</span>
-                                <span class="small-text">(16,500)</span>
-                            </div>
-
-                        </div>
-                        <div class="card-footer">
-                            <div class="card-person my-2">
-                                <div>
-                                    <img src="images/avatar-5.jpg">
-                                    <span class="name">Ted Hawkins</span>
+                        <a href="detail.php">
+                            <img src="images/course-graphql.jpg" class="card-img-top" alt="...">
+                            <a/>
+                            <div class="card-body">
+                                <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
+                                <div class="content mt-2 mb-2">
+                                    <i data-feather="clock"></i>
+                                    <span class="me-3">1h 30m</span>
+                                    <i data-feather="radio"></i>
+                                    <span>Intermediate</span>
                                 </div>
-                                <div>
-                                    <div class="icon-bookmark">
-                                        <i class="far fa-bookmark"></i>
+                                <div class="icon-star">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <span class="text ms-1 me-1">4.5</span>
+                                    <span class="small-text">(16,500)</span>
+                                </div>
+
+                            </div>
+                            <div class="card-footer">
+                                <div class="card-person my-2">
+                                    <div>
+                                        <img src="images/avatar-5.jpg">
+                                        <span class="name">Ted Hawkins</span>
+                                    </div>
+                                    <div>
+                                        <div class="icon-bookmark">
+                                            <i class="far fa-bookmark"></i>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                     </div>
                 </div>
                 <div class="course-item">
                     <div class="card shadow">
-                        <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        <a href="detail.php">
+                            <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -298,8 +311,10 @@
             <h3 class="mb-3">Most Popular</h3>
             <div class="course-slider owl-carousel owl-theme">
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -335,8 +350,10 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-angular.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-angular.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -372,8 +389,10 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-css.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-css.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -409,8 +428,10 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -446,45 +467,49 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-graphql.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
-                            <div class="content mt-2 mb-2">
-                                <i data-feather="clock"></i>
-                                <span class="me-3">1h 30m</span>
-                                <i data-feather="radio"></i>
-                                <span>Intermediate</span>
-                            </div>
-                            <div class="icon-star">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <span class="text ms-1 me-1">4.5</span>
-                                <span class="small-text">(16,500)</span>
-                            </div>
-
-                        </div>
-                        <div class="card-footer">
-                            <div class="card-person my-2">
-                                <div>
-                                    <img src="images/avatar-5.jpg">
-                                    <span class="name">Ted Hawkins</span>
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-graphql.jpg" class="card-img-top" alt="...">
+                            <a/>
+                            <div class="card-body">
+                                <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
+                                <div class="content mt-2 mb-2">
+                                    <i data-feather="clock"></i>
+                                    <span class="me-3">1h 30m</span>
+                                    <i data-feather="radio"></i>
+                                    <span>Intermediate</span>
                                 </div>
-                                <div>
-                                    <div class="icon-bookmark">
-                                        <i class="far fa-bookmark"></i>
+                                <div class="icon-star">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <span class="text ms-1 me-1">4.5</span>
+                                    <span class="small-text">(16,500)</span>
+                                </div>
+
+                            </div>
+                            <div class="card-footer">
+                                <div class="card-person my-2">
+                                    <div>
+                                        <img src="images/avatar-5.jpg">
+                                        <span class="name">Ted Hawkins</span>
+                                    </div>
+                                    <div>
+                                        <div class="icon-bookmark">
+                                            <i class="far fa-bookmark"></i>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -527,8 +552,10 @@
             <h3 class="mb-3">Trending</h3>
             <div class="course-slider owl-carousel owl-theme">
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-wordpress.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -564,8 +591,10 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-angular.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-angular.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -601,8 +630,10 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-css.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-css.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -638,8 +669,10 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -675,45 +708,49 @@
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-graphql.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
-                            <div class="content mt-2 mb-2">
-                                <i data-feather="clock"></i>
-                                <span class="me-3">1h 30m</span>
-                                <i data-feather="radio"></i>
-                                <span>Intermediate</span>
-                            </div>
-                            <div class="icon-star">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <span class="text ms-1 me-1">4.5</span>
-                                <span class="small-text">(16,500)</span>
-                            </div>
-
-                        </div>
-                        <div class="card-footer">
-                            <div class="card-person my-2">
-                                <div>
-                                    <img src="images/avatar-5.jpg">
-                                    <span class="name">Ted Hawkins</span>
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-graphql.jpg" class="card-img-top" alt="...">
+                            <a/>
+                            <div class="card-body">
+                                <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
+                                <div class="content mt-2 mb-2">
+                                    <i data-feather="clock"></i>
+                                    <span class="me-3">1h 30m</span>
+                                    <i data-feather="radio"></i>
+                                    <span>Intermediate</span>
                                 </div>
-                                <div>
-                                    <div class="icon-bookmark">
-                                        <i class="far fa-bookmark"></i>
+                                <div class="icon-star">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <span class="text ms-1 me-1">4.5</span>
+                                    <span class="small-text">(16,500)</span>
+                                </div>
+
+                            </div>
+                            <div class="card-footer">
+                                <div class="card-person my-2">
+                                    <div>
+                                        <img src="images/avatar-5.jpg">
+                                        <span class="name">Ted Hawkins</span>
+                                    </div>
+                                    <div>
+                                        <div class="icon-bookmark">
+                                            <i class="far fa-bookmark"></i>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                     </div>
                 </div>
                 <div class="course-item">
-                    <div class="card">
-                        <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                    <div class="card shadow">
+                        <a href="detail.php">
+                            <img src="images/course-javascript.jpg" class="card-img-top" alt="...">
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Wordpress: complete WordPress theme & plugin</h5>
                             <div class="content mt-2 mb-2">
@@ -751,5 +788,6 @@
             </div>
         </div>
     </section>
+
 
 <?php include "footer.php" ?>

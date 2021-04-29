@@ -12,6 +12,7 @@
     <link href="plugins/OwlCarousel2/dist/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="plugins/OwlCarousel2/dist/assets/owl.theme.default.min.css" rel="stylesheet">
 
+
     <title>CODES CANDY</title>
 </head>
 <body>
