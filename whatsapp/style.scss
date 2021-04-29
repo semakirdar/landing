@@ -1,5 +1,5 @@
 body {
-  background-color: #111111;
+  background-color: #2d2c2c;
 }
 
 .small-view {
@@ -9,14 +9,12 @@ body {
   margin: 0 auto;
   border: 1px solid #333;
 
-
   .options {
-    color: white;
+    color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 20px;
-
 
     .icons {
       .search-icon {
@@ -58,11 +56,9 @@ body {
     justify-content: space-between;
     margin-left: -20px;
     margin-right: -20px;
-
     h5 {
       color: #808080 !important;
     }
-
     .time {
       h5 {
         margin-top: 4px;
@@ -76,10 +72,8 @@ body {
         border-radius: 100%;
       }
     }
-
     .message {
-
-
+position: absolute;
       h3 {
        margin-bottom: -22px !important;
       }

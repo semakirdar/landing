@@ -16,7 +16,6 @@
 <div class="small-view">
     <div class="container">
         <section class="options">
-
             <div>
                 <p>
                     WhatsApp
@@ -42,19 +41,22 @@
             </div>
         </section>
         <section class="chats">
-            <div class="avatar">
-                <img src="images/avatar-2.jpg">
+
+            <div>
+                <div class="avatar">
+                    <img src="images/avatar-2.jpg">
+                </div>
+                <div class="message">
+                    <div>
+                        <h3>ceren</h3>
+                    </div>
+                    <div>
+                        <h5>naber</h5>
+                    </div>
+                </div>
+
             </div>
 
-            <div class="message">
-                <div>
-                    <h3>ceren</h3>
-                </div>
-                <div>
-                    <h5>naber</h5>
-                </div>
-
-            </div>
 
             <div class="time">
                 <h5>11:22</h5>
@@ -120,6 +122,7 @@
             </div>
 
             <div class="time">
+
                 <h5>11:22</h5>
             </div>
 
