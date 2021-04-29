@@ -12,15 +12,15 @@ body {
   border: 1px solid #333;
   background: linear-gradient(360deg, #28010a 0%, #8b0521 100%);
 }
-.small-view s .song-options {
+.small-view .song-options {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-.small-view s .song-options p {
+.small-view .song-options p {
   font-size: 14px;
 }
-.small-view s .song-options i {
+.small-view .song-options i {
   color: white;
 }
 .small-view .song-image {
