@@ -1,0 +1,149 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.hero {
+  background-color: #fce373;
+  padding: 30px;
+  position: relative;
+}
+.hero .text {
+  font-size: 200px;
+  text-align: center;
+}
+.hero .hero-title .hero-logo {
+  text-align: center;
+  display: inline-block;
+}
+.hero .hero-title .hero-logo .rotate {
+  transform: rotate(180deg);
+}
+.hero .hero-title .hero-logo h4 {
+  margin: 0;
+  font-weight: bold;
+}
+.hero .hero-title .play-btn {
+  font-weight: bold;
+}
+.hero .hero-title .play-btn .down {
+  position: relative;
+  top: 5px;
+}
+.hero .hero-slider {
+  padding-bottom: 40px;
+}
+.hero .hero-btn {
+  position: absolute;
+  bottom: -48px;
+  left: 0;
+  width: 100%;
+}
+.hero .hero-btn .btn-buy {
+  color: #fce373;
+  text-align: right;
+  border-radius: 0;
+  margin-right: -72px;
+}
+.hero .hero-btn .btn-all {
+  margin-left: -72px;
+  font-weight: bold;
+  border-color: #fce373;
+  color: black;
+  background-color: #fce373;
+  text-align: left;
+  /*position: relative;
+  top: 48px;
+  left: 80px;*/
+  border-radius: 0;
+}
+
+.exhibitions {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #cca69a;
+}
+.exhibitions .exhibitions-slider .exhibition-item .card {
+  background-color: #9ad18b;
+  padding: 30px;
+  overflow: visible;
+}
+.exhibitions .exhibitions-slider .exhibition-item .card img {
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+}
+.exhibitions .exhibitions-slider .exhibition-item .card .card-body {
+  min-height: 100px;
+  position: relative;
+}
+.exhibitions .exhibitions-slider .exhibition-item .card .card-body .body-text {
+  position: absolute;
+  bottom: -20px;
+}
+.exhibitions .exhibitions-slider .exhibition-item .card .card-body .body-ticket-icon {
+  position: absolute;
+  bottom: -40px;
+  right: -40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  background-color: black;
+  padding: 15px;
+  color: #9ad18b;
+}
+.exhibitions .exhibitions-slider .exhibition-item .card .card-body .body-ticket-icon i {
+  transform: rotate(-30deg);
+  font-size: 20px;
+}
+.exhibitions .exhibitions-slider .owl-stage-outer {
+  padding: 20px;
+}
+
+.footer {
+  padding-bottom: 40px;
+  padding-top: 40px;
+  background-color: #fce373;
+}
+.footer h5 {
+  text-align: center;
+}
+.footer .bulletin .form input {
+  background-color: #fce373;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  border-bottom-color: black;
+}
+.footer .bulletin .form .form-btn .btn-sign-up {
+  opacity: 0.3;
+  border-radius: 17px;
+  padding-right: 25px;
+  padding-left: 25px;
+  color: #fce373;
+}
+.footer .location {
+  border-left: 3px solid #000000;
+}
+.footer .location i {
+  font-size: 30px;
+}
+.footer .location .underline {
+  text-decoration: underline;
+}
+.footer .nav {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer .nav .social-icons i {
+  margin-right: 10px;
+  font-size: 25px;
+}
+.footer .nav .nav-bar a {
+  text-decoration: none;
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
