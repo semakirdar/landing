@@ -97,7 +97,13 @@ body {
 
           .body-text {
             position: absolute;
-            bottom: -20px;
+            bottom: -55px;
+            left: 130px;
+
+            h5 {
+              font-weight: bold;
+              font-size: 40px;
+            }
           }
 
           .body-ticket-icon {
@@ -124,8 +130,9 @@ body {
 
       }
     }
-    .owl-stage-outer{
-      padding:20px;
+
+    .owl-stage-outer {
+      padding: 20px;
     }
   }
 
@@ -181,7 +188,7 @@ body {
     margin-top: 40px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 
     .social-icons {
 
@@ -196,7 +203,48 @@ body {
       a {
         text-decoration: none;
         color: black;
+        margin-right: 15px;
       }
     }
   }
+}
+
+.page{
+
+  .fixed{
+    position: fixed;
+    left: 0px;
+    width:10vh;
+    height:100vh;
+    z-index: 999;
+    display: flex;
+    background:black;
+    top:0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+    .icon-bars{
+      background-color:#fce373;
+      border-radius: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+      margin-bottom: 10px;
+      i{
+        width: 30px;
+        height: 30px;
+        color: black;
+
+      }
+    }
+    i{
+
+      font-size: 30px;
+      color:#fce373;
+    }
+  }
+
 }

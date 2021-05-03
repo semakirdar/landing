@@ -15,6 +15,7 @@
     <title>franshals-museum</title>
 </head>
 <body>
+
 <section class="hero">
     <div class="hero-title">
         <div class="row">
@@ -36,7 +37,6 @@
     </div>
     <h1 class="text fw-bold">WELCOME</h1>
     <div class="hero-slider">
-
         <div id="carouselExampleIndicators" class="carousel-slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -80,7 +80,7 @@
                 <img src="images/exhibition.jpg">
                 <div class="card-body">
                     <div class="body-text">
-                        <h5>Maatregelen en andere veelgestelde vragen</h5>
+                        <h5>FAQ</h5>
                     </div>
                     <div class="body-ticket-icon">
                         <i class="far fa-calendar-check"></i>
@@ -93,6 +93,9 @@
                 <img src="images/exhibition1.jpg">
                 <div class="card-body text-center">
                     25 jun 2021 - 02 jan 2022
+                    <div class="body-text">
+                        <h5>FAQ</h5>
+                    </div>
                     <div class="body-ticket-icon">
                         <i class="far fa-calendar-check"></i>
                     </div>
@@ -103,6 +106,9 @@
             <div class="card">
                 <img src="images/exhibition2.jpg">
                 <div class="card-body">
+                    <div class="body-text">
+                        <h5>FAQ</h5>
+                    </div>
                     <div class="body-ticket-icon">
                         <i class="far fa-calendar-check"></i>
                     </div>
@@ -114,6 +120,9 @@
                 <img src="images/exhibition3.jpg">
                 <div class="card-body text-center">
                     19 Sep - 2020 01 Jul 2021
+                    <div class="body-text">
+                        <h5>FAQ</h5>
+                    </div>
                     <div class="body-ticket-icon">
                         <i class="far fa-calendar-check"></i>
                     </div>
@@ -124,6 +133,9 @@
             <div class="card">
                 <img src="images/exhibition4.png">
                 <div class="card-body">
+                    <div class="body-text">
+                        <h5>FAQ</h5>
+                    </div>
                     <div class="body-ticket-icon">
                         <i class="far fa-calendar-check"></i>
                     </div>
@@ -133,7 +145,25 @@
 
     </div>
 </section>
-
+<section class="page">
+    <div class="fixed">
+        <div class="icon-item mb-3">
+            <i class="fas fa-book"></i>
+        </div>
+        <div class="icon-item mb-3">
+            <i class="far fa-calendar-check"></i>
+        </div>
+        <div class="icon-bars mb-3">
+            <i class="fas fa-bars"></i>
+        </div>
+        <div class="icon-item mb-3">
+            <i class="fas fa-search"></i>
+        </div>
+        <div class="icon-item mb-3">
+            <i class="fas fa-map-marker-alt"></i>
+        </div>
+    </div>
+</section>
 
 <section class="footer">
     <div class="row">
@@ -207,8 +237,7 @@
                 About as
             </a>
             <a href="#">
-                Veelgestelde vragen <br/>
-                Curatoren
+                Veelgestelde vragen Curatoren
             </a>
             <a href="#">
                 Contact
@@ -216,9 +245,6 @@
             <a href="#">
                 Colofon
             </a>
-        </div>
-        <div class="footer-logo">
-
         </div>
     </div>
 </section>
