@@ -1,0 +1,274 @@
+body {
+  height: 100vh;
+  background-color: black;
+
+  a {
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+.view {
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .nav-mid {
+      display: flex;
+
+      .mid-text {
+        margin-right: 25px;
+      }
+
+      .search {
+        color: grey;
+
+        span {
+          font-weight: bold;
+        }
+
+        margin-right: 20px;
+
+        i {
+margin-right: 15px;
+        }
+      }
+    }
+
+    .navbar-image {
+      img {
+        width: 40px;
+        height: 40px;
+        border-radius: 100%;
+      }
+    }
+  }
+
+  .content {
+    .song-image {
+      img {
+        //width: 100%;
+
+      }
+    }
+
+    .song-list {
+
+      .nav {
+      }
+
+      .tab-content {
+
+        .tab-pane {
+          overflow-Y: scroll;
+          height: 500px;
+
+          .tab-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #3d3b3b;
+            padding-bottom: 5px;
+            padding-top: 5px;
+
+            .item {
+              display: flex;
+              align-items: center;
+              justify-content: center;
+
+              .tab-img {
+                position: relative;
+
+                img {
+                  width: 50px;
+                  height: 50px;
+                  margin-right: 20px;
+                  border-radius: 3px;
+                }
+
+                .playing-layer {
+                  position: absolute;
+                  top: 0;
+                  width: 50px;
+                  height: 50px;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  background: black;
+                  opacity: .65;
+
+                  i {
+                    font-size: 24px;
+                    opacity: 1.5;
+                  }
+                }
+              }
+
+              .tab-text {
+                h5 {
+                  font-weight: normal;
+                  color: #95897e;
+                  font-size: 15px;
+                }
+              }
+
+            }
+
+            .time {
+              h5 {
+                font-size: 15px;
+                color: #95897e;
+              }
+            }
+
+          }
+        }
+      }
+    }
+  }
+
+
+  .fixed {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+
+    .song-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #212121;
+      padding: 20px;
+
+
+      .song-play {
+        color: white;
+        display: flex;
+        align-items: center;
+
+        .text {
+          h5 {
+            font-size: 11px;
+            font-weight: normal;
+          }
+        }
+
+        i {
+          font-size: 20px;
+        }
+
+        .pause {
+          i {
+            font-size: 30px;
+          }
+        }
+
+      }
+
+      .song {
+        display: flex;
+        align-items: center;
+
+        img {
+          width: 40px;
+          height: 40px;
+        }
+
+        .text {
+          h5 {
+            font-weight: normal;
+            color: #95897e;
+            font-size: 15px;
+            margin: 0;
+          }
+        }
+
+        i {
+          font-size: 25px;
+          color: #847878;
+        }
+
+        .up {
+          i {
+            color: white;
+          }
+
+        }
+      }
+
+      .song-options {
+        display: flex;
+        align-items: center;
+
+        i {
+          font-size: 25px;
+          color: #847878;
+        }
+
+        .down {
+          i {
+            color: white;
+          }
+        }
+      }
+    }
+  }
+
+  .nav-tabs {
+    border-bottom: none;
+  }
+
+  .nav-tabs .nav-link {
+    color: #fff;
+    width: 50%;
+
+    &:hover {
+      border-color: transparent;
+    }
+
+    &.active {
+      background-color: transparent;
+      border-color: transparent;
+      border-bottom: 1px solid #fff;
+    }
+  }
+
+  .tab-pane {
+    color: #fff;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar {
+    a {
+      font-size: 18px;
+    }
+  }
+  .fixed {
+    .song-footer {
+      flex-direction: column;
+
+      .song-play {
+        margin-bottom: 20px;
+      }
+
+      .song {
+        margin-bottom: 20px;
+      }
+
+    }
+  }
+
+}
+
+@media only screen and (max-width: 769px) {
+
+}
