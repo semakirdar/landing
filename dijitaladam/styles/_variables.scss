@@ -1,0 +1,10 @@
+$btn-border-radius: 0;
+$primary: #8deee3;
+
+//Bootstrap colors override
+$custom-colors: (
+        "primary": $primary,
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+//
