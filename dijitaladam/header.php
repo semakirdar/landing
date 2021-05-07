@@ -6,7 +6,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="plugins/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="plugins/OwlCarousel2/dist/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="plugins/OwlCarousel2/dist/assets/owl.theme.default.min.css" rel="stylesheet">
@@ -27,38 +27,15 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                           data-bs-toggle="dropdown" aria-expanded="false">
-                            KURUMSAL
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link " href="#">KURUMSAL</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                           data-bs-toggle="dropdown" aria-expanded="false">
-                            İŞ ORTAKLARIMIZ
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">İŞ ORTAKLARIMIZ</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                           data-bs-toggle="dropdown" aria-expanded="false">
-                            PROJELERİMİZ
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link " href="#">PROJELERİMİZ</a>
+
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -66,9 +43,13 @@
                             ÇÖZÜMLERİMİZ
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="#">Dijital Çözümler</a></li>
+                            <li><a class="dropdown-item" href="#">Belediye Çözümleri</a></li>
+                            <li><a class="dropdown-item" href="#">Eğitim Çözümleri</a></li>
+                            <li><a class="dropdown-item" href="#">IT Outsourcing</a></li>
+                            <li><a class="dropdown-item" href="#">NPS Çözümleri</a></li>
+                            <li><a class="dropdown-item" href="#">Augmented Reality</a></li>
+                            <li><a class="dropdown-item" href="#">Hologram Çözümleri</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -77,21 +58,14 @@
                             HABERLER
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="#">Haberler</a></li>
+                            <li><a class="dropdown-item" href="#">Başarı Hikayeleri</a></li>
+                            <li><a class="dropdown-item" href="#">Blog</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                           data-bs-toggle="dropdown" aria-expanded="false">
-                          İLETİŞİM
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">İLETİŞİM</a>
+
                     </li>
                 </ul>
             </div>

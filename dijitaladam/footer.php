@@ -26,16 +26,24 @@
         </div>
         <div class="social-icons">
             <div class="icon-item">
-                <img src="images/fb.png">
+                <a href="#">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
             </div>
             <div class="icon-item">
-                <img src="images/tw.png">
+                <a href="#">
+                    <i class="fab fa-twitter"></i>
+                </a>
             </div>
             <div class="icon-item">
-                <img src="images/in.png">
+                <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
             </div>
             <div class="icon-item">
-                <img src="images/yt.png">
+                <a href="#">
+                    <i class="fab fa-youtube"></i>
+                </a>
             </div>
 
         </div>
@@ -43,7 +51,7 @@
     </div>
 </footer>
 <script src="plugins/jquery/jquery-3.6.0.min.js"></script>
-<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="plugins/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script src="plugins/OwlCarousel2/dist/owl.carousel.min.js"></script>
 <script src="main.js"></script>
 </body>
