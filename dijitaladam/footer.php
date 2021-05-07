@@ -25,28 +25,36 @@
             </div>
         </div>
         <div class="social-icons">
-            <div class="icon-item">
-                <a href="#">
-                    <i class="fab fa-facebook-f"></i>
-                </a>
-            </div>
-            <div class="icon-item">
-                <a href="#">
-                    <i class="fab fa-twitter"></i>
-                </a>
-            </div>
-            <div class="icon-item">
-                <a href="#">
-                    <i class="fab fa-linkedin-in"></i>
-                </a>
-            </div>
-            <div class="icon-item">
-                <a href="#">
-                    <i class="fab fa-youtube"></i>
-                </a>
-            </div>
+            <a href="#">
+                <div class="icon-item">
 
+                        <i class="fab fa-facebook-f"></i>
+
+                </div>
+            </a>
+            <a href="#">
+                <div class="icon-item">
+
+                        <i class="fab fa-twitter"></i>
+
+                </div>
+            </a>
+            <a href="#">
+                <div class="icon-item">
+
+                        <i class="fab fa-linkedin-in"></i>
+
+                </div>
+            </a>
+            <a href="#">
+                <div class="icon-item">
+
+                        <i class="fab fa-youtube"></i>
+
+                </div>
+            </a>
         </div>
+
         <p class="text-center">Dijitaladam Bilgisayar Yazılım Reklam Özel Eğitim Danışmanlık LTD. ŞTİ. </p>
     </div>
 </footer>

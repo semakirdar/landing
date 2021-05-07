@@ -51,7 +51,10 @@
                     <div class="news-item">
                         <div class="card">
                             <div class="card-image text-center">
-                                <img src="images/newsPhoto.jpg">
+                                <div class="wrapper">
+                                    <img src="images/newsPhoto.jpg">
+                                </div>
+
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Dijitaladam'dan Balıkesirspor'a Tam Destek</h5>
@@ -75,7 +78,9 @@
                     <div class="news-item">
                         <div class="card">
                             <div class="card-image text-center">
-                                <img src="images/newsPhoto.jpg">
+                                <div class="wrapper">
+                                    <img src="images/newsPhoto.jpg">
+                                </div>
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Dijitaladam'dan Balıkesirspor'a Tam Destek</h5>
@@ -99,7 +104,9 @@
                     <div class="news-item">
                         <div class="card">
                             <div class="card-image text-center">
-                                <img src="images/newsPhoto.jpg">
+                                <div class="wrapper">
+                                    <img src="images/newsPhoto.jpg">
+                                </div>
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Dijitaladam'dan Balıkesirspor'a Tam Destek</h5>
@@ -177,23 +184,23 @@
                         <div class="col-sm-12 col-md-12 col-lg-2">
                             <div class="small-img">
                                 <img src="images/profilPicture.jpg">
-                                <div class="logo">
+                                <div class="logo shadow">
                                     <img src="images/clientLogo.png">
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-2">
-                            <div class="small-img">
+                            <div class="small-img ">
                                 <img src="images/profilPicture.jpg">
-                                <div class="logo">
+                                <div class="logo shadow">
                                     <img src="images/clientLogo.png">
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-4">
-                            <div class="big-img">
+                            <div class="big-img ">
                                 <img src="images/profilPicture.jpg">
-                                <div class="logo">
+                                <div class="logo shadow">
                                     <img src="images/clientLogo.png">
                                 </div>
                                 <h4>İlker Şahin</h4>
@@ -202,9 +209,9 @@
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-2">
-                            <div class="small-img">
+                            <div class="small-img ">
                                 <img src="images/profilPicture.jpg">
-                                <div class="logo">
+                                <div class="logo shadow">
                                     <img src="images/clientLogo.png">
                                 </div>
                             </div>
@@ -212,7 +219,7 @@
                         <div class="col-sm-12 col-md-12 col-lg-2">
                             <div class="small-img">
                                 <img src="images/profilPicture.jpg">
-                                <div class="logo">
+                                <div class="logo shadow">
                                     <img src="images/clientLogo.png">
                                 </div>
                             </div>
